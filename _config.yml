@@ -9,5 +9,5 @@ baseurl: "" # the subpath of your site, e.g. /blog
 # Build settings
 markdown: kramdown
 
-keep_files: vendor, status
+keep_files: [vendor, status]
 timezone: Europe/Berlin

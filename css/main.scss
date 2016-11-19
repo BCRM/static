@@ -1,0 +1,624 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import "sizes";
+@import "clearfix";
+@import "colors";
+@import "register";
+
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 160%;
+  color: $text;
+  text-align: left;
+  background: $bg url('../images/bg.png') no-repeat center top
+}
+
+a {
+  color: $link;
+  text-decoration: none;
+}
+
+a {
+  color: $link;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: $link_visited;
+}
+
+strong, b {
+  font-weight: 700;
+}
+
+/*  ***************************************************************
+    WRAPPER
+    ***************************************************************/
+.wrapper {
+  @extend .cf;
+}
+
+header {
+  width: 100%;
+  max-width: $maxWidth;
+  margin: 0 auto;
+}
+
+div.main {
+  width: 100%;
+  max-width: $maxWidth;
+  margin: 0 auto;
+  padding-bottom: 6.25em;
+}
+
+.push {
+  clear: left;
+  height: 24.875em;
+}
+
+/*  ***************************************************************
+    HEADER
+    ***************************************************************/
+
+/* Links */
+header {
+  nav {
+    a, a:visited {
+      color: $bg;
+    }
+    a:hover {
+      color: $anti_bg;
+    }
+  }
+}
+
+/*  Vertical Lines  */
+header {
+  hr {
+    display: none;
+  }
+}
+
+@media screen and (min-width: $maxWidth) {
+  header {
+    position: relative;
+    height: 180px;
+    margin-bottom: 40px;
+    hr {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 1px;
+      border-width: 0;
+      background-color: $bg;
+      height: auto;
+      margin: 0;
+      -moz-box-shadow: 2px 2px 4px $light_shadow;
+      -webkit-box-shadow: 2px 2px 4px $light_shadow;
+      box-shadow: 2px 2px 4px $light_shadow;
+    }
+    // Positions
+    hr:first-child {
+      left: 0;
+      display: none;
+    }
+    hr {
+      right: 25%;
+      display: block;
+    }
+    hr:last-child {
+      right: 0;
+      display: none;
+    }
+  }
+}
+
+@media screen and (min-width: ($maxWidth + 100)) {
+  header {
+    hr:first-child {
+      display: block;
+    }
+    hr:last-child {
+      display: block;
+    }
+  }
+}
+
+/* Logo */
+header {
+  h1 {
+    margin: 1em 5%;
+    font-size: 0.5em;
+    position: relative;
+    width: 90%;
+    max-width: 444px;
+    span {
+      text-shadow: 1px 1px 3px $dark_shadow;
+      font-weight: 700;
+      color: $bg;
+      text-transform: uppercase
+    }
+    span.location-date {
+      position: absolute;
+      left: 30%;
+      bottom: 0;
+      letter-spacing: 0.13em;
+    }
+    span.region {
+      position: absolute;
+      right: 1%;
+      top: 12%;
+    }
+    img {
+      width: 100%;
+    }
+  }
+}
+
+@media screen and (min-width: 300px) {
+  header {
+    h1 {
+      letter-spacing: 0.2em;
+    }
+  }
+}
+
+@media screen and (min-width: 400px) {
+  header {
+    h1 {
+      font-size: 0.75em;
+    }
+  }
+}
+
+@media screen and (min-width: 500px) {
+  header {
+    h1 {
+      font-size: 1em;
+    }
+  }
+}
+
+@media screen and (min-width: $maxWidth) {
+  header {
+    h1 {
+      margin: 0;
+      position: absolute;
+      left: 3.75em;
+      top: 2.125em;
+    }
+  }
+}
+
+@mixin hornav($bordercolor, $color) {
+  width: 100%;
+  border-top: 1px solid $bordercolor;
+  padding: 0.5em;
+  text-align: center;
+  a {
+    padding: 0 0.5em;
+    color: $color;
+    text-shadow: 1px 1px 2px #7F7F7F;
+    text-decoration: none;
+    letter-spacing: 0.0625em;
+    white-space: nowrap;
+  }
+  a:hover {
+    color: $bg;
+    font-weight: 700
+  }
+  a.active {
+    font-weight: 700
+  }
+}
+
+/*  Navigationen    */
+header {
+  nav {
+    @include hornav(rgba($bg, 0.75), $bg);
+  }
+}
+
+@media screen and (min-width: $maxWidth) {
+  header {
+    nav {
+      text-align: left;
+      position: absolute;
+      width: 10em;
+      top: 0.75em;
+      border: 0;
+      a {
+        display: block;
+        margin: 0;
+        padding: 0;
+        line-height: 1.85em;
+      }
+    }
+    nav.event {
+      //right: 16.75em;
+      right: 32%;
+      width: 7em;
+    }
+
+    nav.main {
+      right: 2em;
+    }
+  }
+}
+
+/*  ***************************************************************
+    MAIN CONTENT
+    ***************************************************************/
+
+/*  Visual   */
+.visual {
+  -moz-box-shadow: 2px 2px 4px #7F7F7F;
+  -webkit-box-shadow: 2px 2px 4px #7F7F7F;
+  box-shadow: 2px 2px 4px #7F7F7F;
+}
+
+/*  Spalten */
+div.main {
+  article {
+    padding: 0 1em;
+  }
+  aside {
+    nav {
+      @include hornav(rgba($bg, 0.75), rgba(invert($bg), 0.75));
+      margin-bottom: 1.5em;
+    }
+    .twitter-timeline {
+      display: none;
+    }
+  }
+
+}
+
+@media screen and (min-width: $maxContentWidth) {
+  div.main {
+    article {
+      padding: 0 2em;
+      float: left;
+      width: 75%;
+      margin-top: 2.75em;
+    }
+    aside {
+      float: right;
+      width: 25%;
+      margin-top: 2.75em;
+      padding: 0.5 0;
+      .twitter-timeline {
+        display: block;
+      }
+    }
+    .visual {
+      padding-top: 36.3636363636%;
+    }
+    .visual.slider {
+      padding-top: 0;
+    }
+  }
+}
+
+/* Navigation in Content */
+@media screen and (min-width: $maxContentWidth) {
+  div.main {
+    aside {
+      nav {
+        text-align: left;
+        border-top: 1px solid #000;
+        border-bottom: 1px solid #000;
+        padding: 1.75em 0;
+        a {
+          margin: .25em 0;
+          padding: 0;
+          color: #000;
+          display: block;
+          text-shadow: none;
+        }
+        a:hover {
+          color: #E52479;
+        }
+      }
+    }
+  }
+}
+
+/*  Textauszeichnungen  */
+article {
+  h1 {
+    font-weight: 300;
+    font-size: 45px;
+    font-size: 2.5rem;
+    line-height: 1.155555555555556em;
+    letter-spacing: 1px;
+    color:$color_a;
+  }
+  img[src^="/images/team/"] {
+    float: right;
+    margin-left: 1em;
+    max-width: 150px;
+    width: 20%;
+  }
+}
+
+article > h1 {
+  margin-top: 0;
+}
+
+div.main {
+  article {
+    h2{
+      font-size:1.5rem;
+    }
+    h2, h3, h4, h5, h3 {
+      font-weight: 400;
+      color:$color_a;
+    }
+    h2 + ul, h3 + ul {
+      margin-top: -1em;
+    }
+    ul {
+      padding-left: 1.5em;
+    }
+  }
+}
+
+.col.c-main strong,
+.col.c-main b {
+  color: #000;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.small {
+  line-height: 125%;
+  font-size: 0.875em;
+}
+
+/*  Content-Module  */
+blockquote {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  margin: 2em 0;
+  padding: .5em 0
+}
+
+/*  Formulare       */
+::-webkit-input-placeholder {
+  color: $bg;
+  font-style: italic
+}
+
+:-moz-placeholder {
+  color: $bg;
+  opacity: 1;
+  font-style: italic
+}
+
+::-moz-placeholder {
+  color: $bg;
+  opacity: 1;
+  font-style: italic
+}
+
+:-ms-input-placeholder {
+  color: $bg;
+  font-style: italic
+}
+
+.button {
+  text-align: left;
+  font-family: 'Ubuntu';
+  font-size: 16px;
+  font-size: 1rem;
+  color: $bg;
+  padding: 0 24px 0 20px;
+  height: 50px;
+  border: none;
+  position: relative;
+  background-color: $link;
+  background-image: -webkit-gradient(radial, color-stop(0.01, rgb(255, 136, 0)), color-stop(0.99, rgb(255, 224, 0)));
+  background-image: -webkit-radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
+  background-image: -moz-radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
+  background-image: -ms-radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
+  background-image: radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Style=2)";
+  filter: progid:DXImageTransform.Microsoft.Alpha(Style=2);
+  width: 200px;
+  display: inline-block;
+  .arrow {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    margin-top: -15px;
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: transparent url('../images/bx_controls.png') no-repeat -30px -30px;
+  }
+}
+
+.button:hover {
+  .arrow {
+    background-position: -30px 0;
+  }
+}
+
+a.button {
+  text-decoration: none;
+  color: #fff;
+  line-height: 50px;
+}
+
+a.button:visited {
+  color: #fff;
+}
+
+form {
+  @extend .cf;
+  margin-bottom: 1.75em;
+
+  fieldset {
+    margin-top: 1.75em;
+    position: relative;
+    border: 0;
+  }
+  fieldset:first-child {
+    margin-top: 0;
+  }
+
+  input[type=text], input[type=email] {
+    width: 100%;
+    border: none;
+    color: $bg;
+    background-color: invert($bg);
+    font: normal 1rem 'Ubuntu', sans-serif;
+    height: 50px;
+    padding: .7em 1.25em .5em;
+    -webkit-appearance: none;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  button {
+    @extend .button;
+    float: right;
+  }
+
+  fieldset.input-with-button {
+    @extend .cf;
+
+    input {
+      width: 100%;
+    }
+    label {
+      display: none;
+    }
+  }
+
+  label.checkbox {
+    margin-top: 1.75em;
+    input[type=checkbox] {
+      display: none;
+    }
+    span {
+      background-color: invert($bg);
+      float: left;
+      width: 25px;
+      height: 25px;
+      position: relative;
+      margin: 0 10px 0 0;
+    }
+    input[type=checkbox]:checked + span {
+      background: invert($bg) url('../images/checkbox.png') no-repeat center center;
+    }
+  }
+  label.radio {
+    display: block;
+  }
+  div {
+    margin-top: 1em;
+  }
+  div:first-child {
+    margin: 0;
+  }
+  ul.errors {
+    color: #fa0000;
+    list-style: none;
+    font-size: 0.875em;
+    font-weight: bold;
+  }
+}
+
+@media screen and (min-width: 550px) {
+  form {
+    fieldset.input-with-button {
+      button {
+        float: left;
+        width: 26%;
+      }
+      input {
+        float: left;
+        width: 74%;
+      }
+    }
+  }
+}
+
+/*  ***************************************************************
+    FOOTER
+    ***************************************************************/
+
+footer {
+  margin-top: 10em;
+  min-height: 24.875em;
+  background: $footer url('../images/bg_footer.jpg') no-repeat center top;
+  h2 {
+    color: $bg;
+    /*text-shadow: 1px 1px 2px #7F7F7F;*/
+    font-size: 1em;
+    font-weight: 400;
+  }
+  .inner-wrap {
+    width: 100%;
+    max-width: $maxWidth;
+    margin: 0 auto;
+    padding: 1em;
+  }
+  #sponsors {
+    width: 100%;
+    ul {
+      list-style: none;
+      li {
+        float: left;
+        margin: 0;
+        padding: 0;
+        width: floor(99%/7);
+        min-width: 80px;
+        max-width: 126px;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        a {
+          img {
+            width: 100%;
+          }
+          img[src$=".svg"] {
+            padding: 10px;
+            max-height: 50px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $maxContentWidth) {
+  footer {
+    .inner-wrap {
+      padding: 2em;
+    }
+  }
+}
+
+@import "responsive";

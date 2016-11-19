@@ -1,0 +1,9 @@
+---
+layout: blank
+---
+
+<ul>
+    {% for slide in site.data.slides %}
+    <li><img src="/images/slider/{{ slide.image }}" alt="{{ slide.title }}"/></li>
+    {% endfor %}
+</ul>

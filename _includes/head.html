@@ -1,3 +1,9 @@
+<!DOCTYPE html><!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+{% assign barcamp = site.data.barcamps[site.barcamp] %}
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -5,26 +11,26 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <title>{{ site.title }} | {{ site.location.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+  <title>{{ site.title }} | {{ barcamp.title }}</title>
+  <meta name="description" content="{{ barcamp.description }}">
   <meta name="viewport" content="width=device-width">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@bc_rm">
-  <meta name="twitter:title" content="{{ site.title }} | {{ site.location.title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:title" content="{{ site.title }} | {{ barcamp.title }}">
+  <meta name="twitter:description" content="{{ barcamp.description }}">
   <meta name="twitter:image:src" content="{{ site.url }}/images/bcrm.jpg">
 
   <meta property="og:type" content="event">
-  <meta property="event:start_time" content="{{ site.location.start }}">
-  <meta property="event:end_time" content="{{ site.location.end }}">
+  <meta property="event:start_time" content="{{ barcamp.start }}">
+  <meta property="event:end_time" content="{{ barcamp.end }}">
   <meta property="og:url" content="{{ site.url }}">
-  <meta property="og:title" content="{{ site.title }} | {{ site.location.title }}">
-  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:title" content="{{ site.title }} | {{ barcamp.title }}">
+  <meta property="og:description" content="{{ barcamp.description }}">
   <meta property="og:image" content="{{ site.url }}/images/bcrm.jpg">
   <meta property="event:creator" content="233370660009977">
-  <meta property="event:location:latitude" content="{{ site.location.latitude }}">
-  <meta property="event:location:longitude" content="{{ site.location.longitude }}">
+  <meta property="event:location:latitude" content="{{ barcamp.latitude }}">
+  <meta property="event:location:longitude" content="{{ barcamp.longitude }}">
 
   <!-- favicons, generated with http://www.favicomatic.com/ -->
   <link rel="shortcut icon" href="{{ "/images/favicons/favicon.ico" | prepend: site.baseurl }}"/>
@@ -41,7 +47,7 @@
   <link rel="icon" type="image/png" href="{{ "/images/favicons/favicon-32x32.png" | prepend: site.baseurl }}" sizes="32x32"/>
   <link rel="icon" type="image/png" href="{{ "/images/favicons/favicon-16x16.png" | prepend: site.baseurl }}" sizes="16x16"/>
   <link rel="icon" type="image/png" href="{{ "/images/favicons/favicon-128.png" | prepend: site.baseurl }}" sizes="128x128"/>
-  <meta name="application-name" content="{{ site.title }} | {{ site.location.title }}"/>
+  <meta name="application-name" content="{{ site.title }} | {{ barcamp.title }}"/>
   <meta name="msapplication-TileColor" content="#FFFFFF"/>
   <meta name="msapplication-TileImage" content="{{ "/images/favicons/mstile-144x144.png" | prepend: site.baseurl }}"/>
   <meta name="msapplication-square70x70logo" content="{{ "/images/favicons/mstile-70x70.png" | prepend: site.baseurl }}"/>

@@ -2,6 +2,8 @@
 
 var Stats = function (parent) {
 
+    var barcampId = parent.data('barcampid');
+
     $('<div id="stats-checkin" style="height: 350px; width: 100%;"></div>').appendTo(parent);
     $('<div id="stats-checkin-hour" style="height: 350px; width: 100%;"></div>').appendTo(parent);
     $('<div id="stats-noshows" style="height: 350px; width: 100%;"></div>').appendTo(parent);
@@ -13,7 +15,7 @@ var Stats = function (parent) {
     // Fetch checkin stats
     function updateCheckinStats() {
         $.ajax({
-            url: '/stats/stats.json',
+            url: '/stats/' + barcampId + '.json',
             method: 'GET',
             success: function (response) {
                 // Checkin

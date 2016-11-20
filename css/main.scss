@@ -6,7 +6,6 @@
 @import "sizes";
 @import "clearfix";
 @import "colors";
-@import "register";
 
 * {
   box-sizing: border-box;
@@ -619,6 +618,15 @@ footer {
       padding: 2em;
     }
   }
+}
+
+
+.history-warning {
+  border: 1px solid #fa0;
+  border-radius: 10px;
+  padding: 0.25rem 0.75rem;
+  background-color: rgba(255, 170, 0, 0.37);
+  margin-bottom: 1rem;
 }
 
 @import "responsive";

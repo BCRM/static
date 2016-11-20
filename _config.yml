@@ -1,13 +1,5 @@
 title: BarCamp RheinMain
-location:
-  title: Wiesbaden 19.+20.11.2016
-  latitude: 50.096092
-  longitude: 8.215961
-  start: 2016-11-19T08:30:00+01:00
-  end: 2016-11-20T08:15:00+01:00
-description: >
-  Das nächste BarCamp RheinMain findet am 19./20.11.2016 
-  am MedienCampus der FH Wiesbaden statt.
+barcamp: 2016
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://static.barcamp-rheinmain.de
 

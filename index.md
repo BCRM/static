@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Was ist das?
+slider: true
 ---
 
 # Was ist denn ein BarCamp?

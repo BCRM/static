@@ -1,673 +1,1119 @@
-- name: Achim Domma
-  twitter: "@achimdomma"
-  tags: "#gesellschaft #python #opensource"
-- name: Adrian Yass
-  twitter: "@dfgzwei"
-  tags: "#medien #hochschule #fernsehen"
-- name: Alex Schnapper
-  twitter: "@alexschnapper"
-  tags: "#Android #RaspberryPi #42"
-- name: Alex Wenz
-  twitter: "@AlexanderWenz"
-  tags: "#webdev #tec #sports"
-- name: Alexander Gräsel
-  twitter: "@konferenzGuide"
-  tags: "#Fotografie #Hacker #LostPlaces"
-- name: Alexander Künzl
-  tags: "#typo3 #php #l18n"
-- name: Alexander Mereien
-  twitter: "@aMereien"
-  tags: "#projektmanagemt #stakeholder-kommunikation #projektmarketing"
-- name: Alexander Talmon
-  twitter: "@atalmon"
-  tags: "#hs-rm #medienrecht #canvanizer"
-- name: Alina Hochhold
-  tags: "#Design #UX #Fitness"
-- name: Andrea Breuer
-  twitter: "@DanaresY"
-  tags: "#weltliteratur #straßenpoesie #kulturarbeit"
-- name: Andrea Sandau
-  tags: "#design, #ui, #digital"
-- name: Andreas Irmer
-  twitter: "@andreasirmer"
-  tags: "#powergespraeche #wehrhaftedemokraten67 #lebendigeswissen"
-- name: andreas rensch
-  twitter: arensch
-- name: Andreas Rother
-  twitter: "@fischkippe"
-  tags: "#webvideo #socialmedia #medienkonvergenz"
-- name: Andreas Söntgerath
-  twitter: "@schwarzwildinfo"
-  tags: "#wildsau #gründer #digitaleKommunikation"
-- name: Andreas Sutor
-  twitter: "@sutorinfo"
-  tags: "#Opensource #Webanwendungen #Fotografie"
-- name: Angelika Oberste-Berghaus
-  tags: "#UX #SocialMedia #UI"
-- name: Anja Theisen
-  tags: "Projektmanagement agil Lean"
-- name: Anja Widera
-  twitter: "@blubberiblubb"
-  tags: "#Häkeln #Zauberwürfel #Frankfurt"
-- name: Anna Domascan
-  twitter: "@domascan"
-  tags: "#neugierig #womeninit #erstesmal"
-- name: Anna Kern
-  tags: "#hühner"
-- name: Anna-Lena Alt
-  tags: "#hochzeitsplanung #socialmedia #netflixandchill"
-- name: Antje Krause
-  twitter: "@akkrause"
-  tags: "#Lehre #Bioinformatik #Hochschule"
-- name: Antonia Jennewein
-  tags: "#Kommunikation #LEGO® SERIOUS PLAY #Konfliktmanagement"
-- name: Arnim Dahlen
-  tags: "Kommunikation - Unternehmenskultur - Stadtkultur"
-- name: Arno Klein
-  twitter: "@arnoklein"
-  tags: "#scrum #software"
-- name: Astrid Fischer
-  twitter: "@aif"
-  tags: "#UX #IA #Reisen"
-- name: Axel Bock
-  twitter: "@the_me"
-  tags: "#shopping #icecream"
-- name: Axel Wenderoth
-  tags: "#digitalisierung #sozialearbeit #mitarbeiterapp"
-- name: Barbara Krekeler
-  twitter: diephotographin
-  tags: "#mompreneur #vernetzung #kreativitaet"
-- name: Benjamin Arnold
-  tags: "#IoT #Rails #Pen&amp;Paper"
-- name: Benjamin Tales
-  twitter: "@notoriousBNG"
-  tags: "#SocialMedia #SocialService #WasKannDerBot?"
-- name: Benjamin-Timm Broich
-  twitter: "@launchwerk"
-  tags: "#web #tech #development"
-- name: Bernhard Seubert
-  tags: "#systemtest #rudern #familie"
-- name: Bettina Schmidt
-  twitter: "@Aquasystem2011"
-  tags: "#Unternehmenskommunikation #Köln #Wandern"
-- name: Björn Wibben
-  twitter: "@vimrheinmain"
-  tags: "#vim #frontend #audio"
-- name: Carolin Gumm
-  tags: "#UX #digital #design"
-- name: Carsten Blau
-  twitter: "@abluesbrother"
-  tags: "#digitaltransformation #digitaltechnology #startup"
-- name: Carsten Fischer
-  twitter: yetanotherfish
-  tags: "#ux #ixd #mobile"
-- name: Carsten Kobisch
-  twitter: "@ck1608"
-  tags: "#php #javascript #gadgets"
-- name: Carsten Sandtner
-  twitter: "@casarock"
-  tags: "#irgendwas #mit #web"
-- name: Charlotte Thürwächter
-  twitter: "@thuerwaechter"
-  tags: "#ConversaionalCommerce #MixedReality"
-- name: Chris. Henry H.
-  twitter: "@chrishenryh"
-  tags: "#startups #usability #design"
-- name: Christa Goede
-  twitter: "@christagoede"
-  tags: "#Text #Websites #SocialMedia"
-- name: Christian Hans
-  twitter: "@lelei"
-  tags: "#bbq #nfl #eskalation"
-- name: Christian Henry Haink
-  twitter: "@chrishenryh"
-  tags: "#UX #IoT #Design"
-- name: Christian Marx
-  twitter: "@chris_h_marx"
-  tags: "#IT #Medien #Politik"
-- name: Christian Schachmann
-- name: Christine Contreras
-  twitter: "@contrec"
-  tags: "#Europe #Finance #Intranet"
-- name: Cindy
-  twitter: "@piranhapudel"
-  tags: "#literatur #digitalhumanities #bunt"
-- name: claudia_kuller
-  tags: "#CustomerExperience #HoloLens"
-- name: Dagmar Reuber
-  tags: "#future #green #europe"
-- name: Daniel
-  twitter: "@zohmi"
-  tags: "#magento #php #agile"
-- name: Daniel Geßler
-  twitter: "@readactor"
-- name: Daniel Räder
-  tags: "#agil #projektmanagement #kommunikation"
-- name: das A&amp;O
-  twitter: "@blauschrift"
-- name: David Wasser
-  twitter: "@dwass"
-  tags: "#android #steampunk #apps"
-- name: Diana
-  twitter: "@weydenkaetzchen"
-  tags: "#Banales #SoMM"
-- name: Diana Schwarz
-- name: Diana Weschke
-  tags: "#ux #concept #informationarchitecture"
-- name: Dominik Hofmann
-  twitter: "@heimathafenWI"
-  tags: "#Coworking #CorporateEntrepreneurship #CommunityBuilding"
-- name: Dorothea Winterling
-  twitter: "@winter_acomite"
-  tags: "#a11y #i18n #text"
-- name: E R I K
-  twitter: "@DerExperte"
-  tags: "#Twitter #barcamps #Film"
-- name: Ekaterina
-  twitter: "@transperanto"
-  tags: "#kommunikation #elearning"
-- name: Elias Henrich
-  twitter: "@ElKroketto"
-  tags: "#springBoot #fullStackWeb #logistics"
-- name: Elisabeth Heinemann
-  twitter: "@frau_professor"
-  tags: "#mobile #socialmedia #digitalsociety"
-- name: Elisabeth Pine
-  twitter: "@ElisabethPineDE"
-  tags: "#Gewohnheiten #Leidenschaften #Coaching"
-- name: Elisabeth Riehle
-  twitter: "@ellirhl"
-  tags: "#onkomm #socialmedia #onlinemarketing"
-- name: Elise Crespin-Borup
-  twitter: "@E_crespin"
-  tags: "#visualthinking#"
-- name: Elmar Schwarzl
-  twitter: "@veitclub"
-  tags: "#Marketing #Analytics #FinTech"
-- name: Emelie Wenderoth
-  tags: "#mode #aupair #newyork"
-- name: Erik Donner
-  twitter: "@erik_donner"
-  tags: "#Webtechnik #Netzpolitik #SocialMedia"
-- name: Eva Aust
-  twitter: "@8filouna8"
-  tags: "#Bauingenieurwesen #Meer #Serien"
-- name: Fabian Hackethal
-  twitter: "@Fabian_Hah"
-  tags: "#UXDESIGN #CONTENT #TECHNOLOGIE"
-- name: Falk Schmidt
-  twitter: "@falkschmidt"
-  tags: "#Events #ArtOfHosting #Projects"
-- name: Farbenfreundin
-  twitter: "@farbenfreundin"
-  tags: "#blogger #happyblog"
-- name: Ferdi
-  twitter: "@ftottheerdi"
-  tags: "#conversion #usability #testing"
-- name: Florian Brandhoff
-  twitter: "@fbrandhoff"
-  tags: "#kmu #digitalisierung #zukunft"
-- name: Florian Hofmann
-  twitter: "@debbieundflo"
-  tags: "#lean #startup"
-- name: Frank Hamm
-  twitter: "@fwhamm"
-  tags: "#collaboration #wandern #hawaii"
-- name: Frank Zinner
-  twitter: "@FrankZinner"
-  tags: "#social #computer #programming"
-- name: Franziska Enke
-  twitter: "@franziska_enke"
-  tags: "#content#socialmedia"
-- name: fritz ehlers
-  twitter: fritzehlers2
-  tags: "#disruption, #maker,  #creativity"
-- name: Gabriele Gissler
-  tags: "#userexperience #interactiondesign #businesssoftware"
-- name: Gaby Becker
-  twitter: "@android_oma"
-  tags: "#Drupal, #Android, #Bahnhofsfotos"
-- name: Georgios Katsiakoudis
-  twitter: "@katsiak"
-  tags: "#webstandards #usability #accessibility"
-- name: Gerhard Trefzer
-  tags: "#Biken #Legotechnik #Elektrizität"
-- name: Gisela Blaas
-  twitter: "@comsensepr"
-  tags: "#pr #kommunikation"
-- name: Göke Frerichs
-  twitter: "@gmfmedien"
-  tags: "#digital #web #innovation"
-- name: Gudrun Traumann
-  twitter: "@GudrunDT"
-  tags: "#Vertrieb #socialselling #Verkaufstraining"
-- name: Guido Schuh
-  twitter: "@moolder"
-  tags: "#IoT #UI #Anwendungslandschaften"
-- name: heiko reitzammer
-  twitter: "@hr"
-- name: Helga Schulze
-- name: Herbert Lang
-  twitter: "@He_La_Fra"
-  tags: "#hessen #tourismus #marketing"
-- name: Hubert Richardt
-  twitter: Mauersberger_Wi
-  tags: "#Handwerk #Maketing  #SocialMedia"
-- name: Ines Feindt
-  tags: "#Test"
-- name: Inge Lederer-Brüchner
-  twitter: "@gingerinjes"
-  tags: "#diy #creativity #script"
-- name: Ingmar Drewing
-  twitter: "@ingmardtewing"
-  tags: "#graphicnovels #drawing #storytelling"
-- name: Irmela Ketelhut
-  twitter: "@_iket"
-  tags: "#ecommerce #Projektmanagement #employerbranding"
-- name: Isabell Handke
-  twitter: "@IsaHa2010"
-  tags: "#socialmedia #businesscollaboration #contentmarketing"
-- name: Jan Deppisch
-  twitter: "@netzartist"
-  tags: "#web #frontend #8bit"
-- name: Jan Ramroth
-  tags: "#wordpress #fotografie #design"
-- name: Jan Unger
-  twitter: "@juitde"
-  tags: "#softwareentwicklung #php #javascript"
-- name: Janine Ernst
-  tags: "#blogger #dreimalanders #healthyfood"
-- name: Jasmin Collet
-  twitter: "@mienchenblog"
-  tags: "#Blogger #Coach #DIY"
-- name: Jens Bothmer
-  twitter: "@JensBothmer"
-  tags: "#designthinking #bmgen #confluence"
-- name: Joachim Schirrmacher
-  twitter: "@jschirrmacher"
-  tags: "#lean #startup #demokratie"
-- name: Jochen Bachmann
-  twitter: "@calibanatspace"
-- name: Johannes Gerlach
-  twitter: "@meedial"
-  tags: "Innovation, Tech, Social Responsibility"
-- name: Jonas Stallmeister
-  twitter: "@stallmeister"
-  tags: "#usability #basketball #cooking"
-- name: Jonathan Schikowski
-  twitter: "@schikowski"
-  tags: "#seo #startups #strategie"
-- name: Judith Grommes
-  twitter: "@JudithGrommes"
-  tags: "#socialmedia #snapchat #socialselling"
-- name: Juergen Eichholz
-  twitter: "@jke"
-  tags: "#wash #c2c #diwo"
-- name: Julia Anna Moor
-  twitter: "@moor_jul"
-  tags: "#journalismus #bots #storytelling"
-- name: Julia Schönborn
-  twitter: "@junaimnetz"
-  tags: "#kommunikation #flauschundliebe #karmajob"
-- name: Julian Rudolf
-  twitter: "@juru140"
-  tags: "#Kommunikation #CSR"
-- name: Juliane Benad
-  twitter: "@JulianeBenad"
-  tags: "#SocialMedia #Instagram #Podcasts"
-- name: Juliane Dünow
-  twitter: "@JuleD61772013"
-- name: Karl Schmitt
-  twitter: "@KarlSchmitt"
-- name: Katharina Schmidt
-  tags: "#sprachen#netzwerken #seminare"
-- name: Katja Abrams
-  twitter: "@converse_fee"
-  tags: "#design #innovation #digital"
-- name: Kerstin
-  twitter: "@eleonore383"
-  tags: "#film #ausbilden #backen"
-- name: Kirsten Hagedorn
-  twitter: "@khgdrn"
-  tags: "#hiking #bahnhofsfoto"
-- name: Klaus Heidemann
-  twitter: "@ZukunftswsKMU"
-  tags: "#Arbeitgeberattraktivität #ChangeManagement"
-- name: Korbinian Böck
-  twitter: "@KorBoeck"
-  tags: "#musesocial, #DigSMus, #musetech"
-- name: Kristina Friedrich
-  twitter: "@tineko42"
-- name: Lars Geisel
-  twitter: "@LarsGeisel"
-  tags: "#Innovation #Agile #Products"
-- name: Lena Neumann
-  twitter: "@le_neu"
-  tags: "#socialmedia #storytelling #contentmarketing"
-- name: Lisa Hummel
-- name: Lisa Tihanyi
-  twitter: "@meinfeenstaub"
-  tags: "#bloggen #diy #pugs"
-- name: Lukas Hück
-  twitter: "@luhuec"
-  tags: "#computerscience #web"
-- name: Lukas Rosenstock
-  twitter: "@LukasRosenstock"
-  tags: "#php #apis #devrel"
-- name: Magdalena Hartmann
-  twitter: "@eightfingerfood"
-  tags: "#food #realestate #fundraising"
-- name: Maida Svraka
-  tags: "#ux #mobile"
-- name: Maja Wibben
-  tags: "#Grafikdesign #Print #Web"
-- name: Manuela Seubert
-  twitter: "@ManuelaSeubert"
-  tags: "#Kommunikation #Analyse #BayrischesHerz"
-- name: Marc
-  twitter: "@nochsoeiner"
-  tags: "#timelapseFFM #HalloFrankfurt"
-- name: Marc Becker
-  twitter: "@Bit_Pirate"
-  tags: "#DevOps #Sysadmin #Automation"
-- name: Marcel
-  twitter: "@Coding_R4c00n"
-  tags: "#coding #tea #food"
-- name: Marcel Linnenfelser
-  twitter: "@macmillancodes"
-  tags: "#webtech #agile #startup"
-- name: Marco Bereth
-  twitter: "@mahrko"
-  tags: "#Fotografie #Reise #WasMitMedien"
-- name: Marcus Wenig
-  twitter: "@marcuswenig"
-  tags: "#mobilität #kochen #startup"
-- name: Markus Kölsch
-  twitter: "@markusmainz"
-  tags: "#Communication #Mainz #Mosel"
-- name: Markus Schaarschmidt
-  twitter: "@zfundbuero"
-  tags: "#findtech #startupstuff #startup"
-- name: Markus Tacker
-  twitter: "@coderbyheart"
-  tags: "#softwarecraftsmanship #futureofwork #remote"
-- name: Marlene Etschmann
-  twitter: "@ACHEMAworldwide"
-  tags: "#messe #wissenschaft #chemie"
-- name: Martin Juhasz
-  twitter: "@martinjuhasz"
-  tags: "#developer #maker #RH_Way"
-- name: Martin Kraft
-  twitter: "@martin_kraft"
-  tags: "#Infographics #Photography #Wikipedia"
-- name: Martina Kraus
-  twitter: "@wing121"
-  tags: "#javascript #science #psychology"
-- name: Matthias Goscinski
-  twitter: "@matthiasjg"
-  tags: "#UX #Art #Design"
-- name: Matthias Gutjahr
-  twitter: "@mattsches"
-  tags: "#php #dies #das"
-- name: Max Trense
-  twitter: "@mtrense"
-  tags: "#development #mobile"
-- name: Mayumi Genda
-- name: Michael Binzen
-  twitter: "@mibi61"
-  tags: "#opendata #AI #innovation"
-- name: Michael Buchner
-  twitter: "@mikebuchner"
-  tags: "#socialmedia #clever365 #couponing"
-- name: Michael Ibsen
-  twitter: "@merlanura"
-  tags: "#iot #bots #maker"
-- name: Michael Möller
-  twitter: "@MikeMoe"
-  tags: "#ux #learnnewthings #discoverfrankfurt"
-- name: Michaela D. Brauburger
-  tags: "#digitalebildung #datenschutz #making"
-- name: Mikka Luster
-  twitter: "@legerdemain"
-  tags: "#medic #hiker #nerd"
-- name: Milena Gilles
-  tags: "#pm #qm #responsive"
-- name: Moritz Möller
-  twitter: "@mrtz_mllr"
-  tags: "#frontend #backend #mobile"
-- name: Müller Nelli
-- name: Nicola Appel
-  twitter: "@nicolaappel"
-  tags: "#community #elearning #barcamp"
-- name: Nicole Fritz
-  tags: "#Tauchen #FrontendEntwicklung #Fotografie"
-- name: Nikolai Gulatz
-  twitter: "@launchwerk"
-  tags: "#ruby #javascript #web-development"
-- name: Nina Höhler
-  twitter: "@NinaHhlr"
-  tags: "#onkomm #zweierleibrei #projektmanagement"
-- name: Nina Rottig
-  twitter: "@doguna"
-  tags: "#blog #hunde #nähen"
-- name: Nina Stienen
-  tags: "#onlinemarketing #seo #contentmanagement"
-- name: Norbert Gilles
-  twitter: "@norbertgilles"
-  tags: "#Beratung #UX #Limbic"
-- name: NXPERT, Annemarie Lohn
-  twitter: "@nxpert1"
-- name: NXPERT, Ursula Klaus-Müller
-  twitter: "@nxpert1"
-- name: Olaf Kosinsky
-- name: Olga Zachariants
-  twitter: "@ol_zach"
-  tags: "#bigdata #contentmarketing"
-- name: Oliver Haferbeck
-  twitter: "@timpact."
-  tags: "#auftritt #präsentation #kernbotschaften"
-- name: Oliver Maniyar
-  tags: "#socialmediamarketing"
-- name: Oliver Schopp
-  twitter: "@schoppstar"
-  tags: "#startups #sales #reisen"
-- name: Oliver Wege
-  tags: "#startup #businessdevelopement"
-- name: Oliver Wolfert
-  twitter: "@oliverwolfert"
-- name: Pascal Menger
-  tags: "#Projektmanagement #Agile #ECommerce"
-- name: Patrick Lerner
-  twitter: "@launchwerk"
-  tags: "#ruby #rails #web-development"
-- name: Patrick von der Heyde
-  twitter: "@pazvdh"
-- name: Percy Walther
-  twitter: "@HerrWalther"
-  tags: "#Bastler, #Wissenschaft, #Philosophie"
-- name: Peter Brunner
-  twitter: "@s_p_brunner"
-  tags: "#Buechnerland #DiesseitsDesLimes #BluesErzaehlt"
-- name: Peter Eulberg
-  twitter: "@peulberg"
-  tags: "#businessangel #entrepreneur"
-- name: Peter Winninger
-  twitter: "@p_winninger"
-  tags: "#SocialMedia #Wandern #eGov"
-- name: Petra H. aus F.
-  twitter: "@pehe_de"
-  tags: "#Personal #Fotografie #Kochen"
-- name: Philine Sander
-- name: Philipp Burckhardt
-  twitter: "@j2creation"
-  tags: "#innovation #designthinking #motorrad"
-- name: Philipp de la Haye
-  twitter: "@philippdelahaye"
-  tags: "#onlinemarketing #innovation #querdenken"
-- name: Pia Lamberty
-  twitter: "@_pietz_"
-  tags: "#psychologie #wissenschaft #verschwörungen"
-- name: Pia Steinbauer
-  twitter: "@piasteinbazer"
-  tags: "#wordpress #storytelling #rheinhessen"
-- name: Pierre Kerchner
-  twitter: "@pkerchner"
-  tags: "#Display_Advertising, #Ad_Performance, #ad_Roi"
-- name: Raffael Filips
-  tags: "#Skateboard #Sport #AI"
-- name: Ralf Rittersberger
-  twitter: "@rittersberger"
-- name: Rebecca Klein
-  twitter: "@beccslash"
-  tags: "#Texten #Digitales #Reisen"
-- name: Renate Hermanns
-  twitter: "@renaade"
-  tags: "#WordPress #Konzeption #Workshops"
-- name: Renate Welkenbach
-  twitter: "@NeosLove"
-  tags: "#DMWde #design #networking"
-- name: Reto M. Kiefer
-  twitter: "@retokiefer"
-  tags: "#mobile #agile #development"
-- name: Robert Kilian
-  twitter: "@launchwerk"
-  tags: "#ruby #rails #web-development"
-- name: Roland Judas
-  twitter: "@rolandjudas"
-  tags: "#Digitalisierung #CulturalChange #HealthTech"
-- name: Sabrina Schaake
-  twitter: "@Sabrini_S"
-  tags: "#digitallife #brandlove #storytelling"
-- name: Sahra Ewings
-  twitter: "@sahra415"
-  tags: "#SocialMedia #Krisenkommunikation #Reisen"
-- name: Sara El Carrouchi
-  tags: "#blogger #dreimalanders #babyeckchen"
-- name: Sascha Göbel
-  twitter: "@dasilentstorm"
-  tags: "#react #data"
-- name: Sascha Stoltenow
-  twitter: "@BendlerBlogger"
-  tags: "#trump #clinton #obama"
-- name: Sebastian Gleichsner
-  twitter: "@GL"
-  tags: "#hessentourismus"
-- name: Silke Gutjahr
-  twitter: "@paulinepauline"
-  tags: "#sitzen #krabbeln #laufen"
-- name: Silke Vogel
-  twitter: "@imago_art"
-  tags: "#Travel #Gold #Design"
-- name: Simon Bräuer
-  twitter: "@redshark1802"
-  tags: "#developer #gamer #hacker"
-- name: Simon Brüchner
-  twitter: "@powtac"
-- name: Simone Wieland
-  twitter: "@simonewieland"
-  tags: "#communication #agile #surfacesthattouch"
-- name: Söntgerath
-  twitter: "@schwarzwildinfo"
-  tags: "#wildsau #gründer #digitaleKommunikation"
-- name: Sophia M. Wächtersbach
-  tags: "#Vernetzung, #Blog, #Hausbau"
-- name: Stefan Husch
-  twitter: "@qutic"
-  tags: "#hosting #security #privacy"
-- name: Stefan Kilp
-  twitter: "@stekida"
-  tags: "#php #tellerrand #kunst"
-- name: Stefan Opitz
-  twitter: "@stefanopitz"
-  tags: "#Kommunalpolitik #Innovation #Mobility"
-- name: Stefan Pauly
-  twitter: "@stefanpauly"
-  tags: "#infosec #doctorwho #golang"
-- name: Stefanie Falte
-  twitter: "@SteffiFlt"
-  tags: "#digitaltrends, #KI, #projectmanagement"
-- name: Stefanie Michels
-  twitter: "@netzwjournalist"
-  tags: "#SocialMedia #Journalismus #Serien"
-- name: Stefanie Richter
-- name: Stephan Forth
-  twitter: "@pingaffe"
-  tags: "#raspberrypi #unix #freifunk"
-- name: Stephanie Bünau
-  twitter: "@woonpicker"
-  tags: "#Innenarchitektur #UX #Design"
-- name: Stonie
-  twitter: "@sagichneed"
-- name: Susanna Künzl
-  twitter: "@ambranet"
-  tags: "#drupal #typo3 #cms"
-- name: Sven Kloppenburg
-  twitter: "@plaugg"
-  tags: "#authenticationasaservice #startups #techlead"
-- name: Tabea Bratzel
-- name: Thomas Heidrich
-  twitter: "@gnuheidix"
-  tags: "#Linux #Performance #StarTrek"
-- name: Thomas Nolte
-  twitter: "@saxotom"
-  tags: "#rail #crowdworking #music"
-- name: Thomas Prangenberg
-  twitter: "@thoprangenberg"
-  tags: "#ux #design #innovation"
-- name: Thomas Spigel
-  tags: "#PHP #Magento #WebDevelopment"
-- name: Thomas Stephan
-  tags: "#Inn, #kul"
-- name: Thomas Wagner
-  twitter: "@tomww"
-  tags: "#AugenhoeheFilm #NewWork #Sauerteigbrot"
-- name: Thomas Zimmerling
-  twitter: Tzimmerling
-  tags: "#digitalisierung #mentoring"
-- name: Thorsten Biedenkapp
-  twitter: "@biedenkappIT"
-  tags: "#onlinemarketing #dazulernen #synthesizer"
-- name: Thorsten Bruck
-  twitter: "@tbrck"
-  tags: "#Emoji #Social #Ads"
-- name: Titz
-  twitter: "@ia303"
-  tags: "#ux #designthinking #strategie"
-- name: Tobias Günther
-  twitter: "@elaspix"
-  tags: "#3D #DualeHochschule #biete_stelle_socialmedia"
-- name: Tobias Laubinger
-  tags: "#RE #Methoden #UX"
-- name: Tobias Lübke
-  twitter: "@LuebkeTobi"
-- name: Tobias Roth
-  twitter: "@MDPATENT"
-  tags: "#SEO #OnlineMarketing #ContentMarketing"
-- name: Tom Klose
-  twitter: "@thomasklose"
-  tags: "#digitaletransformation #ux #beratung"
-- name: Tom Weimar
-  twitter: "@WeimarTom"
-  tags: "#onlinejournalismus #pr #medienentwicklung"
-- name: Torsten Maue
-  twitter: "@tmmd"
-  tags: "#SEO #Bahn #Fotografie"
-- name: Trefzer Katharina
-  tags: "#Blumen #Natur #Tiere"
-- name: Ulrich Gehlhaar
-  tags: "#bwl#jura#startupidee"
-- name: Ulrike von der Heidt
-  twitter: "@FRAexplorer"
-  tags: "#wein"
-- name: Unica Peters
-  twitter: "@WSonst"
-  tags: "#digitalmedia #socialimpact"
-- name: Valentina  Levant
-  twitter: "@LevantCoaching"
-  tags: "#authentisch #Selbstwert #Achtsamkeit"
-- name: Verena Smith
-  twitter: "@renaleinsmith"
-  tags: "#SocialMedia #Reisen #Brettspiele"
-- name: Yasmin Tuncay
-  twitter: "@yasmintuncay"
-  tags: "#SocialMedia #Aviation #Bots"
+2016:
+  - name: Achim Domma
+    twitter: "@achimdomma"
+    tags: "#gesellschaft #python #opensource"
+  - name: Adrian Yass
+    twitter: "@dfgzwei"
+    tags: "#medien #hochschule #fernsehen"
+  - name: Alex Schnapper
+    twitter: "@alexschnapper"
+    tags: "#Android #RaspberryPi #42"
+  - name: Alex Wenz
+    twitter: "@AlexanderWenz"
+    tags: "#webdev #tec #sports"
+  - name: Alexander Gräsel
+    twitter: "@konferenzGuide"
+    tags: "#Fotografie #Hacker #LostPlaces"
+  - name: Alexander Künzl
+    tags: "#typo3 #php #l18n"
+  - name: Alexander Mereien
+    twitter: "@aMereien"
+    tags: "#projektmanagemt #stakeholder-kommunikation #projektmarketing"
+  - name: Alexander Talmon
+    twitter: "@atalmon"
+    tags: "#hs-rm #medienrecht #canvanizer"
+  - name: Alina Hochhold
+    tags: "#Design #UX #Fitness"
+  - name: Andrea Breuer
+    twitter: "@DanaresY"
+    tags: "#weltliteratur #straßenpoesie #kulturarbeit"
+  - name: Andrea Sandau
+    tags: "#design, #ui, #digital"
+  - name: Andreas Irmer
+    twitter: "@andreasirmer"
+    tags: "#powergespraeche #wehrhaftedemokraten67 #lebendigeswissen"
+  - name: andreas rensch
+    twitter: arensch
+  - name: Andreas Rother
+    twitter: "@fischkippe"
+    tags: "#webvideo #socialmedia #medienkonvergenz"
+  - name: Andreas Söntgerath
+    twitter: "@schwarzwildinfo"
+    tags: "#wildsau #gründer #digitaleKommunikation"
+  - name: Andreas Sutor
+    twitter: "@sutorinfo"
+    tags: "#Opensource #Webanwendungen #Fotografie"
+  - name: Angelika Oberste-Berghaus
+    tags: "#UX #SocialMedia #UI"
+  - name: Anja Theisen
+    tags: "Projektmanagement agil Lean"
+  - name: Anja Widera
+    twitter: "@blubberiblubb"
+    tags: "#Häkeln #Zauberwürfel #Frankfurt"
+  - name: Anna Domascan
+    twitter: "@domascan"
+    tags: "#neugierig #womeninit #erstesmal"
+  - name: Anna Kern
+    tags: "#hühner"
+  - name: Anna-Lena Alt
+    tags: "#hochzeitsplanung #socialmedia #netflixandchill"
+  - name: Antje Krause
+    twitter: "@akkrause"
+    tags: "#Lehre #Bioinformatik #Hochschule"
+  - name: Antonia Jennewein
+    tags: "#Kommunikation #LEGO® SERIOUS PLAY #Konfliktmanagement"
+  - name: Arnim Dahlen
+    tags: "Kommunikation - Unternehmenskultur - Stadtkultur"
+  - name: Arno Klein
+    twitter: "@arnoklein"
+    tags: "#scrum #software"
+  - name: Astrid Fischer
+    twitter: "@aif"
+    tags: "#UX #IA #Reisen"
+  - name: Axel Bock
+    twitter: "@the_me"
+    tags: "#shopping #icecream"
+  - name: Axel Wenderoth
+    tags: "#digitalisierung #sozialearbeit #mitarbeiterapp"
+  - name: Barbara Krekeler
+    twitter: diephotographin
+    tags: "#mompreneur #vernetzung #kreativitaet"
+  - name: Benjamin Arnold
+    tags: "#IoT #Rails #Pen&amp;Paper"
+  - name: Benjamin Tales
+    twitter: "@notoriousBNG"
+    tags: "#SocialMedia #SocialService #WasKannDerBot?"
+  - name: Benjamin-Timm Broich
+    twitter: "@launchwerk"
+    tags: "#web #tech #development"
+  - name: Bernhard Seubert
+    tags: "#systemtest #rudern #familie"
+  - name: Bettina Schmidt
+    twitter: "@Aquasystem2011"
+    tags: "#Unternehmenskommunikation #Köln #Wandern"
+  - name: Björn Wibben
+    twitter: "@vimrheinmain"
+    tags: "#vim #frontend #audio"
+  - name: Carolin Gumm
+    tags: "#UX #digital #design"
+  - name: Carsten Blau
+    twitter: "@abluesbrother"
+    tags: "#digitaltransformation #digitaltechnology #startup"
+  - name: Carsten Fischer
+    twitter: yetanotherfish
+    tags: "#ux #ixd #mobile"
+  - name: Carsten Kobisch
+    twitter: "@ck1608"
+    tags: "#php #javascript #gadgets"
+  - name: Carsten Sandtner
+    twitter: "@casarock"
+    tags: "#irgendwas #mit #web"
+  - name: Charlotte Thürwächter
+    twitter: "@thuerwaechter"
+    tags: "#ConversaionalCommerce #MixedReality"
+  - name: Chris. Henry H.
+    twitter: "@chrishenryh"
+    tags: "#startups #usability #design"
+  - name: Christa Goede
+    twitter: "@christagoede"
+    tags: "#Text #Websites #SocialMedia"
+  - name: Christian Hans
+    twitter: "@lelei"
+    tags: "#bbq #nfl #eskalation"
+  - name: Christian Henry Haink
+    twitter: "@chrishenryh"
+    tags: "#UX #IoT #Design"
+  - name: Christian Marx
+    twitter: "@chris_h_marx"
+    tags: "#IT #Medien #Politik"
+  - name: Christian Schachmann
+  - name: Christine Contreras
+    twitter: "@contrec"
+    tags: "#Europe #Finance #Intranet"
+  - name: Cindy
+    twitter: "@piranhapudel"
+    tags: "#literatur #digitalhumanities #bunt"
+  - name: claudia_kuller
+    tags: "#CustomerExperience #HoloLens"
+  - name: Dagmar Reuber
+    tags: "#future #green #europe"
+  - name: Daniel
+    twitter: "@zohmi"
+    tags: "#magento #php #agile"
+  - name: Daniel Geßler
+    twitter: "@readactor"
+  - name: Daniel Räder
+    tags: "#agil #projektmanagement #kommunikation"
+  - name: das A&amp;O
+    twitter: "@blauschrift"
+  - name: David Wasser
+    twitter: "@dwass"
+    tags: "#android #steampunk #apps"
+  - name: Diana
+    twitter: "@weydenkaetzchen"
+    tags: "#Banales #SoMM"
+  - name: Diana Schwarz
+  - name: Diana Weschke
+    tags: "#ux #concept #informationarchitecture"
+  - name: Dominik Hofmann
+    twitter: "@heimathafenWI"
+    tags: "#Coworking #CorporateEntrepreneurship #CommunityBuilding"
+  - name: Dorothea Winterling
+    twitter: "@winter_acomite"
+    tags: "#a11y #i18n #text"
+  - name: E R I K
+    twitter: "@DerExperte"
+    tags: "#Twitter #barcamps #Film"
+  - name: Ekaterina
+    twitter: "@transperanto"
+    tags: "#kommunikation #elearning"
+  - name: Elias Henrich
+    twitter: "@ElKroketto"
+    tags: "#springBoot #fullStackWeb #logistics"
+  - name: Elisabeth Heinemann
+    twitter: "@frau_professor"
+    tags: "#mobile #socialmedia #digitalsociety"
+  - name: Elisabeth Pine
+    twitter: "@ElisabethPineDE"
+    tags: "#Gewohnheiten #Leidenschaften #Coaching"
+  - name: Elisabeth Riehle
+    twitter: "@ellirhl"
+    tags: "#onkomm #socialmedia #onlinemarketing"
+  - name: Elise Crespin-Borup
+    twitter: "@E_crespin"
+    tags: "#visualthinking#"
+  - name: Elmar Schwarzl
+    twitter: "@veitclub"
+    tags: "#Marketing #Analytics #FinTech"
+  - name: Emelie Wenderoth
+    tags: "#mode #aupair #newyork"
+  - name: Erik Donner
+    twitter: "@erik_donner"
+    tags: "#Webtechnik #Netzpolitik #SocialMedia"
+  - name: Eva Aust
+    twitter: "@8filouna8"
+    tags: "#Bauingenieurwesen #Meer #Serien"
+  - name: Fabian Hackethal
+    twitter: "@Fabian_Hah"
+    tags: "#UXDESIGN #CONTENT #TECHNOLOGIE"
+  - name: Falk Schmidt
+    twitter: "@falkschmidt"
+    tags: "#Events #ArtOfHosting #Projects"
+  - name: Farbenfreundin
+    twitter: "@farbenfreundin"
+    tags: "#blogger #happyblog"
+  - name: Ferdi
+    twitter: "@ftottheerdi"
+    tags: "#conversion #usability #testing"
+  - name: Florian Brandhoff
+    twitter: "@fbrandhoff"
+    tags: "#kmu #digitalisierung #zukunft"
+  - name: Florian Hofmann
+    twitter: "@debbieundflo"
+    tags: "#lean #startup"
+  - name: Frank Hamm
+    twitter: "@fwhamm"
+    tags: "#collaboration #wandern #hawaii"
+  - name: Frank Zinner
+    twitter: "@FrankZinner"
+    tags: "#social #computer #programming"
+  - name: Franziska Enke
+    twitter: "@franziska_enke"
+    tags: "#content#socialmedia"
+  - name: fritz ehlers
+    twitter: fritzehlers2
+    tags: "#disruption, #maker,  #creativity"
+  - name: Gabriele Gissler
+    tags: "#userexperience #interactiondesign #businesssoftware"
+  - name: Gaby Becker
+    twitter: "@android_oma"
+    tags: "#Drupal, #Android, #Bahnhofsfotos"
+  - name: Georgios Katsiakoudis
+    twitter: "@katsiak"
+    tags: "#webstandards #usability #accessibility"
+  - name: Gerhard Trefzer
+    tags: "#Biken #Legotechnik #Elektrizität"
+  - name: Gisela Blaas
+    twitter: "@comsensepr"
+    tags: "#pr #kommunikation"
+  - name: Göke Frerichs
+    twitter: "@gmfmedien"
+    tags: "#digital #web #innovation"
+  - name: Gudrun Traumann
+    twitter: "@GudrunDT"
+    tags: "#Vertrieb #socialselling #Verkaufstraining"
+  - name: Guido Schuh
+    twitter: "@moolder"
+    tags: "#IoT #UI #Anwendungslandschaften"
+  - name: heiko reitzammer
+    twitter: "@hr"
+  - name: Helga Schulze
+  - name: Herbert Lang
+    twitter: "@He_La_Fra"
+    tags: "#hessen #tourismus #marketing"
+  - name: Hubert Richardt
+    twitter: Mauersberger_Wi
+    tags: "#Handwerk #Maketing  #SocialMedia"
+  - name: Ines Feindt
+    tags: "#Test"
+  - name: Inge Lederer-Brüchner
+    twitter: "@gingerinjes"
+    tags: "#diy #creativity #script"
+  - name: Ingmar Drewing
+    twitter: "@ingmardtewing"
+    tags: "#graphicnovels #drawing #storytelling"
+  - name: Irmela Ketelhut
+    twitter: "@_iket"
+    tags: "#ecommerce #Projektmanagement #employerbranding"
+  - name: Isabell Handke
+    twitter: "@IsaHa2010"
+    tags: "#socialmedia #businesscollaboration #contentmarketing"
+  - name: Jan Deppisch
+    twitter: "@netzartist"
+    tags: "#web #frontend #8bit"
+  - name: Jan Ramroth
+    tags: "#wordpress #fotografie #design"
+  - name: Jan Unger
+    twitter: "@juitde"
+    tags: "#softwareentwicklung #php #javascript"
+  - name: Janine Ernst
+    tags: "#blogger #dreimalanders #healthyfood"
+  - name: Jasmin Collet
+    twitter: "@mienchenblog"
+    tags: "#Blogger #Coach #DIY"
+  - name: Jens Bothmer
+    twitter: "@JensBothmer"
+    tags: "#designthinking #bmgen #confluence"
+  - name: Joachim Schirrmacher
+    twitter: "@jschirrmacher"
+    tags: "#lean #startup #demokratie"
+  - name: Jochen Bachmann
+    twitter: "@calibanatspace"
+  - name: Johannes Gerlach
+    twitter: "@meedial"
+    tags: "Innovation, Tech, Social Responsibility"
+  - name: Jonas Stallmeister
+    twitter: "@stallmeister"
+    tags: "#usability #basketball #cooking"
+  - name: Jonathan Schikowski
+    twitter: "@schikowski"
+    tags: "#seo #startups #strategie"
+  - name: Judith Grommes
+    twitter: "@JudithGrommes"
+    tags: "#socialmedia #snapchat #socialselling"
+  - name: Juergen Eichholz
+    twitter: "@jke"
+    tags: "#wash #c2c #diwo"
+  - name: Julia Anna Moor
+    twitter: "@moor_jul"
+    tags: "#journalismus #bots #storytelling"
+  - name: Julia Schönborn
+    twitter: "@junaimnetz"
+    tags: "#kommunikation #flauschundliebe #karmajob"
+  - name: Julian Rudolf
+    twitter: "@juru140"
+    tags: "#Kommunikation #CSR"
+  - name: Juliane Benad
+    twitter: "@JulianeBenad"
+    tags: "#SocialMedia #Instagram #Podcasts"
+  - name: Juliane Dünow
+    twitter: "@JuleD61772013"
+  - name: Karl Schmitt
+    twitter: "@KarlSchmitt"
+  - name: Katharina Schmidt
+    tags: "#sprachen#netzwerken #seminare"
+  - name: Katja Abrams
+    twitter: "@converse_fee"
+    tags: "#design #innovation #digital"
+  - name: Kerstin
+    twitter: "@eleonore383"
+    tags: "#film #ausbilden #backen"
+  - name: Kirsten Hagedorn
+    twitter: "@khgdrn"
+    tags: "#hiking #bahnhofsfoto"
+  - name: Klaus Heidemann
+    twitter: "@ZukunftswsKMU"
+    tags: "#Arbeitgeberattraktivität #ChangeManagement"
+  - name: Korbinian Böck
+    twitter: "@KorBoeck"
+    tags: "#musesocial, #DigSMus, #musetech"
+  - name: Kristina Friedrich
+    twitter: "@tineko42"
+  - name: Lars Geisel
+    twitter: "@LarsGeisel"
+    tags: "#Innovation #Agile #Products"
+  - name: Lena Neumann
+    twitter: "@le_neu"
+    tags: "#socialmedia #storytelling #contentmarketing"
+  - name: Lisa Hummel
+  - name: Lisa Tihanyi
+    twitter: "@meinfeenstaub"
+    tags: "#bloggen #diy #pugs"
+  - name: Lukas Hück
+    twitter: "@luhuec"
+    tags: "#computerscience #web"
+  - name: Lukas Rosenstock
+    twitter: "@LukasRosenstock"
+    tags: "#php #apis #devrel"
+  - name: Magdalena Hartmann
+    twitter: "@eightfingerfood"
+    tags: "#food #realestate #fundraising"
+  - name: Maida Svraka
+    tags: "#ux #mobile"
+  - name: Maja Wibben
+    tags: "#Grafikdesign #Print #Web"
+  - name: Manuela Seubert
+    twitter: "@ManuelaSeubert"
+    tags: "#Kommunikation #Analyse #BayrischesHerz"
+  - name: Marc
+    twitter: "@nochsoeiner"
+    tags: "#timelapseFFM #HalloFrankfurt"
+  - name: Marc Becker
+    twitter: "@Bit_Pirate"
+    tags: "#DevOps #Sysadmin #Automation"
+  - name: Marcel
+    twitter: "@Coding_R4c00n"
+    tags: "#coding #tea #food"
+  - name: Marcel Linnenfelser
+    twitter: "@macmillancodes"
+    tags: "#webtech #agile #startup"
+  - name: Marco Bereth
+    twitter: "@mahrko"
+    tags: "#Fotografie #Reise #WasMitMedien"
+  - name: Marcus Wenig
+    twitter: "@marcuswenig"
+    tags: "#mobilität #kochen #startup"
+  - name: Markus Kölsch
+    twitter: "@markusmainz"
+    tags: "#Communication #Mainz #Mosel"
+  - name: Markus Schaarschmidt
+    twitter: "@zfundbuero"
+    tags: "#findtech #startupstuff #startup"
+  - name: Markus Tacker
+    twitter: "@coderbyheart"
+    tags: "#softwarecraftsmanship #futureofwork #remote"
+  - name: Marlene Etschmann
+    twitter: "@ACHEMAworldwide"
+    tags: "#messe #wissenschaft #chemie"
+  - name: Martin Juhasz
+    twitter: "@martinjuhasz"
+    tags: "#developer #maker #RH_Way"
+  - name: Martin Kraft
+    twitter: "@martin_kraft"
+    tags: "#Infographics #Photography #Wikipedia"
+  - name: Martina Kraus
+    twitter: "@wing121"
+    tags: "#javascript #science #psychology"
+  - name: Matthias Goscinski
+    twitter: "@matthiasjg"
+    tags: "#UX #Art #Design"
+  - name: Matthias Gutjahr
+    twitter: "@mattsches"
+    tags: "#php #dies #das"
+  - name: Max Trense
+    twitter: "@mtrense"
+    tags: "#development #mobile"
+  - name: Mayumi Genda
+  - name: Michael Binzen
+    twitter: "@mibi61"
+    tags: "#opendata #AI #innovation"
+  - name: Michael Buchner
+    twitter: "@mikebuchner"
+    tags: "#socialmedia #clever365 #couponing"
+  - name: Michael Ibsen
+    twitter: "@merlanura"
+    tags: "#iot #bots #maker"
+  - name: Michael Möller
+    twitter: "@MikeMoe"
+    tags: "#ux #learnnewthings #discoverfrankfurt"
+  - name: Michaela D. Brauburger
+    tags: "#digitalebildung #datenschutz #making"
+  - name: Mikka Luster
+    twitter: "@legerdemain"
+    tags: "#medic #hiker #nerd"
+  - name: Milena Gilles
+    tags: "#pm #qm #responsive"
+  - name: Moritz Möller
+    twitter: "@mrtz_mllr"
+    tags: "#frontend #backend #mobile"
+  - name: Müller Nelli
+  - name: Nicola Appel
+    twitter: "@nicolaappel"
+    tags: "#community #elearning #barcamp"
+  - name: Nicole Fritz
+    tags: "#Tauchen #FrontendEntwicklung #Fotografie"
+  - name: Nikolai Gulatz
+    twitter: "@launchwerk"
+    tags: "#ruby #javascript #web-development"
+  - name: Nina Höhler
+    twitter: "@NinaHhlr"
+    tags: "#onkomm #zweierleibrei #projektmanagement"
+  - name: Nina Rottig
+    twitter: "@doguna"
+    tags: "#blog #hunde #nähen"
+  - name: Nina Stienen
+    tags: "#onlinemarketing #seo #contentmanagement"
+  - name: Norbert Gilles
+    twitter: "@norbertgilles"
+    tags: "#Beratung #UX #Limbic"
+  - name: NXPERT, Annemarie Lohn
+    twitter: "@nxpert1"
+  - name: NXPERT, Ursula Klaus-Müller
+    twitter: "@nxpert1"
+  - name: Olaf Kosinsky
+  - name: Olga Zachariants
+    twitter: "@ol_zach"
+    tags: "#bigdata #contentmarketing"
+  - name: Oliver Haferbeck
+    twitter: "@timpact."
+    tags: "#auftritt #präsentation #kernbotschaften"
+  - name: Oliver Maniyar
+    tags: "#socialmediamarketing"
+  - name: Oliver Schopp
+    twitter: "@schoppstar"
+    tags: "#startups #sales #reisen"
+  - name: Oliver Wege
+    tags: "#startup #businessdevelopement"
+  - name: Oliver Wolfert
+    twitter: "@oliverwolfert"
+  - name: Pascal Menger
+    tags: "#Projektmanagement #Agile #ECommerce"
+  - name: Patrick Lerner
+    twitter: "@launchwerk"
+    tags: "#ruby #rails #web-development"
+  - name: Patrick von der Heyde
+    twitter: "@pazvdh"
+  - name: Percy Walther
+    twitter: "@HerrWalther"
+    tags: "#Bastler, #Wissenschaft, #Philosophie"
+  - name: Peter Brunner
+    twitter: "@s_p_brunner"
+    tags: "#Buechnerland #DiesseitsDesLimes #BluesErzaehlt"
+  - name: Peter Eulberg
+    twitter: "@peulberg"
+    tags: "#businessangel #entrepreneur"
+  - name: Peter Winninger
+    twitter: "@p_winninger"
+    tags: "#SocialMedia #Wandern #eGov"
+  - name: Petra H. aus F.
+    twitter: "@pehe_de"
+    tags: "#Personal #Fotografie #Kochen"
+  - name: Philine Sander
+  - name: Philipp Burckhardt
+    twitter: "@j2creation"
+    tags: "#innovation #designthinking #motorrad"
+  - name: Philipp de la Haye
+    twitter: "@philippdelahaye"
+    tags: "#onlinemarketing #innovation #querdenken"
+  - name: Pia Lamberty
+    twitter: "@_pietz_"
+    tags: "#psychologie #wissenschaft #verschwörungen"
+  - name: Pia Steinbauer
+    twitter: "@piasteinbazer"
+    tags: "#wordpress #storytelling #rheinhessen"
+  - name: Pierre Kerchner
+    twitter: "@pkerchner"
+    tags: "#Display_Advertising, #Ad_Performance, #ad_Roi"
+  - name: Raffael Filips
+    tags: "#Skateboard #Sport #AI"
+  - name: Ralf Rittersberger
+    twitter: "@rittersberger"
+  - name: Rebecca Klein
+    twitter: "@beccslash"
+    tags: "#Texten #Digitales #Reisen"
+  - name: Renate Hermanns
+    twitter: "@renaade"
+    tags: "#WordPress #Konzeption #Workshops"
+  - name: Renate Welkenbach
+    twitter: "@NeosLove"
+    tags: "#DMWde #design #networking"
+  - name: Reto M. Kiefer
+    twitter: "@retokiefer"
+    tags: "#mobile #agile #development"
+  - name: Robert Kilian
+    twitter: "@launchwerk"
+    tags: "#ruby #rails #web-development"
+  - name: Roland Judas
+    twitter: "@rolandjudas"
+    tags: "#Digitalisierung #CulturalChange #HealthTech"
+  - name: Sabrina Schaake
+    twitter: "@Sabrini_S"
+    tags: "#digitallife #brandlove #storytelling"
+  - name: Sahra Ewings
+    twitter: "@sahra415"
+    tags: "#SocialMedia #Krisenkommunikation #Reisen"
+  - name: Sara El Carrouchi
+    tags: "#blogger #dreimalanders #babyeckchen"
+  - name: Sascha Göbel
+    twitter: "@dasilentstorm"
+    tags: "#react #data"
+  - name: Sascha Stoltenow
+    twitter: "@BendlerBlogger"
+    tags: "#trump #clinton #obama"
+  - name: Sebastian Gleichsner
+    twitter: "@GL"
+    tags: "#hessentourismus"
+  - name: Silke Gutjahr
+    twitter: "@paulinepauline"
+    tags: "#sitzen #krabbeln #laufen"
+  - name: Silke Vogel
+    twitter: "@imago_art"
+    tags: "#Travel #Gold #Design"
+  - name: Simon Bräuer
+    twitter: "@redshark1802"
+    tags: "#developer #gamer #hacker"
+  - name: Simon Brüchner
+    twitter: "@powtac"
+  - name: Simone Wieland
+    twitter: "@simonewieland"
+    tags: "#communication #agile #surfacesthattouch"
+  - name: Söntgerath
+    twitter: "@schwarzwildinfo"
+    tags: "#wildsau #gründer #digitaleKommunikation"
+  - name: Sophia M. Wächtersbach
+    tags: "#Vernetzung, #Blog, #Hausbau"
+  - name: Stefan Husch
+    twitter: "@qutic"
+    tags: "#hosting #security #privacy"
+  - name: Stefan Kilp
+    twitter: "@stekida"
+    tags: "#php #tellerrand #kunst"
+  - name: Stefan Opitz
+    twitter: "@stefanopitz"
+    tags: "#Kommunalpolitik #Innovation #Mobility"
+  - name: Stefan Pauly
+    twitter: "@stefanpauly"
+    tags: "#infosec #doctorwho #golang"
+  - name: Stefanie Falte
+    twitter: "@SteffiFlt"
+    tags: "#digitaltrends, #KI, #projectmanagement"
+  - name: Stefanie Michels
+    twitter: "@netzwjournalist"
+    tags: "#SocialMedia #Journalismus #Serien"
+  - name: Stefanie Richter
+  - name: Stephan Forth
+    twitter: "@pingaffe"
+    tags: "#raspberrypi #unix #freifunk"
+  - name: Stephanie Bünau
+    twitter: "@woonpicker"
+    tags: "#Innenarchitektur #UX #Design"
+  - name: Stonie
+    twitter: "@sagichneed"
+  - name: Susanna Künzl
+    twitter: "@ambranet"
+    tags: "#drupal #typo3 #cms"
+  - name: Sven Kloppenburg
+    twitter: "@plaugg"
+    tags: "#authenticationasaservice #startups #techlead"
+  - name: Tabea Bratzel
+  - name: Thomas Heidrich
+    twitter: "@gnuheidix"
+    tags: "#Linux #Performance #StarTrek"
+  - name: Thomas Nolte
+    twitter: "@saxotom"
+    tags: "#rail #crowdworking #music"
+  - name: Thomas Prangenberg
+    twitter: "@thoprangenberg"
+    tags: "#ux #design #innovation"
+  - name: Thomas Spigel
+    tags: "#PHP #Magento #WebDevelopment"
+  - name: Thomas Stephan
+    tags: "#Inn, #kul"
+  - name: Thomas Wagner
+    twitter: "@tomww"
+    tags: "#AugenhoeheFilm #NewWork #Sauerteigbrot"
+  - name: Thomas Zimmerling
+    twitter: Tzimmerling
+    tags: "#digitalisierung #mentoring"
+  - name: Thorsten Biedenkapp
+    twitter: "@biedenkappIT"
+    tags: "#onlinemarketing #dazulernen #synthesizer"
+  - name: Thorsten Bruck
+    twitter: "@tbrck"
+    tags: "#Emoji #Social #Ads"
+  - name: Titz
+    twitter: "@ia303"
+    tags: "#ux #designthinking #strategie"
+  - name: Tobias Günther
+    twitter: "@elaspix"
+    tags: "#3D #DualeHochschule #biete_stelle_socialmedia"
+  - name: Tobias Laubinger
+    tags: "#RE #Methoden #UX"
+  - name: Tobias Lübke
+    twitter: "@LuebkeTobi"
+  - name: Tobias Roth
+    twitter: "@MDPATENT"
+    tags: "#SEO #OnlineMarketing #ContentMarketing"
+  - name: Tom Klose
+    twitter: "@thomasklose"
+    tags: "#digitaletransformation #ux #beratung"
+  - name: Tom Weimar
+    twitter: "@WeimarTom"
+    tags: "#onlinejournalismus #pr #medienentwicklung"
+  - name: Torsten Maue
+    twitter: "@tmmd"
+    tags: "#SEO #Bahn #Fotografie"
+  - name: Trefzer Katharina
+    tags: "#Blumen #Natur #Tiere"
+  - name: Ulrich Gehlhaar
+    tags: "#bwl#jura#startupidee"
+  - name: Ulrike von der Heidt
+    twitter: "@FRAexplorer"
+    tags: "#wein"
+  - name: Unica Peters
+    twitter: "@WSonst"
+    tags: "#digitalmedia #socialimpact"
+  - name: Valentina  Levant
+    twitter: "@LevantCoaching"
+    tags: "#authentisch #Selbstwert #Achtsamkeit"
+  - name: Verena Smith
+    twitter: "@renaleinsmith"
+    tags: "#SocialMedia #Reisen #Brettspiele"
+  - name: Yasmin Tuncay
+    twitter: "@yasmintuncay"
+    tags: "#SocialMedia #Aviation #Bots"
+2015:
+  - name: Alain Sarti
+    tags: "#coding"
+  - name: Alex Wenz
+    twitter: "@AlexanderWenz"
+    tags: "#responsive #frontend #redaxo"
+  - name: Alexander Benoit
+    twitter: "@itpirate"
+    tags: "# IT # Cloud # Fotografie"
+  - name: Alexander Gräsel
+    twitter: "@konferenzGuide"
+    tags: "#MasterOfScience #Masterarbeit #AxxG"
+  - name: Alexander Künzl
+    tags: "#typo3 #php #i18n"
+  - name: Alexander Talmon
+    twitter: "@atalmon"
+    tags: "#canvanizer #medienrecht #SEA"
+  - name: André Borges
+    twitter: "@webworkers_io"
+    tags: "#web #mobile #seo"
+  - name: André Karsten
+    twitter: "@Polizei_Ffm"
+    tags: "#Instagram #Twitter #Facebook"
+  - name: Andrea Breuer
+    twitter: "@DanaresY"
+    tags: "#weltliteratur #straßenpoesie"
+  - name: Andreas Knauer
+    twitter: "@aKnauer"
+    tags: "#KungFu #Cloud #Collaboration"
+  - name: Andreas Söntgerath
+    twitter: "@schwarzwildinfo"
+    tags: "#sponsoring #wildschwein #fahrrad"
+  - name: Andy Scherzinger
+    twitter: "@AndyScherzinger"
+    tags: "#mobile #digital #automation"
+  - name: Anette Keitz
+    tags: "#Sinnstiftung #Marketing #Trainer"
+  - name: Angelika Neumann
+  - name: Anja Widera
+    twitter: "@blubberiblubb"
+    tags: "#frankfurt #stricken #häkeln"
+  - name: Anna Groos
+    twitter: "@annamelitta"
+    tags: "#DesignThinking #Konzeption #UX"
+  - name: Anna Kern
+    tags: "#garten #entscheiden #theater"
+  - name: Anne Köhler
+    twitter: "@anne_ler"
+    tags: "#barcampneuling #lern"
+  - name: Antje Krause
+    twitter: "@akkrause"
+    tags: "#Bioinformatik #Hochschule"
+  - name: Axel Irriger
+    twitter: "@axelirriger"
+    tags: "#hadoop #playframework #cloud"
+  - name: Benita Wagner
+    twitter: "bobenne"
+    tags: "#Student #Mode #Bücherwurm"
+  - name: Bettina Schmidt
+  - name: Brina Blum
+    twitter: "@BrinaUllrich"
+  - name: Carsten Blau
+    twitter: "@abluesbrother"
+    tags: "#Agile #DesignThinking #DigitaleTransformation"
+  - name: Carsten Fischer
+    twitter: "@yetanotherfish"
+    tags: "#seo #performance #contentstrategy"
+  - name: Carsten Kobisch
+    twitter: "@ck1608"
+    tags: "#JavaScript #PHP #Mobile"
+  - name: Carsten Sandtner
+    twitter: "@casarock"
+    tags: "#mozilla #html5 #spass"
+  - name: Chris-T Roth
+    twitter: "@Chris_T_Roth"
+    tags: "#langlearn #lean #startups"
+  - name: Christian Hans
+    twitter: "@lelei"
+    tags: "#bbq #freifunk #internetz"
+  - name: Christina Hofrichter
+    twitter: "@chrissyho82"
+    tags: "#cms #frontendnewbie #listentomusic"
+  - name: Christine Skupsch
+    twitter: "@iqberatung"
+    tags: "#Robotik #digitaleBildung #Hochbegabung"
+  - name: Christoph Köhler
+    twitter: "@koehler_aedi"
+    tags: "#UX #Design #Aedi"
+  - name: Christoph Schindler
+    twitter: "@immortuus"
+    tags: "#it #gaming #nerd"
+  - name: Claudia_Kuller
+    tags: "#intercultural #digital #branding"
+  - name: Corinna Perleberg
+  - name: daniel kyak
+    twitter: "@tiggerduck"
+    tags: "#WebDev #NoVeggie #Golf"
+  - name: Daniel Zohm
+    twitter: "@zohmi"
+    tags: "#php #magento #agile"
+  - name: David Redelberger
+    twitter: "@davidfromkassel"
+    tags: "#science #activism #nerdstuff"
+  - name: David Wasser
+    twitter: "@dwass"
+    tags: "#android #steampunk #knitting"
+  - name: David Weichert
+    twitter: "@Sternentagebuch"
+    tags: "#Semiotics #Discordian #php"
+  - name: Diana Jordan
+    twitter: "@weydenkaetzchen"
+    tags: "#SocialMedia"
+  - name: Diana Schwarz
+  - name: Dorothea Winterling
+    twitter: "@winter_acomite"
+    tags: "#a11y #i18n #text"
+  - name: Elisabeth Pine
+    twitter: "@ElisabethPineDE"
+    tags: "#Klarheit #Passion #Kommunikation"
+  - name: Fabian
+    twitter: "@Fabian_Hah"
+    tags: "#ux #nutzer #digital"
+  - name: Falk Schmidt
+    twitter: "@falkschmidt"
+    tags: "#innovation #disruption #projektmanagement"
+  - name: Florian Brandel
+    twitter: "@fbrandel"
+    tags: "#frontend #javascript #angularjs"
+  - name: Florian Reuschenbach
+    twitter: "@reuschi"
+    tags: "#fotografie #web"
+  - name: Frank Deberle
+    twitter: "@fdeberle"
+    tags: "#dev"
+  - name: Frank Hamm
+    twitter: "@fwhamm"
+    tags: "#collaboration #socialbusiness #hawaii"
+  - name: Frank Hemer
+    twitter: "@_bodenlos_"
+    tags: "#iot #usability #continuity"
+  - name: Frank Sauer
+    twitter: "@fs_mainz112"
+  - name: Frank Zinner
+    twitter: "@frankzinner"
+    tags: "#web #scala #programming"
+  - name: Franziska Mucha
+    twitter: "@FranziskaMucha"
+    tags: "#frankfurt #lindyhop #museum"
+  - name: Frederik Mädel
+    tags: "#aviation #Sport #music"
+  - name: Gaby Becker
+    twitter: "@android_oma"
+  - name: Gunthart Mau
+    twitter: "@gunthartmau"
+    tags: "#Technik #Journalismus #Medien"
+  - name: Hans-Florian Hoyer
+    tags: "#fintech #personalfinancemanager #nextbank"
+  - name: Henning Bitsch
+  - name: Ingmar Drewing
+    twitter: "@ingmardrewing"
+    tags: "#webcomics #storytelling #conceptart"
+  - name: Ingo Sauer
+    twitter: "@scytto"
+    tags: "#changemangement #community #consultant"
+  - name: Jacob Chromy
+    twitter: "@a_socialpreneur"
+    tags: "#UX #Productdevopment #BMC"
+  - name: Jan Deppisch
+    twitter: "@netzartist"
+    tags: "#frontend"
+  - name: Jan Eggers
+    tags: "#socialmedia #journalismus #bastelkram"
+  - name: Jan Unger
+    twitter: "@juitde"
+    tags: "#softwareentwicklung #php #javascript"
+  - name: Janine Graf
+    twitter: "@JanineGraf1"
+    tags: "#PR #SocialMedia #ContentManagement"
+  - name: Jasmin Menzel-Schreiber
+    tags: "#bar"
+  - name: Jasmina Ekic
+    twitter: "@e_jazzmina"
+    tags: "#automation #change #learning"
+  - name: Jason Papadopoulos
+    twitter: "@j_papadopoulos"
+    tags: "#rawfood #blueeconomy #changemanagement"
+  - name: Jennifer Hackenbracht
+    twitter: "@Vanillekind"
+    tags: "#Münster #AttachmentParenting #Fernbeziehung"
+  - name: Jens Dworzak
+    twitter: "@jensdwo"
+    tags: "#BigData #Freeride"
+  - name: Jens Klingelhöfer
+    tags: "#wcms #ecommerce #sport"
+  - name: Jens Neuber
+    twitter: "@avocadotreeunit"
+    tags: "#js #webdev"
+  - name: Joachim Schirrmacher
+    twitter: "@jschirrmacher"
+    tags: "#leanStartup #agile #dev"
+  - name: Jochen Stärk
+    twitter: "@jstaerk"
+    tags: "#opensource #entwicklung #php"
+  - name: Joerg Machacek
+    twitter: "@jo_mac74"
+    tags: "#kommunikation #content #storytelling"
+  - name: Jonas Stallmeister
+    twitter: "@stallmeister"
+    tags: "#Auge #Hand #Koordination"
+  - name: Juergen Eichholz
+    twitter: "@jke"
+    tags: "#ffm365 #wmfra #wash"
+  - name: Julia Anna Moor
+    twitter: "@moor_juliaanna"
+    tags: "#publicrelations #health #tech"
+  - name: Julia Herz-el Hanbli
+    twitter: "@missEXZ"
+    tags: "#socialmedia #networking #onlinejournalismus #blogbusiness"
+  - name: Julia Schönborn
+    twitter: "@junaimnetz"
+    tags: "#Literatur #Kommunikation #SocialMedia"
+  - name: Juliane Schmidt
+    tags: "#Gesellschaft #Kultur #allesmögliche"
+  - name: Kai-Christian Bruhn
+    twitter: "@kaischi"
+    tags: "#dighum #semweb #openscience"
+  - name: Karl Schmitt
+    twitter: "@KarlSchmitt"
+    tags: "#DesignThinking #Agile"
+  - name: Katharina Schmidt
+    tags: "#networking #sprache #text"
+  - name: Katharina Schmoelz
+    tags: "#Führung #Kommunikation #Organisation"
+  - name: Kersten A. Riechers
+    twitter: "dasKerst"
+    tags: "#mobilesarbeiten #journalismus #bahn"
+  - name: Kirsten Hagedorn
+    twitter: "@khgdrn"
+    tags: "#outdoor #alwaysonline #Bicycle"
+  - name: Lars Geisel
+    twitter: "@LarsGeisel"
+    tags: "#innovation #agile #cloud"
+  - name: Luise Kinder
+    twitter: "@luisekinder"
+    tags: "#bienen #scrum #TYPO3"
+  - name: Malte Krohn
+    twitter: "@maltekrohn"
+    tags: "#multimobilität #bond140 #handballinside"
+  - name: Manja Kuhn
+    twitter: "@ManjaNacke"
+    tags: "#digital"
+  - name: Manuela Seubert
+    twitter: "@ManuelaSeubert"
+    tags: "#Kommunikation #Marke #content"
+  - name: Marc
+    twitter: "@nochsoeiner"
+    tags: "#timelapseFFM #hallofrankfurt"
+  - name: Marc Dix
+    twitter: "@marcdix"
+    tags: "#javascript #unittests #buildtools"
+  - name: Marcel Linnenfelser
+    twitter: "@macmillancodes"
+    tags: "#freelancing #webtech #agile"
+  - name: Marcello Pabst
+    twitter: "@morksen"
+    tags: "#youtube #video #development"
+  - name: Marco Bereth
+    twitter: "@mahrko"
+    tags: "#Mainzelmännchen, #Fernbeziehung #Fotografie"
+  - name: Marco Franz
+    tags: "#bbq #commitment #changemanagement"
+  - name: Marcus Gemeinder
+    twitter: "@MarcusGemeinder"
+    tags: "#agile #innovation #datascience"
+  - name: Marcus.Backes
+  - name: Marion Rockstroh-Kruft
+    twitter: "@RheinhessenLIVE"
+    tags: "#Social Media #Rheinhessen #Fotografie"
+  - name: Marius Max Künzl
+    twitter: "@maxkuenzl"
+    tags: "#photography #design #House"
+  - name: Markus Knittig
+    twitter: "@mknittig"
+    tags: "#freelance #developer #startups"
+  - name: Markus Tacker
+    twitter: "@coderbyheart"
+    tags: "#startups #softwarecraftsmanship #futureofwork"
+  - name: Martin Waldau
+    twitter: "@skyfyre"
+    tags: "#gaming #devops #cruiserbike"
+  - name: Marvin Mendel
+    twitter: "@marv2punkt0"
+    tags: "#wmfra #ffm365 #sge"
+  - name: Matthias Gutjahr
+    twitter: "@mattsches"
+    tags: "#php #osm #freifunk"
+  - name: Michaela D. Brauburger
+    twitter: "@mdb_mz"
+    tags: "#netzwerk #datenschutz #ubunt"
+  - name: Mike Wunderlich
+    tags: "#Panoramafotografie #googleStreetView #wordpress"
+  - name: Milena Gilles
+    tags: "#pm #qm #responsive"
+  - name: Nadine Gärtner
+    tags: "#algorithms #plants"
+  - name: Nathalie Bromberger
+    twitter: "@nathlieb"
+    tags: "#comic #verlag #kreativität"
+  - name: Nathan Mattes
+    twitter: "@zeitschlag"
+    tags: "#code #bier #blog"
+  - name: Nicole Eigner
+    tags: "#Menschen #Authentizität #Barcelona"
+  - name: Nicole Lücking
+    twitter: "@photostroller"
+    tags: "#wordpress #digitalStorytelling #Sketchnotes"
+  - name: Nils Bote
+    twitter: "@vertigoaddict"
+    tags: "#games #webentwicklung #projektmanagment"
+  - name: Nils Hagemann
+    twitter: "@florslin"
+    tags: "#development #ux #interdisziplinär"
+  - name: Oliver Bernasconi
+    twitter: "@dachstuber"
+    tags: "#facebook #prepping #feuerwehr"
+  - name: Oliver Wolfert
+    twitter: "@oliverwolfert"
+  - name: Olli
+    tags: "#Entrepreneurship #startups #developer"
+  - name: Olli Schopp
+    twitter: "@schoppo"
+    tags: "#startups #businessapps #travelling"
+  - name: Paul J Wege
+    twitter: "@steinsfreiherr"
+    tags: "#bildung #basteln #backen"
+  - name: Paula Hagemann
+    twitter: "@paulishirizzle"
+    tags: "#Katzen #Kanada #Twitter"
+  - name: Pia Steinbauer
+    twitter: "@piasteinbauer"
+    tags: "#wordpress #responsive#ebooks"
+  - name: Pierre Kerchner
+    twitter: "@pkerchner"
+    tags: "#hybrid-apps #performance-marketing #neues"
+  - name: Rebecca Klein
+    tags: "#kommunikation #onlineredaktion"
+  - name: Rebecca Wulff
+  - name: Renate Hermanns
+    twitter: "@renaade"
+    tags: "#WordPress #css #netzwerken"
+  - name: Reto Kiefer
+    tags: "#coding"
+  - name: Roland Judas
+    twitter: "@rolandjudas"
+    tags: "#Enterprise #SmartMachines #ITOperations"
+  - name: Ruth Konter-Mannweiler
+    twitter: "@kontermann"
+    tags: "#people #ideas #connection"
+  - name: Sandra Kegelmann
+    twitter: "@sandraKegelmann"
+    tags: "#konzeption #solopreneur #storytelling"
+  - name: Sandra Tempus
+    twitter: "@modestmarge"
+    tags: "#design #vintage #typo"
+  - name: Sascha Dieter
+    twitter: "@saschadieter"
+    tags: "#schreibdidaktik #elearning #programmierung"
+  - name: Sascha Goebel
+    twitter: "@DaSilentStorm"
+    tags: "#javascript #react"
+  - name: Sascha Stoltenow
+    twitter: "@BendlerBlogger"
+    tags: "#people #transformation #life"
+  - name: Sebastian Schlusnus
+    twitter: "@schlussi"
+    tags: "#broadcast #meet #marketing"
+  - name: Serafim Tarkovsky
+    twitter: "@Seraph10710792"
+    tags: "#Wissenschaft #guteGeschichten #Gesellschaft&quot;"
+  - name: Silke Hohgardt
+    twitter: "@onlineprofiler"
+    tags: "#webdesign #wordpress #coworking"
+  - name: Simon Brüchner
+    twitter: "@powtac"
+    tags: "#php #ffm #ux"
+  - name: Simon Seyer
+    twitter: "@Eldorado234"
+    tags: "#IT #iOS #Mobile"
+  - name: Simone Wieland
+    twitter: "@simonewieland"
+    tags: "#bernercal #digitaleKomm #mala"
+  - name: Stefan Kilp
+    tags: "#PHP #Kunst #Webapplication"
+  - name: Stefan Opitz
+    twitter: "@stefanopitz"
+  - name: Stefan Pauly
+    twitter: "@stefanpauly"
+    tags: "#InfoSec #GoLang #DoctorWho"
+  - name: Stefanie Michels
+    twitter: "@netzwjournalist"
+    tags: "#SocialMedia #digital #Journalismjs"
+  - name: Steffen W. Schilke
+    twitter: "@QRCodeART"
+    tags: "#qrcode #barcamp #ebook"
+  - name: Stephan Forth
+    twitter: "@pingaffe"
+    tags: "#unix #raspberrypi #arduino"
+  - name: Stephanie Knauer
+    twitter: "@Mrs_Circle"
+  - name: Steven Pine
+  - name: Susanna Künzl
+    twitter: "@ambranet"
+    tags: "#cms #typo3 #drupal"
+  - name: Susanne Adler
+    twitter: "@quadratpunkt"
+    tags: "#Konzeption #Text #Kommunikation"
+  - name: Thomas Heidrich
+    twitter: "@gnuheidix"
+    tags: "#linux #webentwicklung #performance"
+  - name: Thomas Nolte
+    twitter: "@saxotom"
+    tags: "#rail #music #networking"
+  - name: Thomas Wagner
+    twitter: "@tomww"
+    tags: "#Empathie #Augenhöhefilm #Sauerteigbrot"
+  - name: Thomas Zimmerling
+    twitter: "@tzimmerling"
+    tags: "#krisenpr #mentoring #lobbying"
+  - name: Thorsten Biedenkapp
+    twitter: "@biedenkappIT"
+    tags: "#onlinemarketing #contentstrategy #socialmedia"
+  - name: Tobias
+    twitter: "@elaspix"
+    tags: "#Visualisierung #3DPrinting #Produktkonfigurator"
+  - name: Tobias Laubinger
+    tags: "#requirements #ux #methoden"
+  - name: Tobias Reitz
+    twitter: "don_journaille"
+    tags: "#content #wordpress #ux"
+  - name: Triz Heider
+    twitter: "@trizblog"
+    tags: "#internet"
+  - name: Ulrike
+    twitter: "@FRAexplorer"
+    tags: "#WeinimNetz"

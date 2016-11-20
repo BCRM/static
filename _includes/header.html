@@ -1,7 +1,8 @@
+{% assign barcamp = site.data.barcamps[site.barcamp] %}
 <header>
   <hr>
   <h1 id="logo">
-    <a href="/" rel="index"><img src="{{ "/images/barcamp_logo.png" | prepend: site.baseurl }}" alt="BarCamp"><span class="region">RheinMain</span><span class="location-date">{{ site.location.title }}</span></a>
+    <a href="/" rel="index"><img src="{{ "/images/barcamp_logo.png" | prepend: site.baseurl }}" alt="BarCamp"><span class="region">RheinMain</span><span class="location-date">{{ barcamp.title }}</span></a>
   </h1>
   <nav class="event">
     <a href="/" rel="index">Das BarCamp</a>

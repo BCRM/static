@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Wer bezahlt's?
-order: 4
-slider: true
+history: true
+barcamp: 2015
 ---
 
 {% include sponsors.md %}

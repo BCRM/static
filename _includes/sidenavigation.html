@@ -1,0 +1,11 @@
+<aside>
+  <nav>
+    {% assign pages = site.pages | sort:"order"  %}
+    {% for my_page in pages %}
+    {% if my_page.title %}
+    <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+    {% endif %}
+    {% endfor %}
+  </nav>
+  <a class="twitter-timeline" data-chrome="noborders transparent" href="https://twitter.com/search?q=%23bcrm+OR+%23bcrm16+OR+%40bc_rm+-RT" data-widget-id="736531388019642368">Tweets zum BarCamp RheinMain</a>
+</aside>

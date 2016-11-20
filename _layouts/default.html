@@ -1,37 +1,21 @@
-<!DOCTYPE html><!--[if lt IE 7]>
-<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--><!--[if IE 7]>
-<html class="no-js lt-ie9 lt-ie8"> <![endif]--><!--[if IE 8]>
-<html class="no-js lt-ie9"> <![endif]--><!--[if gt IE 8]><!-->
-<html class="no-js"> <!--<![endif]-->
-
 {% include head.html %}
 
 <body>
 
-<!--[if lt IE 9]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
-  <a href="http://browsehappy.com/">upgrade your browser</a> or
-  <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your
-  experience.</p><![endif]-->
+{% include browserwarning.html %}
 
 <div class="wrapper">
 
   {% include header.html %}
 
   <div class="main">
-    <div class="visual"></div>
-    <aside>
-      <nav>
-        {% assign pages = site.pages | sort:"order"  %}
-        {% for my_page in pages %}
-        {% if my_page.title %}
-        <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-        {% endif %}
-        {% endfor %}
-      </nav>
-      <a class="twitter-timeline" data-chrome="noborders transparent" href="https://twitter.com/search?q=%23bcrm+OR+%23bcrm16+OR+%40bc_rm+-RT" data-widget-id="736531388019642368">Tweets zum BarCamp RheinMain</a>
-    </aside>
+    {% include slider.html %}
+    {% include sidenavigation.html %}
 
     <article>
+      {% if page.history %}{% assign camp = site.data.barcamps[page.barcamp] %}
+      <div class="history-warning">Historie: <strong>{{ camp.title }}</strong></div>
+      {% endif %}
       {{ content }}
     </article>
   </div>
@@ -39,6 +23,3 @@
 </div>
 
 {% include footer.html %}
-
-</body>
-</html>

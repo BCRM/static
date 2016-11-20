@@ -4,7 +4,8 @@
       <h2>Das BarCamp RheinMain wird unterstützt durch:</h2>
 
       <ul>
-        {% for sponsor in site.data.sponsors %}
+        {% assign barcamp = site.data.barcamps[site.barcamp] %}
+        {% for sponsor in barcamp.sponsors %}
         <li><a href="{{ sponsor.url }}"><img src="{{ sponsor.image | prepend: "/images/sponsor/" | prepend: site.baseurl }}" alt="{{ sponsor.title }}"/></a></li>
         {% endfor %}
       </ul>
@@ -36,3 +37,6 @@
   })();
 
 </script>
+
+</body>
+</html>

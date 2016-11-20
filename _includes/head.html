@@ -5,26 +5,26 @@
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-  <title>BarCamp RheinMain | Wiesbaden 19.+20.11.2016</title>
-  <meta name="description" content="Das nächste BarCamp RheinMain findet am 19./20.11.2016 am MedienCampus der FH Wiesbaden statt.">
+  <title>{{ site.title }} | {{ site.location.title }}</title>
+  <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@bc_rm">
-  <meta name="twitter:title" content="BarCamp RheinMain | Wiesbaden 19.+20.11.2016">
-  <meta name="twitter:description" content="Das nächste BarCamp RheinMain findet am 19./20.11.2016 am MedienCampus der FH Wiesbaden statt.">
-  <meta name="twitter:image:src" content="https://barcamp-rheinmain.de//images/bcrm.jpg">
+  <meta name="twitter:title" content="{{ site.title }} | {{ site.location.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:image:src" content="{{ site.url }}/images/bcrm.jpg">
 
   <meta property="og:type" content="event">
   <meta property="event:start_time" content="2016-11-19T08:30:00+01:00">
   <meta property="event:end_time" content="2016-11-20T08:15:00+01:00">
-  <meta property="og:url" content="https://barcamp-rheinmain.de/">
-  <meta property="og:title" content="BarCamp RheinMain | Wiesbaden 19.+20.11.2016">
-  <meta property="og:description" content="Das nächste BarCamp RheinMain findet am 19./20.11.2016 am MedienCampus der FH Wiesbaden statt.">
-  <meta property="og:image" content="https://barcamp-rheinmain.de//images/bcrm.jpg">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:title" content="{{ site.title }} | {{ site.location.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="{{ site.url }}/images/bcrm.jpg">
   <meta property="event:creator" content="233370660009977">
-  <meta property="event:location:latitude" content="50.096092">
-  <meta property="event:location:longitude" content="8.215961">
+  <meta property="event:location:latitude" content="{{ site.location.latitude }}">
+  <meta property="event:location:longitude" content="{{ site.location.longitude }}">
 
   <!-- favicons, generated with http://www.favicomatic.com/ -->
   <link rel="shortcut icon" href="/images/favicons/favicon.ico?1479537908"/>
@@ -41,7 +41,7 @@
   <link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32"/>
   <link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16"/>
   <link rel="icon" type="image/png" href="/images/favicons/favicon-128.png" sizes="128x128"/>
-  <meta name="application-name" content="BarCamp RheinMain | Wiesbaden 19.+20.11.2016"/>
+  <meta name="application-name" content="{{ site.title }} | {{ site.location.title }}"/>
   <meta name="msapplication-TileColor" content="#FFFFFF"/>
   <meta name="msapplication-TileImage" content="/images/favicons/mstile-144x144.png"/>
   <meta name="msapplication-square70x70logo" content="/images/favicons/mstile-70x70.png"/>

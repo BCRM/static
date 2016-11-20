@@ -2,7 +2,7 @@ Modernizr.load([
     // Slider
     {
         test: Modernizr.mq('(min-width: 950px)'),
-        yep: [ '/vendor/bxslider/jquery.bxslider.css', '/css/slider.css', '/vendor/bxslider/jquery.bxslider.js' ],
+        yep: [ '/js/bxslider/jquery.bxslider.css', '/css/slider.css', '/js/bxslider/jquery.bxslider.js' ],
         callback: function (url, result, key) {
             if (!result || key < 2) return;
             $.ajax(

@@ -5,7 +5,7 @@ layout: default
 ## Statistiken
 
 <div id="stats"></div>
-<script type="text/javascript" src="/vendor/mustache/mustache.js"></script>
+<script type="text/javascript" src="/js/mustache.js"></script>
 <script type="text/javascript" src="/js/stats.js"></script>
 <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 <script type="text/javascript">

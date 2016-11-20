@@ -17,7 +17,7 @@ Hier stellt sich das Team des BarCamp RheinMain kurz und knapp vor.
 
 ----
 
-![Nicola Appel](/images/team/nicola.jpg)
+![Nicola Appel]({{ "/images/team/nicola.jpg" | prepend: site.baseurl }})
 **[Nicola Appel](https://www.xing.com/profiles/Nicola_Appel)**  
 [Articulate International Inc.](https://de.articulate.com/) | International Community Manager
 
@@ -28,7 +28,7 @@ Hier stellt sich das Team des BarCamp RheinMain kurz und knapp vor.
 
 ----
 
-![Chrisula Dingiludi](/images/team/chrisula.jpg)
+![Chrisula Dingiludi]({{ "/images/team/chrisula.jpg" | prepend: site.baseurl }})
 **[Chrisula Dingiludi](https://www.xing.com/profiles/Chrisula_Dingiludi)**  
 Account Managerin | [Cocomore AG](http://www.cocomore.com)
 
@@ -39,7 +39,7 @@ Account Managerin | [Cocomore AG](http://www.cocomore.com)
 
 ----
 
-![Norbert Gilles](/images/team/norbert.jpg)
+![Norbert Gilles]({{ "/images/team/norbert.jpg" | prepend: site.baseurl }})
 **[Norbert Gilles](https://www.xing.com/profile/norbertgilles)**  
 Geschäftsführer der [giinco GmbH](http://giinco.de/)
 
@@ -50,7 +50,7 @@ Geschäftsführer der [giinco GmbH](http://giinco.de/)
 
 ----
 
-![Christa Goede](/images/team/christa.jpg)
+![Christa Goede]({{ "/images/team/christa.jpg" | prepend: site.baseurl }})
 **[Christa Goede](http://www.xing.com/profile/Christa_Goede)**  
 Freiberuflerin / [Christa Goede - Text. Websites.Social Media.](http://www.christagoede.de/)
 
@@ -61,7 +61,7 @@ Freiberuflerin / [Christa Goede - Text. Websites.Social Media.](http://www.chris
 
 ----
 
-![Irmela Ketelhut](/images/team/irmela.jpg)
+![Irmela Ketelhut]({{ "/images/team/irmela.jpg" | prepend: site.baseurl }})
 **[Irmela Ketelhut](https://www.xing.com/profile/Irmela_Ketelhut)**  
 Projektmanagerin bei [netz98](http://netz98.de)
 
@@ -71,7 +71,7 @@ Projektmanagerin bei [netz98](http://netz98.de)
 
 ----
 
-![Tom Klose](/images/team/tom.jpg)
+![Tom Klose]({{ "/images/team/tom.jpg" | prepend: site.baseurl }})
 **[Tom Klose](https://www.xing.com/profile/Thomas_Klose)**  
 Executive Creative Director der [BARTENBACH AG](http://www.bartenbach.de/)
 
@@ -82,7 +82,7 @@ Executive Creative Director der [BARTENBACH AG](http://www.bartenbach.de/)
 
 ----
 
-![Martin Kraft](/images/team/martin.jpg)
+![Martin Kraft]({{ "/images/team/martin.jpg" | prepend: site.baseurl }})
 **[Martin Kraft](https://www.xing.com/profile/Martin_Kraft)**  
 Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
@@ -93,7 +93,7 @@ Freiberufler / [Martin Kraft // Interaktionsdesign](http://www.martinkraft.com/)
 
 ----
 
-![Helge Richter](/images/team/helge.jpg)
+![Helge Richter]({{ "/images/team/helge.jpg" | prepend: site.baseurl }})
 **[Helge Richter](https://www.xing.com/profile/Helge_Richter)**  
 Manager bei Sopra Steria GmbH
 
@@ -103,7 +103,7 @@ Manager bei Sopra Steria GmbH
 
 ----
 
-![Markus Tacker](/images/team/markus.jpg)
+![Markus Tacker]({{ "/images/team/markus.jpg" | prepend: site.baseurl }})
 **[Markus Tacker](http://coderbyheart.com/)**  
 [Resourceful Humans](https://resourceful-humans.com/) | Channeler of Technological Obscurities (CTO)
 
@@ -114,7 +114,7 @@ Manager bei Sopra Steria GmbH
 
 ----
 
-![Tanja Tacker](/images/team/tanja.jpg)
+![Tanja Tacker]({{ "/images/team/tanja.jpg" | prepend: site.baseurl }})
 **[Tanja Tacker](https://www.xing.com/profile/Tanja_Tacker)**  
 Agile Coaching und Strategie bei [DB Systel GmbH](https://www.dbsystel.de/)
 
@@ -124,7 +124,7 @@ Agile Coaching und Strategie bei [DB Systel GmbH](https://www.dbsystel.de/)
 
 ----
 
-![Matthias Thürling](/images/team/matthias.jpg)
+![Matthias Thürling]({{ "/images/team/matthias.jpg" | prepend: site.baseurl }})
 **[Matthias Thürling](https://www.xing.com/profile/MATTHIAS_THUeRLING)**  
 Gründer von [intoCommerce](http://www.into-commerce.de/)
 

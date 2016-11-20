@@ -4,6 +4,6 @@ layout: blank
 
 <ul>
     {% for slide in site.data.slides %}
-    <li><img src="/images/slider/{{ slide.image }}" alt="{{ slide.title }}"/></li>
+    <li><img src="{{ slide.image | prepend:"/images/slider/" | prepend: site.baseurl }}" alt="{{ slide.title }}"/></li>
     {% endfor %}
 </ul>

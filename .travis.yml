@@ -28,7 +28,7 @@ script:
 after_success:
   - cd _site
 # Publish to live host via FTP
-  - lftp -c "set ftp:list-options -a; open ${FTP_LOGIN}; mirror --reverse --delete --verbose --allow-suid --no-umask --parallel=2"
+  - lftp -c "set ftp:list-options -a; set ssl:verify-certificate false; open ${FTP_LOGIN}; mirror --reverse --delete --verbose --allow-suid --no-umask --parallel=2"
 # Publish to gh-pages, too
   - git init
   - git config user.name "Travis CI"

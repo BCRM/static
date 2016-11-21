@@ -9,6 +9,7 @@ slider: true
 
 {% for slug in site.data.history %}{% assign camp = site.data.barcamps[slug] %}
  * {{ site.title }} {{ camp.title }}
+   * <a href="{{ "/Nachlese-" | prepend: site.baseurl | append:slug | append:".html" }}">Nachlese</a>
    * <a href="{{ "/Location-" | prepend: site.baseurl | append:slug | append:".html" }}">Location</a>
    * <a href="{{ "/Sponsoren-" | prepend: site.baseurl | append:slug | append:".html" }}">Sponsoren</a>
    * <a href="{{ "/Teilnehmer-" | prepend: site.baseurl | append:slug | append:".html" }}">Teilnehmer</a>

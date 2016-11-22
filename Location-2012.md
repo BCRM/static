@@ -1,7 +1,7 @@
 ---
 layout: default
 history: true
-barcamp: 2013
+barcamp: 2012
 ---
 
 # Veranstaltungsort Wiesbaden 2012

@@ -134,3 +134,46 @@
      url: http://www.teamworkpm.net/
    - title: webgrrls.de e.V. – Business-Networking für Frauen in den Neuen Medien
      url: http://www.webgrrls.de/
+2013:
+  title: Dieburg 23.+24.11.2013
+  latitude: 49.901773
+  longitude: 8.8548819
+  start: 2013-11-23T08:00:00+01:00
+  end: 2013-11-24T20:00:00+01:00
+  description: Das BarCamp RheinMain 2013 fand am 23./24.11.2013 auf dem Campus der Hochschule Dieburg statt.
+  disableParticipantList: true
+  sponsors:
+    - title: DESIGNERDOCK – Personalberatung für Kommunikation und Marketing
+      url: http://www.designerdock.de/ueber-uns/unsere-vorteile
+    - title: essquare – we help build organizations of the future by building products for today
+      url: http://www.essquare.de/
+    - title: etecture – digital architects
+      url: http://www.etecture.de/
+    - title: giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden
+      url: http://www.giinco.de/
+    - title: Jack Wolfskin – At Home Outdoors
+      url: http://www.jack-wolfskin.de/
+    - title: launchwerk GmbH - Agentur für individuelle Webanwendungen
+      url: http://launchwerk.de/
+    - title: LindenKaffee – Service erleben und genießen.
+      url: http://www.lindenkaffee.com/
+    - title: netz98 – new media gmbh
+      url: http://www.netz98.de/
+    - title: NIDAG – Internet-Dienstleister für E-Commerce, Mobile und Enterprise 2.0
+      url: http://www.nidag.de/
+    - title: Online Digital X – Cross Media Online Marketing
+      url: http://www.online-digitalx.de/
+    - title: pixoona.com – Share Moments, not only photos
+      url: http://pixoona.com/
+    - title: Scholz & Volkmer
+      url: http://www.s-v.de/
+    - title: simyo – Weil einfach einfach einfach ist.
+      url: https://www.simyo.de/
+    - title: Teamwork PM – Online Project Management Software, simple task manager
+      url: http://www.teamworkpm.net/
+    - title: TCI Rechtsanwälte
+      url: http://www.tcilaw.de/
+    - title: webgrrls.de e.V. – Business-Networking für Frauen in den Neuen Medien
+      url: http://www.webgrrls.de/
+    - title: Zalando – Schuhe & Mode online kaufen
+      url: http://www.zalando.de/

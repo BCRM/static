@@ -86,3 +86,51 @@
      url: http://www.netz98.de/
    - title: Scholz & Volkmer
      url: http://www.s-v.de/
+2014:
+  title: Frankfurt 22.+23.11.2014
+  latitude: 50.095335
+  longitude: 8.690136
+  description: Das BarCamp RheinMain 2015 fand am 22./23.11.2014 bei etecture in Frankfurt statt.
+  start: 2014-11-22T08:00:00+01:00
+  end: 2014-11-23T20:00:00+01:00
+  sponsors:
+   - title: "Chili &amp; Beans"
+     url: http://chiliandbeans.de/
+   - title: CIRCLE8 Event GmbH – Professionelle Eventlösungen
+     url: http://www.circle8.de/
+   - title: "&lt;code&gt;monauts"
+     url: http://codemonauts.com/
+   - title: die firma – Innovative Kommunikation
+     url: http://www.diefirma.de/
+   - title: DESIGNERDOCK – Personalberatung für Kommunikation und Marketing
+     url: http://www.designerdock.de/ueber-uns/unsere-vorteile
+   - title: dpc – DESIGN. PRINT. CUT.
+     url: http://www.design-print-cut.de/
+   - title: etecture – digital architects
+     url: http://www.etecture.de/
+   - title: giinco – Full-Service Interaktivagentur mit Sitz in Wiesbaden
+     url: http://www.giinco.de/
+   - title: launchwerk GmbH - Agentur für individuelle Webanwendungen
+     url: http://launchwerk.de/
+   - title: LindenKaffee – Service erleben und genießen.
+     url: http://www.lindenkaffee.com/
+   - title: Mandelkern Management &amp; Kommunikation
+     url: http://www.mandelkern.de/
+   - title: mediaman //
+     url: http://mediaman.com/
+   - title: NAMICS
+     url: http://www.namics.com/
+   - title: netz98 – new media gmbh
+     url: http://www.netz98.de/
+   - title: Online Digital X – Cross Media Online Marketing
+     url: http://www.online-digitalx.de/
+   - title: quäntchen + glück
+     url: https://www.qundg.de/
+   - title: Scholz & Volkmer
+     url: http://www.s-v.de/
+   - title: //SEIBERT/MEDIA GmbH
+     url: http://www.seibert-media.net/
+   - title: Teamwork PM – Online Project Management Software, simple task manager
+     url: http://www.teamworkpm.net/
+   - title: webgrrls.de e.V. – Business-Networking für Frauen in den Neuen Medien
+     url: http://www.webgrrls.de/

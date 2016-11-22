@@ -4,7 +4,7 @@ history: true
 barcamp: 2015
 ---
 
-# Veranstaltungsort
+# Veranstaltungsort Bingen 2015
 
 Das BarCamp RheinMain 2015 findet am 21./22. November 2015 statt – und zwar im Stadtgebäude der [FH Bingen](http://www.fh-bingen.de/hochschule/lage-und-anfahrt.html). Wir starten am 21. November um 9.30 Uhr und am 22. November um ca. 16.00 Uhr endet das Barcamp. 
 

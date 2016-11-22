@@ -177,3 +177,59 @@
       url: http://www.webgrrls.de/
     - title: Zalando – Schuhe & Mode online kaufen
       url: http://www.zalando.de/
+2012:
+  title: Wiesbaden 24.+25.11.2012
+  description: Das BarCamp RheinMain 2013 fand am 24./25.11.2012 am MedienCampus der FH Wiesbaden statt.
+  disableParticipantList: true
+  disableStatistics: true
+  sponsors:
+    - title: AOE Media
+      url: http://www.aoemedia.de
+    - title: Appcelerator
+      url: http://www.appcelerator.com
+    - title: BlueBee
+      url: http://www.bluebee.mobi
+    - title: DESIGNERDOCK
+      url: http://www.designerdock.de
+    - title: die firma
+      url: http://www.diefirma.de
+    - title: dmr solutions
+      url: http://www.dmr-solutions.com/
+    - title: etecture
+      url: http://www.etecture.de/
+    - title: flinc
+      url: http://www.flinc.de
+    - title: heimathafen
+      url: http://www.heimathafen-wiesbaden.de
+    - title: Hochschule RheinMain
+      url: http://www.hs-rm.de
+    - title: LindenKaffee
+      url: http://www.lindenkaffee.com
+    - title: mediaman
+      url: http://www.mediaman.de
+    - title: namics
+      url: http://www.namics.de
+    - title: MRM
+      url: http://www.mrm.de
+    - title: O'Reilly
+      url: http://www.oreilly.de "O'Reilly"
+    - title: NIDAG
+      url: http://www.nidag.de
+    - title: NOKIA
+      url: http://www.nokia.de
+    - title: Pille Filmgeräteverleih
+      url: http://www.pillefilm.de
+    - title: pixoona.com
+      url: http://pixoona.com
+    - title: seibertmedia
+      url: http://www.seibertmedia.net
+    - title: Teamwork PM
+      url: http://www.teamworkpm.net/
+    - title: triplesense
+      url: http://www.triplesense.de
+    - title: TCI Rechtsanwälte
+      url: http://www.tcilaw.de
+    - title: webgrrls
+      url: http://www.webgrrls.de
+    - title: Wiesbadener Kurier
+      url: http://www.wiesbadener-kurier.de

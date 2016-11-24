@@ -7,6 +7,7 @@ layout: default
 ## Blogs
 
  * [Mit Zombies Werben - Mikka Luster](https://mikka.is/mit-zombies-werben-650f773a1f53)
+ * [Das BarCamp Rhein-Main 2016 #bcrm16 - Juergen Eichholz](https://hallofrankfurt.de/das-barcamp-rhein-main-2016-bcrm16-cbb61da199c7)
 
 ## Fotos
 

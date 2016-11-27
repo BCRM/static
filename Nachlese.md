@@ -14,6 +14,7 @@ layout: default
  * [BarCamp RheinMain 2016 - Adrian Yass](https://adrianyass.de/barcamp-rheinmain-2016)
  * [#KoblenzDigital (und) beim #bcrm16 - maleilive](https://maleilive.wordpress.com/2016/11/20/koblenzdigital-und-beim-bcrm16/)
  * [BarCamp RheinMain (2) - fishandchips](http://blog.fishandchips.cc/2016/11/21/barcamp-rheinmain-2/)
+ * [Ups, i did it again: BarCamp RheinMain 2016 - Peter Winninger](https://pwinninger.wordpress.com/2016/11/20/ups-i-did-it-again-barcamp-rheinmain-2016/)
 
 ## Fotos
 

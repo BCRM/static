@@ -13,6 +13,7 @@ layout: default
  * [Was ist ein Barcamp? - diephotographin](http://die-photographin.de/2016/11/was-ist-ein-barcamp/)
  * [BarCamp RheinMain 2016 - Adrian Yass](https://adrianyass.de/barcamp-rheinmain-2016)
  * [#KoblenzDigital (und) beim #bcrm16 - maleilive](https://maleilive.wordpress.com/2016/11/20/koblenzdigital-und-beim-bcrm16/)
+ * [BarCamp RheinMain (2) - fishandchips](http://blog.fishandchips.cc/2016/11/21/barcamp-rheinmain-2/)
 
 ## Fotos
 

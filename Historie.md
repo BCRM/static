@@ -7,7 +7,7 @@ slider: true
 
 # Vergangene BarCamps
 
-{% for slug in site.data.history %}{% assign camp = site.data.barcamps[slug] %}
+{% for v in site.data.barcamps %}{% assign slug = v[0] %}{% assign camp = v[1] %}
 {% assign participants = true %}
 {% if camp.disableParticipantList == true %}{% assign participants = false %}{% endif %}
 {% assign statistics = true %}

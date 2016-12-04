@@ -8,6 +8,7 @@ slider: true
 # Vergangene BarCamps
 
 {% for v in site.data.barcamps %}{% assign slug = v[0] %}{% assign camp = v[1] %}
+{% if slug != site.barcamp %}
 {% assign participants = true %}
 {% if camp.disableParticipantList == true %}{% assign participants = false %}{% endif %}
 {% assign statistics = true %}
@@ -17,4 +18,4 @@ slider: true
    * <a href="{{ "/Location-" | prepend: site.baseurl | append:slug | append:".html" }}">Location</a>
    * <a href="{{ "/Sponsoren-" | prepend: site.baseurl | append:slug | append:".html" }}">Sponsoren</a>{% if participants %}
    * <a href="{{ "/Teilnehmer-" | prepend: site.baseurl | append:slug | append:".html" }}">Teilnehmer</a>{% endif %}{% if statistics %}
-   * <a href="{{ "/Statistiken-" | prepend: site.baseurl | append:slug | append:".html" }}">Statistiken</a>{% endif %}{% endfor %}
+   * <a href="{{ "/Statistiken-" | prepend: site.baseurl | append:slug | append:".html" }}">Statistiken</a>{% endif %}{% endif %}{% endfor %}

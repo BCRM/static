@@ -308,3 +308,38 @@
       url: http://www.webgrrls.de/
     - title: WISAG Gebäudereinigung
       url: http://www.wisag.de/
+2009:
+  title: Mainz 28.+29.11.2009
+  description: Das BarCamp RheinMain 2009 fand am 28./29.11.2009 im Institut für Informatik an der Johannes Gutenberg-Universität Mainz statt.
+  disableStatistics: true
+  sponsors:
+    - title: Samsung
+      url: http://www.samsung.de
+    - title: AOE media
+      url: http://www.aoemedia.de
+    - title: netz98
+      url: http://www.netz98.de
+    - title: New Identity AG
+      url: http://www.nidag.de
+    - title: Verlagsgruppe Rhein-Main
+      url: http://www.vrm.de
+    - title: Yalwa GmbH
+      url: http://www.yalwa.de
+    - title: Sun StartUp Essentials
+      url: http://de.sun.com/startupessentials/
+    - title: Landesregierung Rheinland-Pfalz
+      url: http://www.rlp.de
+    - title: IBM
+      url: http://www.ibm.de
+    - title: Telekom Developer Garden
+      url: http://www.developergarden.de
+    - title: Wolf Print Ingelheim
+      url: http://www.wolf-ingelheim.de
+    - title: Dextrose AG
+      url: http://www.dextrose.com
+    - title: teclegal Rhein-Main Rechtsanwälte Partnerschaft
+      url: http://www.teclegal.de
+    - title: mymuesli gmbH
+      url: http://www.mymuesli.de
+    - title: beauty24 gmbH
+      url: http://www.beauty24.de

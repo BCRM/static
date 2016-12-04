@@ -19,7 +19,7 @@
   - name: Andrea Sandau
     tags: "#design, #ui, #digital"
   - name: andreas rensch
-    twitter: "arensch"
+    twitter: "@arensch"
   - name: Andreas Rother
     twitter: "@fischkippe"
     tags: "#webvideo #socialmedia #medienkonvergenz"
@@ -51,7 +51,7 @@
   - name: Axel Wenderoth
     tags: "#digitalisierung #sozialearbeit #mitarbeiterapp"
   - name: Barbara Krekeler
-    twitter: "diephotographin"
+    twitter: "@diephotographin"
     tags: "#mompreneur #vernetzung #kreativitaet"
   - name: Benjamin Arnold
     tags: "#IoT #Rails #Pen&amp;Paper"
@@ -72,7 +72,7 @@
     twitter: "@abluesbrother"
     tags: "#digitaltransformation #digitaltechnology #startup"
   - name: Carsten Fischer
-    twitter: "yetanotherfish"
+    twitter: "@yetanotherfish"
     tags: "#ux #ixd #mobile"
   - name: Carsten Sandtner
     twitter: "@casarock"
@@ -163,7 +163,7 @@
     twitter: "@franziska_enke"
     tags: "#content#socialmedia"
   - name: fritz ehlers
-    twitter: "fritzehlers2"
+    twitter: "@fritzehlers2"
     tags: "#disruption, #maker,  #creativity"
   - name: Gabriele Gissler
     tags: "#userexperience #interactiondesign #businesssoftware"
@@ -188,7 +188,7 @@
     twitter: "@He_La_Fra"
     tags: "#hessen #tourismus #marketing"
   - name: Hubert Richardt
-    twitter: "Mauersberger_Wi"
+    twitter: "@Mauersberger_Wi"
     tags: "#Handwerk #Maketing  #SocialMedia"
   - name: Ines Feindt
     tags: "#Test"
@@ -473,7 +473,7 @@
     twitter: "@tomww"
     tags: "#AugenhoeheFilm #NewWork #Sauerteigbrot"
   - name: Thomas Zimmerling
-    twitter: "Tzimmerling"
+    twitter: "@Tzimmerling"
     tags: "#digitalisierung #mentoring"
   - name: Titz
     twitter: "@ia303"
@@ -560,7 +560,7 @@
     twitter: "@axelirriger"
     tags: "#hadoop #playframework #cloud"
   - name: Benita Wagner
-    twitter: "bobenne"
+    twitter: "@bobenne"
     tags: "#Student #Mode #Bücherwurm"
   - name: Bettina Schmidt
   - name: Carsten Blau
@@ -697,7 +697,7 @@
   - name: Katharina Schmoelz
     tags: "# Kunst # Social Media # Serienjunkie"
   - name: Kersten A. Riechers
-    twitter: "dasKerst"
+    twitter: "@dasKerst"
     tags: "#mobilesarbeiten #journalismus #bahn"
   - name: Luise Kinder
     twitter: "@luisekinder"
@@ -852,7 +852,7 @@
   - name: Tobias Laubinger
     tags: "#requirements #ux #methoden"
   - name: Tobias Reitz
-    twitter: "don_journaille"
+    twitter: "@don_journaille"
     tags: "#content #wordpress #ux"
   - name: Triz Heider
     twitter: "@trizblog"
@@ -1531,451 +1531,1364 @@
     twitter: "@yasmintuncay"
     tags: "#Facebook #Corporate #Networking"
 2010:
-  - name: Ben Praße
-    twitter: ben_mz
-  - name: Christ Zengel
-    twitter: Cpzengel
-  - name: Mario Hachemer
-    twitter: Roritharr
-  - name: Johannes Georg
-    twitter: Pixelfahnder
-  - name: Fabian Knopf
-    twitter: http://www.twitter.com/websprudel
-  - name: Jan Eggers
-    twitter: untergeekDE
-  - name: Carsten Kobisch
-    twitter: www.twitter.com/ck1608
-  - name: Carsten Sandtner
-    twitter: casarock
-  - name: Andreas SCHEPERS
-    twitter: AndreasSchepers
-  - name: Andreas Kiebs
-    twitter: ak_74
-  - name: Reto Kiefer
-    twitter: retokiefer
-  - name: Markus Sowada
-    twitter: Morgenland
-  - name: Martin Kliehm
-    twitter: kliehm
-  - name: Peter  Löwenstein 
-    twitter: Gersprenz 
-  - name: Daniel Kyak
-    twitter: tiggerduck
-  - name: Helge Emeritzy 
-  - name: Jochen Bachmann
-    twitter: calibanatspace
-  - name: Bianca Gade
-    twitter: ChiliConCharme
-  - name: Walter Ebert
-    twitter: wltrd
-  - name: Rene Kurfürst
-    twitter: ruesseltier
-  - name: Karsten Sauer
-    twitter: sauerstoff
-  - name: Christian Kunz
-    twitter: designammain
-  - name: Aljoscha Marcel Everding
-    twitter: humpaaa
-  - name: Julia Bauhoff
-    twitter: juliabbh
-  - name: Konrad Förstner
-    twitter: konradfoerstner
-  - name: Tom Klose
-    twitter: humanized
-  - name: Danielle Grossi
-    twitter: branddevelop
-  - name: Daniel Rehn
-    twitter: danielrehn
-  - name: Markus Henkel
-    twitter: EbbeSand
-  - name: Irmela Ketelhut
-    twitter: _iKet
-  - name: Matthias Pfefferle
-    twitter: pfefferle
-  - name: Jan Deppisch
-    twitter: netzartist
-  - name: thorsten bruck
-    twitter: thorstnbrck
-  - name: Friedrich Pfitzmann
-    twitter: Pfitz
-  - name: Hendrik Sommerfeldt
-    twitter: hsommerfeldt
-  - name: Nicole Lücking 
-  - name: Kerstin Probiesch
-    twitter: kprobiesch
-  - name: Markus Knittig
-    twitter: mknittig
-  - name: Sebastian Fastner
-    twitter: fastner
-  - name: Rafael Tomic
-    twitter: rafaeltomic
-  - name: Andreas Jacob
-    twitter: cordobo
-  - name: Frank Holldorff
-    twitter: ravenonline
-  - name: Pia Steinbauer
-    twitter: piasteinbauer
-  - name: David Wasser
-    twitter: dwass
-  - name: Michael M. Roth
-    twitter: MicialMedia
-  - name: Kirsten Marchlewski
-    twitter: ladymasiki
-  - name: Thomas Rühl
-    twitter: elysian
-  - name: Michael Krech 
-  - name: Tobias Reitz
-    twitter: don_journaille
-  - name: Stefan Pauly
-    twitter: StefanPauly/
-  - name: Christian Münch
-    twitter: twitter.com/cmuench
-  - name: Loan  Nguyen 
-  - name: Marc Becker
-    twitter: Bit_Pirate
-  - name: Olaf Klöppel 
-  - name: Stefan Koelle
-    twitter: StefanKoelle
-  - name: Yann Martin 
-  - name: Markus Barchfeld 
-  - name: Jan Schuster
-    twitter: jan_schuster
-  - name: Fabian Beiner
-    twitter: FabianBeiner
-  - name: Sebastian Werner
-    twitter: wpbasti
-  - name: Andreas Ebert
-    twitter: andreas_ebert
-  - name: Dorthe Luebbert
-    twitter: luebbert42
-  - name: Stefan Pohl
-    twitter: Dailyplaces
-  - name: Christian Schmeißer 
-  - name: Melly Lehmann 
-  - name: Jens Becker
-    twitter: graydsl
-  - name: Günther Mulder
-    twitter: gmulder
-  - name: Martin Kraft
-    twitter: martin_kraft
-  - name: Carsten Pötter
-    twitter: carstenpoetter
-  - name: Jacob Chromy
-    twitter: antipreneur
-  - name: Dominik Schönfeld
-    twitter: xaeron
-  - name: Christoph Penter
-    twitter: christophpenter
-  - name: Ingmar Drewing
-    twitter: ingmardrewing
-  - name: Paul Herwarth von Bittenfeld
-    twitter: pherwarth
-  - name: Darren Cooper
-    twitter: dc7590
-  - name: Markus Jakobs
-    twitter: kehrseite
-  - name: Jonathan Maron
-    twitter: jonathanmaron
-  - name: Dominik Sommer
-    twitter: domsom
-  - name: Angela Reinbold
-    twitter: reinseite
-  - name: Barbara Wissenbach 
-  - name: Raphael Kallensee
-    twitter: rkallensee
-  - name: dirk astrath 
-  - name: Frank Hamm
-    twitter: fwhamm
-  - name: Manuela Hamm
-    twitter: manuela
-  - name: Daniela Schwörer
-    twitter: Elyia
-  - name: Christian Nennemann
-    twitter: XORwell
-  - name: Petra Bauernfeind 
-  - name: Matthias Gutjahr
-    twitter: mattsches
-  - name: Silke Berz
-    twitter: paulinepauline
-  - name: Christian Schuster
-    twitter: againstreality_
-  - name: Kersten A. Riechers
-    twitter: dasKerst
-  - name: Lena Jordan
-    twitter: leschmuuu
-  - name: Torsten Herrmann
-    twitter: torstenherrmann
-  - name: Verena Lindner
-    twitter: kommunikonautin
-  - name: Eric Späte
-    twitter: Kinocast
-  - name: Peter Eulberg
-    twitter: peulberg
-  - name: Ansgar Hein
-    twitter: webstandardsmag
-  - name: Florian Weber
-    twitter: webflo
-  - name: Thomas Olsen
-    twitter: tolsen
-  - name: Dorothea Winterling 
-  - name: Stefanie Ebbert
-    twitter: cooky75
-  - name: Gaby  Becker
-    twitter: condatapool
-  - name: Denis Knauer 
-  - name: Christian Nielebock
-    twitter: PHP_Frip
-  - name: Marco Tidona
-    twitter: m_a_r_c_o
-  - name: Jens Grochtdreis
-    twitter: Flocke
-  - name: Gerrit Sturm 
-  - name: Björn Wibben
-    twitter: jsugfra
-  - name: Andreas Dantz
-    twitter: dantz
-  - name: Christoph Martens
-    twitter: martensms
-  - name: Matthias Thürling
-    twitter: web20typ
-  - name: Patrick Schneider
-    twitter: daspat
-  - name: Ute Hauth
-    twitter: miradlo
-  - name: Alex Wenz 
-  - name: Verena Osgyan
-    twitter: osgyan
-  - name: Roman Hanhart
-    twitter: thurgau
-  - name: Ruben Hanhart 
-  - name: Andreas Kompanez
-    twitter: kompozer
-  - name: Norbert Möhring
-    twitter: TheSmile82
-  - name: Thomas Heidrich
-    twitter: gnuheidix
-  - name: Susanna Künzl
-    twitter: susannakuenzl
-  - name: Dirk Jesse
-    twitter: djesse
-  - name: Simone Bolte 
-  - name: Tanja Morschhäuser
-    twitter: cassiopeia
-  - name: Stefan Kilp 
-  - name: Anja Rau
-    twitter: Konzeptionerd
-  - name: Tobias Günther
-    twitter: elaspix
-  - name: Carsten Prüser
-    twitter: cprueser
-  - name: Florian Brandel
-    twitter: flosen
-  - name: Juergen Eichholz
-    twitter: jke
-  - name: Andreas Pilz 
-  - name: Stefan Opitz
-    twitter: stefanopitz
-  - name: Susanne Adler
-    twitter: quadratpunkt
-  - name: Gregory Igelmund 
-  - name: Sascha Goebel
-    twitter: dasilentstorm
-  - name: Nicola Appel
-    twitter: https://twitter.com/NicolaAppel
-  - name: Anja Guhlan
-    twitter: oceane
-  - name: Melanie Arnold 
-  - name: Max Lill
-    twitter: jedimax
-  - name: Henrik Arndt 
-  - name: Holger Deist 
-  - name: Timo Derstappen
-    twitter: teemow
-  - name: Friedhelm Fink
-    twitter: friedhelmfink
-  - name: Jo-Ann de la Fuente
-    twitter: nonpar
-  - name: Michaela Hachemer
-    twitter: Levistica
-  - name: Marc Schroetel
-    twitter: marsbear
-  - name: Jörg Thoß
-    twitter: jthos
-  - name: Shira-Susanne Langenberger 
-  - name: Sven Holzbach 
-  - name: Jonas Schmidt 
-  - name: Birte Frey
-    twitter: feuermaedchen
-  - name: Brigitte Luckhardt 
-  - name: Tina Schwarze
-    twitter: tinaschwarze
-  - name: Jens Himmelrath
-    twitter: himmelrath
-  - name: David Donath 
-  - name: Marie Dietz
-    twitter: zwergschwein
-  - name: Ali Pasha Foroughi
-    twitter: alipasha
-  - name: Benjamin Mueller
-    twitter: silberpuls
-  - name: Daniel Nitz 
-  - name: Thomas Büdinger
-    twitter: thomasbuedinger
-  - name: Mel B 
-  - name: Andreas Renner
-    twitter: andinichtandy
-  - name: Alexandra Melzer
-    twitter: underwaterkiss
-  - name: Julia Abb 
-  - name: Roland Seng 
-  - name: Daniel Clauss 
-  - name: Dariusz Josko
-    twitter: icemen_77
-  - name: Martin Rothenberger
-    twitter: insanus
-  - name: Thilo Specht
-    twitter: tspe
-  - name: Martin Fache
-    twitter: myrbel
-  - name: Jörg Hoheisel
-    twitter: jhoheisel
-  - name: Robert Lokaiczyk 
-  - name: Julia Fastner 
-  - name: mimi ansorge
-    twitter: ansomic
-  - name: Marcel Schler
-    twitter: zwoelftermann
-  - name: Susanne Frey 
-  - name: Kathrin Eisenbarth 
-  - name: Jan westerbarkey
-    twitter: westerbarkey
-  - name: Roland Baldenhofer 
-  - name: Markus Griesbach 
-  - name: Paul Sellinger 
-  - name: Dominik Berberich
-    twitter: #!/mediaszenario
-  - name: Kai Eberwein 
-  - name: Felix Wassermann
-    twitter: Felix_online
-  - name: Patricia Carratala Mendez 
-    twitter: Patcar09
-  - name: Ingo Becker
-    twitter: iblicker
-  - name: marcel  etzel 
-  - name: Nina Hasubek 
-  - name: Jochen Hiller
-    twitter: jochenhiller
-  - name: Verena Berghof
-    twitter: #!/veerina
-  - name: Matthias Strack
-    twitter: bobbes
-  - name: Jens Calisti 
-  - name: Marcel Ackermann
-    twitter: DreamFlasher
-  - name: Stephan Linzner 
-  - name: Michael Manger
-    twitter: twitter.com/alphazeichen
-  - name: Daniel Hanke
-    twitter: DanielJHanke
-  - name: Sebastian Preis 
-  - name: Michael Probst Stuckmann 
-  - name: Christoph Burchert 
-  - name: Edmund Gröpl
-    twitter: groepl
-  - name: Stefan Antoni
-    twitter: suchkultur
-  - name: Martin Reichard
-    twitter: mart_out
-  - name: Edgar Kugel
-    twitter: wochenschau
-  - name: Nikola Bott 
-  - name: Melanie Möller
-    twitter: factsandfriends
-  - name: Torsten Zander
-    twitter: torstenzander
-  - name: Markus Seim
-    twitter: matzelkoenig
-  - name: Carsten Logemann 
-  - name: Laura Kupczyk
-    twitter: Frl_K
-  - name: Helena Thome
-    twitter: dm_sundance
-  - name: Ralf Baum
-    twitter: businesscarrots
-  - name: Tom Noeding
-    twitter: Roquane
-  - name: Florian Mayr 
-  - name: Andrea  Schmidt 
-  - name: Tim Krebs 
-  - name: Heiko Franssen
-    twitter: nervenblank
-  - name: Dawid Gajdosz 
-  - name: sonja ludscheidt
-    twitter: loca_li
-  - name: Frank Meyerer
-    twitter: B00N
-  - name: Max Stockner
-    twitter: tweetmaex
-  - name: Daniel Zwicker 
-  - name: Monika E.  König
-    twitter: mons7
-  - name: Katharina Geoerger
-    twitter: http://www.twitter.com/katharinaGpunkt
-  - name: Jesse Adler
-    twitter: loca_li
-  - name: Alex Boerger
-    twitter: alexboerger
-  - name: Philon Terving
-    twitter: Bytesplit
-  - name: Oliver Kuhn
-    twitter: okuhn
-  - name: Nikolaus Gradl
-    twitter: gradl
-  - name: Andreas Heigl
-    twitter: heiglandreas
-  - name: Sven Przepiorka
-    twitter: sprzepiorka
-  - name: Frank Rein
-    twitter: cowo21
-  - name: eric engelter
-    twitter: ericfra89
-  - name: Katja Abrams 
-  - name: Thomas Schlosser
-    twitter: tschloss
-  - name: Claus Peter Neff
-    twitter: nikonshooter62
-  - name: Christian Fleschhut
-    twitter: cfleschhut
-  - name: steffen schilke 
-  - name: Rainer Standke 
-  - name: Marvin Blase
-    twitter: beautifycode
-  - name: Julian Finn
-    twitter: hdsjulian
-  - name: Thorsten Rühl 
-  - name: Diana Standke 
-  - name: Sonja Königsberg
-    twitter: FrauOnk
-  - name: Guido Gansel 
-  - name: Kore Nordmann
-    twitter: koredn
-  - name: Martin Waldau
-    twitter: skyfyre
-  - name: Thomas Nolte
-    twitter: SaxoTom
-  - name: Jan Eberl
-    twitter: assiprinz
-  - name: Paulina Welzenbach 
-  - name: Tobias Schlitt
-    twitter: tobySen
-  - name: Bastian Berkner
-    twitter: BFGames
-  - name: Jan Käseberg 
-  - name: Astrid Fischer
-    twitter: aif
-  - name: Kirsten Franke 
-  - name: Miriam Slawik 
-  - name: Sebastian Erb 
-  - name: Ralf Lieser 
-  - name: Lori Grosland
-    twitter: LoLoG
+  - name: "Alex Wenz"
+    tags: "Usability jQuery HTML5"
+  - name: "Alex Boerger"
+    twitter: "@alexboerger"
+    tags: "Kooperation Lobbyismus Internetbrunnen"
+  - name: "Alexandra Melzer"
+    twitter: "@underwaterkiss"
+    tags: "Design  "
+  - name: "Ali Pasha Foroughi"
+    twitter: "@alipasha"
+    tags: "location mobile real time"
+  - name: "Aljoscha Marcel Everding"
+    twitter: "@humpaaa"
+    tags: "ruby lehrer adhs"
+  - name: "Andrea  Schmidt"
+    tags: "Web 2.0 Social Media Web Marketing"
+  - name: "Andreas SCHEPERS"
+    twitter: "@AndreasSchepers"
+    tags: "PR20 Social Media Public Affairs"
+  - name: "Andreas Kiebs"
+    twitter: "@ak_74"
+    tags: "Android mobile internet technology"
+  - name: "Andreas Jacob"
+    twitter: "@cordobo"
+  - name: "Andreas Ebert"
+    twitter: "@andreas_ebert"
+    tags: "mobile location social"
+  - name: "Andreas Dantz"
+    twitter: "@dantz"
+    tags: "frontend photografie design"
+  - name: "Andreas Kompanez"
+    twitter: "@kompozer"
+  - name: "Andreas Pilz"
+    tags: "Screencasting Rails Outsourcing "
+  - name: "Andreas Renner"
+    twitter: "@andinichtandy"
+    tags: "Web 2.0 Design HTML 5, CSS3"
+  - name: "Andreas Heigl"
+    twitter: "@heiglandreas"
+    tags: "php  "
+  - name: "Angela Reinbold"
+    twitter: "@reinseite"
+    tags: "Marketing Design Web"
+  - name: "Anja Rau"
+    twitter: "@Konzeptionerd"
+    tags: "IA eCommerce Service Design"
+  - name: "Anja Guhlan"
+    twitter: "@oceane"
+    tags: "Social Media  Web 2.0  SEO"
+  - name: "Ansgar Hein"
+    twitter: "@webstandardsmag"
+    tags: "Webstandards Accessibility Mashups"
+  - name: "Astrid Fischer"
+    twitter: "@aif"
+    tags: "IA UX UCD"
+  - name: "Barbara Wissenbach"
+  - name: "Bastian Berkner"
+    twitter: "@BFGames"
+    tags: "Community Management Social Media Videos"
+  - name: "Ben Praße"
+    twitter: "@ben_mz"
+  - name: "Benjamin Mueller"
+    twitter: "@silberpuls"
+  - name: "Bianca Gade"
+    twitter: "@ChiliConCharme"
+    tags: "Enterprise 2.0 Strategie Social Media Innovationen"
+  - name: "Birte Frey"
+    twitter: "@feuermaedchen"
+  - name: "Björn Wibben"
+    twitter: "@jsugfra"
+    tags: "JavaScript HTML5 Webstandards"
+  - name: "Brigitte Luckhardt"
+    tags: "Usability Barrierefreiheit Web 2.0"
+  - name: "Carsten Kobisch"
+    twitter: "@www.twitter.com/ck1608"
+    tags: "Mobile Social Media Development"
+  - name: "Carsten Sandtner"
+    twitter: "@casarock"
+    tags: "Web 2.0 Projektmanagement Mobile Development"
+  - name: "Carsten Pötter"
+    twitter: "@carstenpoetter"
+    tags: "Data Portability OpenID Social Web"
+  - name: "Carsten Prüser"
+    twitter: "@cprueser"
+    tags: "E-Commerce Social Media Usability"
+  - name: "Carsten Logemann"
+    tags: "Drupal Social Media Wissensmanagement"
+  - name: "Christ Zengel"
+    twitter: "@Cpzengel"
+    tags: "Video Podcasting Server"
+  - name: "Christian Kunz"
+    twitter: "@designammain"
+    tags: "design ffm web"
+  - name: "Christian Münch"
+    twitter: "@twitter.com/cmuench"
+    tags: "php android "
+  - name: "Christian Schmeißer"
+    tags: "Usability Design User Interface"
+  - name: "Christian Nennemann"
+    twitter: "@XORwell"
+  - name: "Christian Schuster"
+    twitter: "@againstreality_"
+    tags: "WEB 2.0 Security Social Media"
+  - name: "Christian Nielebock"
+    twitter: "@PHP_Frip"
+    tags: "Web 2.0 PHP Security"
+  - name: "Christian Fleschhut"
+    twitter: "@cfleschhut"
+    tags: "JavaScript HTML5 Mobile Web"
+  - name: "Christoph Penter"
+    twitter: "@christophpenter"
+    tags: "Mobile Web Augmented Reality Location Based Services"
+  - name: "Christoph Martens"
+    twitter: "@martensms"
+    tags: "Usability HTML5 JavaScript APIs"
+  - name: "Christoph Burchert"
+    tags: "IT-Sicherheit Datenschutz Design"
+  - name: "Claus Peter Neff"
+    twitter: "@nikonshooter62"
+    tags: "Virtualisierung Social Networks Multimedia"
+  - name: "Daniel Kyak"
+    twitter: "@tiggerduck"
+  - name: "Daniel Rehn"
+    twitter: "@danielrehn"
+    tags: "Location Based Services Enabling Dynamic Ride Sharing"
+  - name: "Daniel Nitz"
+  - name: "Daniel Clauss"
+  - name: "Daniel Hanke"
+    twitter: "@DanielJHanke"
+    tags: "Social Media PR Online PR Krisen PR im Social Web"
+  - name: "Daniel Zwicker"
+  - name: "Daniela Schwörer"
+    twitter: "@Elyia"
+  - name: "Danielle Grossi"
+    twitter: "@branddevelop"
+    tags: "web 3.0 Online Brand Management "
+  - name: "Dariusz Josko"
+    twitter: "@icemen_77"
+  - name: "Darren Cooper"
+    twitter: "@dc7590"
+    tags: "Web 2.0 Social Media Open Source"
+  - name: "David Wasser"
+    twitter: "@dwass"
+    tags: "Useful Location-Based-Services Mobile"
+  - name: "David Donath"
+    tags: "Usability Marketing Community"
+  - name: "Dawid Gajdosz"
+    tags: "Twiter, Foursquare, Geowalla  "
+  - name: "Denis Knauer"
+    tags: "Digital Publishing Mobile Developement Usability"
+  - name: "Diana Standke"
+  - name: "dirk astrath"
+    tags: "security  "
+  - name: "Dirk Jesse"
+    twitter: "@djesse"
+    tags: "jQuery YAML Applications"
+  - name: "Dominik Schönfeld"
+    twitter: "@xaeron"
+    tags: "Social Media Marketing, Locationbased Services "
+  - name: "Dominik Sommer"
+    twitter: "@domsom"
+    tags: "Personalisierung Relevanz APML"
+  - name: "Dominik Berberich"
+    twitter: "@#!/mediaszenario"
+    tags: "Interactive Design Mobile-Applications Flash"
+  - name: "Dorothea Winterling"
+    tags: "i18n accessibility html5"
+  - name: "Dorthe Luebbert"
+    twitter: "@luebbert42"
+    tags: "Usability PHP RIA"
+  - name: "Edgar Kugel"
+    twitter: "@wochenschau"
+  - name: "Edmund Gröpl"
+    twitter: "@groepl"
+    tags: "ServiceDesign  ProcessDesign "
+  - name: "Eric Späte"
+    twitter: "@Kinocast"
+    tags: "Podcast Blog "
+  - name: "eric engelter"
+    twitter: "@ericfra89"
+    tags: "web2.0 Coworking , new work "
+  - name: "Fabian Knopf"
+    twitter: "@websprudel"
+  - name: "Fabian Beiner"
+    twitter: "@FabianBeiner"
+    tags: "Web-Entwicklung Projektmanagement Innovationen"
+  - name: "Felix Wassermann"
+    twitter: "@Felix_online"
+    tags: "Social Media Informationen - google, Menschen - facebook, what´s next? "
+  - name: "Florian Weber"
+    twitter: "@webflo"
+    tags: "Drupal PHP jQuery"
+  - name: "Florian Brandel"
+    twitter: "@flosen"
+    tags: "Frontend Javascript IPTV"
+  - name: "Florian Mayr"
+    tags: "Social Media  "
+  - name: "Frank Holldorff"
+    twitter: "@ravenonline"
+    tags: "Social Media Mobile Content Management"
+  - name: "Frank Hamm"
+    twitter: "@fwhamm"
+    tags: "Social Media Public Relations Enterprise 2.0"
+  - name: "Frank Meyerer"
+    twitter: "@B00N"
+  - name: "Frank Rein"
+    twitter: "@cowo21"
+  - name: "Friedhelm Fink"
+    twitter: "@friedhelmfink"
+    tags: "Telco 2.0 Widgets "
+  - name: "Friedrich Pfitzmann"
+    twitter: "@Pfitz"
+  - name: "Gaby  Becker"
+    twitter: "@condatapool"
+    tags: "CMS CSS Android"
+  - name: "Gerrit Sturm"
+  - name: "Gregory Igelmund"
+  - name: "Guido Gansel"
+    tags: "SEM Rapid Development Co-Working"
+  - name: "Günther Mulder"
+    twitter: "@gmulder"
+    tags: "UX IA Copy"
+  - name: "Heiko Franssen"
+    twitter: "@nervenblank"
+    tags: "Scrum Fast Projects Usability"
+  - name: "Helena Thome"
+    twitter: "@dm_sundance"
+    tags: "Social Media  "
+  - name: "Helge Emeritzy"
+    tags: "Web 2.0 SEM SEO"
+  - name: "Hendrik Sommerfeldt"
+    twitter: "@hsommerfeldt"
+    tags: "UXD IA Service Design"
+  - name: "Henrik Arndt"
+  - name: "Holger Deist"
+  - name: "Ingmar Drewing"
+    twitter: "@ingmardrewing"
+    tags: "Strategic Design Informationsarchitektur Usability"
+  - name: "Ingo Becker"
+    twitter: "@iblicker"
+    tags: "agile communication enterprise 2.0 reputation management"
+  - name: "Irmela Ketelhut"
+    twitter: "@_iKet"
+    tags: "Social Media Projektmanagement  Online-Marketing"
+  - name: "Jacob Chromy"
+    twitter: "@antipreneur"
+    tags: "E-Commerce Social Media Blogs"
+  - name: "Jan Eggers"
+    twitter: "@untergeekDE"
+    tags: "Datenjournalismus Social Media "
+  - name: "Jan Deppisch"
+    twitter: "@netzartist"
+    tags: "HTML5 CSS3 Javascript"
+  - name: "Jan Schuster"
+    twitter: "@jan_schuster"
+  - name: "Jan westerbarkey"
+    twitter: "@westerbarkey"
+    tags: "E2.0 Netzneutralität Datenschutz"
+  - name: "Jan Eberl"
+    twitter: "@assiprinz"
+    tags: "Design Typo Catcontent"
+  - name: "Jan Käseberg"
+  - name: "Jens Becker"
+    twitter: "@graydsl"
+    tags: "Game Design Flash Android"
+  - name: "Jens Grochtdreis"
+    twitter: "@Flocke"
+    tags: "Informationsarchitektur Usability jQuery"
+  - name: "Jens Himmelrath"
+    twitter: "@himmelrath"
+    tags: "mobile development UX Linguistics"
+  - name: "Jens Calisti"
+    tags: "Design Web 2.0 Usability"
+  - name: "Jesse Adler"
+    twitter: "@loca_li"
+    tags: "locationbasedservices nodejs smartphones"
+  - name: "Jo-Ann de la Fuente"
+    twitter: "@nonpar"
+    tags: "User Experience Frontend Development Social Media"
+  - name: "Jochen Bachmann"
+    twitter: "@calibanatspace"
+  - name: "Jochen Hiller"
+    twitter: "@jochenhiller"
+    tags: "Mobile Apps Android iPhone"
+  - name: "Johannes Georg"
+    twitter: "@Pixelfahnder"
+    tags: "Mobile Android WebService"
+  - name: "Jonas Schmidt"
+    tags: "Usability Interaction Design Smartphone Development"
+  - name: "Jonathan Maron"
+    twitter: "@jonathanmaron"
+  - name: "Jörg Thoß"
+    twitter: "@jthos"
+    tags: "Web 2.0 Mobile Web Social Media"
+  - name: "Jörg Hoheisel"
+    twitter: "@jhoheisel"
+    tags: "UX Informationsarchitektur IxD"
+  - name: "Juergen Eichholz"
+    twitter: "@jke"
+  - name: "Julia Bauhoff"
+    twitter: "@juliabbh"
+    tags: "security usability twitter"
+  - name: "Julia Abb"
+    tags: "Web 2.0 Social Media Usability"
+  - name: "Julia Fastner"
+    tags: "Social Communities  "
+  - name: "Julian Finn"
+    twitter: "@hdsjulian"
+  - name: "Kai Eberwein"
+    tags: "Design Usability "
+  - name: "Karsten Sauer"
+    twitter: "@sauerstoff"
+    tags: "Location Based Services Gründen Mashups"
+  - name: "Katharina Geoerger"
+    twitter: "@katharinaGpunkt"
+    tags: "design webdesign social media"
+  - name: "Kathrin Eisenbarth"
+    tags: "social Media Design Usability"
+  - name: "Katja Abrams"
+    tags: "Design, Entwicklungsgrundlagen, Usability, Konzeption  "
+  - name: "Kersten A. Riechers"
+    twitter: "@dasKerst"
+  - name: "Kerstin Probiesch"
+    twitter: "@kprobiesch"
+    tags: "Web 2.0 Usability "
+  - name: "Kirsten Marchlewski"
+    twitter: "@ladymasiki"
+    tags: "Design Webfonts Mobile"
+  - name: "Kirsten Franke"
+  - name: "Konrad Förstner"
+    twitter: "@konradfoerstner"
+    tags: "OpenGov  "
+  - name: "Kore Nordmann"
+    twitter: "@koredn"
+  - name: "Laura Kupczyk"
+    twitter: "@dm_alverde und @Frl_K"
+    tags: "Social Media Markenführung im Web 2.0 "
+  - name: "Lena Jordan"
+    twitter: "@leschmuuu"
+    tags: "Information Architecture Usability Social Media"
+  - name: "Loan  Nguyen"
+    tags: "Flash und Barrierefreiheit  HTML5 und Flash Prototyping"
+  - name: "Lori Grosland"
+    twitter: "@LoLoG"
+  - name: "Manuela Hamm"
+    twitter: "@manuela"
+  - name: "Marc Becker"
+    twitter: "@Bit_Pirate"
+    tags: "Continuous Deplyoment PHP 5.3 Zend Framework 2.0"
+  - name: "Marc Schroetel"
+    twitter: "@marsbear"
+    tags: "Unity Java GWT"
+  - name: "Marcel Schler"
+    twitter: "@zwoelftermann"
+    tags: "Social Media Design "
+  - name: "marcel  etzel"
+    tags: "user experience mobile development community"
+  - name: "Marcel Ackermann"
+    twitter: "@DreamFlasher"
+    tags: "Data Mining Game Theory Cognitive Science"
+  - name: "Marco Tidona"
+    twitter: "@m_a_r_c_o"
+    tags: "Softwareentwicklung Startuperfahrungen Mobile Web"
+  - name: "Marie Dietz"
+    twitter: "@zwergschwein"
+    tags: "Webdesign Web 2.0 "
+  - name: "Mario Hachemer"
+    twitter: "@Roritharr"
+    tags: "Gaming Crowdsourcing Recht"
+  - name: "Markus Sowada"
+    twitter: "@Morgenland"
+    tags: "Intranets Wissensmanagement Projekt Management"
+  - name: "Markus Henkel"
+    twitter: "@EbbeSand"
+    tags: "Datenschutz Web 2.0 SEO"
+  - name: "Markus Knittig"
+    twitter: "@mknittig"
+    tags: "Scala Android "
+  - name: "Markus Barchfeld"
+    tags: "Android Entwicklung  "
+  - name: "Markus Jakobs"
+    twitter: "@kehrseite"
+    tags: "twitter socialmedia kultur"
+  - name: "Markus Griesbach"
+    tags: "jQuery Content Management "
+  - name: "Markus Seim"
+    twitter: "@matzelkoenig"
+    tags: "Wohnen im Internet Community Community Managment"
+  - name: "Martin Kliehm"
+    twitter: "@kliehm"
+    tags: "HTML5 Barrierefreiheit W3C"
+  - name: "Martin Kraft"
+    twitter: "@martin_kraft"
+    tags: "Interaktionsdesign Flash / ActionScript Animation"
+  - name: "Martin Rothenberger"
+    twitter: "@insanus"
+    tags: "UI Design Scalability Performance"
+  - name: "Martin Fache"
+    twitter: "@myrbel"
+    tags: "agile Entwicklung Scrum PHP"
+  - name: "Martin Reichard"
+    twitter: "@mart_out"
+    tags: "Scrum Highly Innovative E-Commerce Social Gaming"
+  - name: "Martin Waldau"
+    twitter: "@skyfyre"
+    tags: "Development Gaming UX"
+  - name: "Marvin Blase"
+    twitter: "@beautifycode"
+    tags: "Adobe AIR / Flash Android / iOS User Experience"
+  - name: "Matthias Pfefferle"
+    twitter: "@pfefferle"
+    tags: "OpenWeb federated social web OpenID"
+  - name: "Matthias Gutjahr"
+    twitter: "@mattsches"
+    tags: "php opendata "
+  - name: "Matthias Thürling"
+    twitter: "@web20typ"
+    tags: "Mobile Enterprise 2.0 Social Media"
+  - name: "Matthias Strack"
+    twitter: "@bobbes"
+    tags: "Linux Android Mobile Web"
+  - name: "Max Lill"
+    twitter: "@jedimax"
+    tags: "Web Prozess-Optimierung Blogging"
+  - name: "Max Stockner"
+    twitter: "@tweetmaex"
+    tags: "spontanität php usability"
+  - name: "Mel B"
+    tags: "mobile, augmented reality interactive, design "
+  - name: "Melanie Arnold"
+    tags: "Usability Web 2.0 Wiki"
+  - name: "Melanie Möller"
+    twitter: "@factsandfriends"
+    tags: "Web 2.0  "
+  - name: "Melly Lehmann"
+  - name: "Michael Krech"
+    tags: "Mobile  "
+  - name: "Michael Manger"
+    twitter: "@twitter.com/alphazeichen"
+    tags: "Online-PR Social Media AR"
+  - name: "Michael Probst Stuckmann"
+  - name: "Michael M. Roth"
+    twitter: "@MicialMedia"
+    tags: "Twitter, Facebook, LBS, Chancen, Risiken, Dialog, Konsensgesellschaft  "
+  - name: "Michaela Hachemer"
+    twitter: "@Levistica"
+    tags: "Usability Informationsarchitektur Java"
+  - name: "mimi ansorge"
+    twitter: "@ansomic"
+  - name: "Miriam Slawik"
+    tags: "Design Webdesign social media"
+  - name: "Monika E.  König"
+    twitter: "@mons7"
+    tags: "Twitter Web 2.0 Actor-Network-Theory"
+  - name: "Nicola Appel"
+    twitter: "@https://twitter.com/NicolaAppel"
+  - name: "Nicole Lücking"
+    tags: "Web 2.0 html 5 digitales Storytelling"
+  - name: "Nikola Bott"
+    tags: "Design  "
+  - name: "Nikolaus Gradl"
+    twitter: "@gradl"
+    tags: "iPhone LBS Check-In"
+  - name: "Nina Hasubek"
+  - name: "Norbert Möhring"
+    twitter: "@TheSmile82"
+    tags: "Android Cloud-Computing Softwaredevelopment"
+  - name: "Olaf Klöppel"
+  - name: "Oliver Kuhn"
+    twitter: "@okuhn"
+    tags: "Webentwicklung  "
+  - name: "Patricia Carratala Mendez "
+    twitter: "@Patcar09"
+    tags: "Nachhaltigkeit & Social Media   "
+  - name: "Patrick Schneider"
+    twitter: "@daspat"
+    tags: "Konzeption Informationsarchitektur Konversionsraten Optimierung"
+  - name: "Paul Herwarth von Bittenfeld"
+    twitter: "@pherwarth"
+    tags: "Social Media Scrum / Projektorganisation Kundenintegration"
+  - name: "Paul Sellinger"
+    tags: "Usability HTML5 Barrierefreies Webdesign"
+  - name: "Paulina Welzenbach"
+  - name: "Peter  Löwenstein "
+    twitter: "@Gersprenz "
+    tags: "mobile Android georeferencing"
+  - name: "Peter Eulberg"
+    twitter: "@peulberg"
+    tags: "Projektmanagement Beratung Anforderungsdefinition"
+  - name: "Petra Bauernfeind"
+    tags: "Usability Web2.0 Productmanagement"
+  - name: "Philon Terving"
+    twitter: "@Bytesplit"
+    tags: "Usability Web3.0 "
+  - name: "Pia Steinbauer"
+    twitter: "@piasteinbauer"
+    tags: "Web 2.0 jquery design"
+  - name: "Rafael Tomic"
+    twitter: "@rafaeltomic"
+    tags: "Location Mobile "
+  - name: "Rainer Standke"
+    tags: "Design, Usabilty, Java  "
+  - name: "Ralf Baum"
+    twitter: "@businesscarrots"
+    tags: "E-Learning Usability Screencast"
+  - name: "Ralf Lieser"
+  - name: "Raphael Kallensee"
+    twitter: "@rkallensee"
+    tags: "development ruby free software"
+  - name: "Rene Kurfürst"
+    twitter: "@ruesseltier"
+    tags: "kaffee fotografie podcast"
+  - name: "Reto Kiefer"
+    twitter: "@retokiefer"
+    tags: "agile scrum ria"
+  - name: "Robert Lokaiczyk"
+    tags: "E-Government E-Participation Web 2.0"
+  - name: "Roland Seng"
+    tags: "Webstandards Design Mobile"
+  - name: "Roland Baldenhofer"
+    tags: "projektmanagement agile ajax"
+  - name: "Roman Hanhart"
+    twitter: "@thurgau"
+    tags: "OpenSource Linux Community"
+  - name: "Ruben Hanhart"
+    tags: "Ubuntu Spiele Kindersoftware"
+  - name: "Sascha Goebel"
+    twitter: "@dasilentstorm"
+    tags: "Mobile 3D "
+  - name: "Sebastian Fastner"
+    twitter: "@fastner"
+    tags: "Mobile JavaScript Usability"
+  - name: "Sebastian Werner"
+    twitter: "@wpbasti"
+    tags: "Web Python JavaScript"
+  - name: "Sebastian Preis"
+  - name: "Sebastian Erb"
+  - name: "Shira-Susanne Langenberger"
+  - name: "Silke Berz"
+    twitter: "@paulinepauline"
+    tags: "Mobile User Experience "
+  - name: "Simone Bolte"
+  - name: "sonja ludscheidt"
+    twitter: "@loca_li"
+    tags: "location based services iphone app "
+  - name: "Sonja Königsberg"
+    twitter: "@FrauOnk"
+    tags: "E-Commerce seo usability"
+  - name: "Stefan Pauly"
+    twitter: "@StefanPauly"
+    tags: "Semantic Web *BSD "
+  - name: "Stefan Koelle"
+    twitter: "@StefanKoelle"
+    tags: "unternehmertum web3.0 gtd"
+  - name: "Stefan Pohl"
+    twitter: "@Dailyplaces"
+    tags: "Social Media Mobile Commerce UX"
+  - name: "Stefan Kilp"
+    tags: "web 2.0 usability php"
+  - name: "Stefan Opitz"
+    twitter: "@stefanopitz"
+    tags: "Mobile Usability Tablets"
+  - name: "Stefan Antoni"
+    twitter: "@suchkultur"
+    tags: "Search NoSQL Semantic Web"
+  - name: "Stefanie Ebbert"
+    twitter: "@cooky75"
+  - name: "steffen schilke"
+    tags: "qrcode lbs mobile"
+  - name: "Stephan Linzner"
+    tags: "android mobile future trends and technologies"
+  - name: "Susanna Künzl"
+    twitter: "@susannakuenzl"
+    tags: "php web entwicklung webstandards"
+  - name: "Susanne Adler"
+    twitter: "@quadratpunkt"
+    tags: "#web2.0 #CMS #Mobile"
+  - name: "Susanne Frey"
+    tags: "Design Web 2.0 Social Media"
+  - name: "Sven Holzbach"
+  - name: "Sven Przepiorka"
+    twitter: "@sprzepiorka"
+    tags: "Web 2.0 Politik 2.0 Wissensmanagement"
+  - name: "Tanja Morschhäuser"
+    twitter: "@cassiopeia"
+    tags: "Social Media Journalismus Community Management"
+  - name: "Thilo Specht"
+    twitter: "@tspe"
+    tags: "Strategie Unternehmenskommunikation Cloud Services"
+  - name: "Thomas Rühl"
+    twitter: "@elysian"
+    tags: "User Experience Flash Platform (Flex/AIR) Prozessmanagement"
+  - name: "Thomas Olsen"
+    twitter: "@tolsen"
+    tags: "microblogging enterprise 2.0 collaboration"
+  - name: "Thomas Heidrich"
+    twitter: "@gnuheidix"
+    tags: "Linux Piratenpartei Java"
+  - name: "Thomas Büdinger"
+    twitter: "@thomasbuedinger"
+  - name: "Thomas Schlosser"
+    twitter: "@tschloss"
+  - name: "Thomas Nolte"
+    twitter: "@SaxoTom"
+    tags: "Web 2.0 Social Media Mobile Solutions"
+  - name: "thorsten bruck"
+    twitter: "@thorstnbrck"
+    tags: "design social media web 2.0"
+  - name: "Thorsten Rühl"
+    tags: "HTML5 Realtime Web Javascript"
+  - name: "Tim Krebs"
+    tags: "Usability Mobiles Apps Internet of things"
+  - name: "Timo Derstappen"
+    twitter: "@teemow"
+    tags: "javascript cloudcomputing mobile"
+  - name: "Tina Schwarze"
+    twitter: "@tinaschwarze"
+    tags: "social media web 2.0 kommunikation"
+  - name: "Tobias Reitz"
+    twitter: "@don_journaille"
+    tags: "Social Media Online-PR Webdesign"
+  - name: "Tobias Günther"
+    twitter: "@elaspix"
+    tags: "interaktiv 3D Animation"
+  - name: "Tobias Schlitt"
+    twitter: "@tobySen"
+    tags: "php software quality web 2.0"
+  - name: "Tom Klose"
+    twitter: "@humanized"
+    tags: "Design UX "
+  - name: "Tom Noeding"
+    twitter: "@Roquane"
+    tags: "Community Management Mobile Facebook"
+  - name: "Torsten Herrmann"
+    twitter: "@torstenherrmann"
+    tags: "Online Marketing B2B Web 2.0 B2B Social Media B2B"
+  - name: "Torsten Zander"
+    twitter: "@torstenzander"
+    tags: "php Qa "
+  - name: "Ute Hauth"
+    twitter: "@miradlo"
+    tags: "web linux menschen"
+  - name: "Verena Lindner"
+    twitter: "@kommunikonautin"
+    tags: "Web 2.0 Projektmanagement Usability"
+  - name: "Verena Osgyan"
+    twitter: "@osgyan"
+    tags: "Usability Onlineredaktion Onlinemarketing"
+  - name: "Verena Berghof"
+    twitter: "@#!/veerina"
+    tags: "Unternehmenskommunikation Web 2.0 Motivation"
+  - name: "Walter Ebert"
+    twitter: "@wltrd"
+    tags: "usability opensource search"
+  - name: "Yann Martin"
+    tags: "Web 2.0 E-Commerce HR Marketing"
+2009:
+  - name: "Alex Boerger"
+    twitter: "Alexboerger"
+    tags: "Design SocialMedia Welt"
+  - name: "Alex Knaub"
+  - name: "Alexander Mechler"
+    tags: "flash design ria"
+  - name: "Alexander Melle"
+    twitter: "http://twitter.com/mysamfex"
+    tags: "Ruby & Rails Web 2.0 "
+  - name: "Alexander Born"
+    tags: "Internet of Things Cloud Computing Datenschutz"
+  - name: "Andreas Höflich"
+    twitter: "hoeflich_de"
+    tags: "Web 2.0 Social Media "
+  - name: "Andreas Kiebs"
+    twitter: "ak_74"
+  - name: "Andreas Schepers"
+    twitter: "AndreasSchepers"
+    tags: "Social Media PR 2.0 "
+  - name: "Andreas Pilz"
+    tags: "Screencasting Learn2use Rails"
+  - name: "Andreas Jacob"
+    twitter: "cordobo"
+  - name: "Andreas Kompanez"
+    tags: "Design Politik Usability"
+  - name: "Andreas Zehfuß"
+    twitter: "bildbunt"
+    tags: "Design Social-Media Inovation"
+  - name: "Andreas Grunz"
+  - name: "Andy Rudorfer"
+    twitter: "bigod"
+    tags: "Webdesign Webstandards Web Entwicklung"
+  - name: "Angela Reinbold"
+    twitter: "http://twitter.com/reinseite"
+    tags: "User Experience Usability Informationsarchitektur"
+  - name: "Anh Tuan Van"
+    tags: "Python IT Infrastruktur Scrumm"
+  - name: "Anna Stadelmann"
+    twitter: "annimages"
+    tags: "Urheberrecht Netzzensur social media"
+  - name: "Anna Kleiner"
+    tags: "Design  "
+  - name: "Ansgar Schmidt"
+    twitter: "http://www.twitter.com/ansi"
+    tags: "Enterprise 2.0 Distributed Social Network Hackspace"
+  - name: "Antonia Ilski"
+    twitter: "soophie"
+  - name: "Arne Klempert"
+    twitter: "aklempert"
+    tags: "social media medienwandel wikis"
+  - name: "Axel Moser"
+    twitter: "axel_moser"
+    tags: "Web 2.0 E-Learning "
+  - name: "Barbara Wissenbach"
+    tags: "Usability Webdesign Informationsarchitektur"
+  - name: "Benjamin Josefus"
+    tags: "php java backend"
+  - name: "Bernd Baltz"
+    twitter: "bebal"
+    tags: "Social Media B2B Webstrategien und -trends Internetagenturen im Wandel"
+  - name: "Carlos Lorente"
+    tags: "Design Usability Web 3.0"
+  - name: "Carsten Kobisch"
+    twitter: "ck1608"
+  - name: "Carsten Sandtner"
+    twitter: "casarock"
+    tags: "Web 2.0 Usability Mobile Web"
+  - name: "Carsten Pötter"
+    twitter: "carstenpoetter"
+    tags: "OpenID Open Web "
+  - name: "Carsten Fischer"
+    twitter: "yetanotherfish"
+    tags: "SocialMedia Usability Microblogging"
+  - name: "Christian Kunz"
+    twitter: "designammain"
+    tags: "design socialmedia online"
+  - name: "Christian Münch"
+    twitter: "cmuench"
+    tags: "Entwicklung PHP CMS"
+  - name: "Christian Stalp"
+    tags: "Netzneutralität autonome Systeme Basisdemokratie "
+  - name: "Christian Bednarek"
+    twitter: "eazyliving"
+    tags: "Usability php Farben"
+  - name: "Christian Petri"
+    twitter: "Viperb0y"
+    tags: "Programmierung Sicherheit Java"
+  - name: "Christina von Poser"
+    twitter: "cvonposer, hofhausessen"
+    tags: "Design Typografie Offline"
+  - name: "Christof Schmitt"
+    twitter: "chsc"
+    tags: "Linux Web 2.0 Software"
+  - name: "Christoph Bleh"
+    twitter: "stopherl"
+    tags: "Corporate Web 2.0 Enterprise Portal Solutions Twitter"
+  - name: "Christoph Weigand"
+    tags: "Marketing Web 2.0 SEO"
+  - name: "Christoph Burchert"
+    tags: "IT-Security Kryptographie Forensik"
+  - name: "Christoph Lerch"
+    tags: "Usabilitiy  "
+  - name: "Christopher Etz"
+  - name: "Claudia Schmidt"
+    twitter: "fischchen"
+    tags: "Usability Augmented reality accessibility"
+  - name: "Claudia Schulz"
+    twitter: "cleudine"
+    tags: "Prozessoptimierung Gründercoaching Fotografie"
+  - name: "Clia Vogel"
+    twitter: "CliaVogel"
+    tags: "Social Web Usability Accessibility"
+  - name: "Constantin Noll"
+    twitter: "ConstantinNoll"
+  - name: "Constanze Lipowsky"
+    tags: "Möglichkeiten und Risiken des Internets Intelligente Suche Datenschutz"
+  - name: "Daneil Nitz"
+    twitter: "danielnitz"
+  - name: "Daniel Kyak"
+    tags: "Web 2.0 Softwaretechnik "
+  - name: "Daniel Zohm"
+    twitter: "zohmi"
+    tags: "Usability Web-Entwicklung Web 2.0"
+  - name: "Daniel Kersting"
+    twitter: "drewenut"
+    tags: "mobile web "
+  - name: "daniel schmitt"
+    twitter: "http://twitter.com/wikileaks"
+    tags: "freedom of information anticensorship "
+  - name: "Daniel Bagel"
+    twitter: "debagel"
+  - name: "Daniela Netzel"
+  - name: "Darren Cooper"
+    twitter: "dc7590"
+    tags: "social media mobile web php"
+  - name: "David Best"
+    twitter: "david999"
+    tags: "Social Media Marketing Nischenprodukte im Web Qualitätsmedien im Web"
+  - name: "Delphine Ménard"
+    twitter: "notafish"
+    tags: "wikis books open culture"
+  - name: "dennis köhl"
+    twitter: "denniskoehl"
+    tags: "Usability, Web 2.0, twitter, etccc  "
+  - name: "Diana Fazekas"
+    twitter: "dfazekas"
+    tags: "mobile marketing "
+  - name: "dirk astrath"
+    tags: "CAcert Security "
+  - name: "Dirk Jesse"
+    twitter: "djesse"
+    tags: "YAML JavaScript Frameworks"
+  - name: "Dirk Mueller"
+    twitter: "DirkMueller"
+    tags: "Frauen Mädels Möpse"
+  - name: "Dirk Songür"
+    twitter: "DirkSonguer"
+    tags: "Communitymanagement Gaming Information Design"
+  - name: "Dominik Deck"
+    twitter: "blaabla_de"
+    tags: "Community Usability Security"
+  - name: "Dominik Sommer"
+    twitter: "domsom"
+  - name: "Dorothea Winterling"
+    tags: "accessibility multilingualism usability"
+  - name: "Eric Eggert"
+    twitter: "Yatil"
+    tags: "Semantic Html CSS"
+  - name: "Fabian  Tempel"
+    twitter: "trilodge"
+    tags: "webstandards usability barrierefreiheit"
+  - name: "Fabian Knopf"
+    twitter: "http://www.twitter.com/FabianKnopf"
+  - name: "Fabian Beiner"
+    twitter: "FabianBeiner"
+    tags: "web 2.0 web entwicklung webstandard"
+  - name: "Felix Schmitt"
+    twitter: "felix_schmitt"
+    tags: "WEB 2.0 Datenschutz "
+  - name: "Ferdinand Mühlhäuser"
+    tags: "frents Your People Your Things"
+  - name: "Florian Brandel"
+    twitter: "flosen"
+    tags: "Frontend Web 2.0 IPTV"
+  - name: "Florian Altherr"
+    twitter: "altherr"
+    tags: "Datenschutz Politik Semantic Web"
+  - name: "Florian Steglich"
+    twitter: "http://twitter.com/fst"
+    tags: "Social Media Journalismus Blogs"
+  - name: "Florian Reuschenbach"
+    twitter: "reuschi"
+  - name: "Florian Preis"
+    twitter: "mr_flo"
+    tags: "Usability, Ixda Ux"
+  - name: "Frank Hamm"
+    twitter: "fwhamm"
+    tags: "Public Relations Enterprise 2.0 Corporate Culture"
+  - name: "Frank Holldorff"
+    twitter: "ravenonline"
+    tags: "kaffee drupal social media"
+  - name: "franziska heine"
+  - name: "Friedel Völker"
+    tags: "Stadtwikis OpenContent Community"
+  - name: "Friederike Barie"
+    twitter: "friederikebarie"
+  - name: "Friedrich Pfitzmann"
+    twitter: "pfitz"
+  - name: "Gerald Hensel"
+    twitter: "ghensel"
+    tags: "Social Media Cases Usability Mobile"
+  - name: "Gerrit van Aaken"
+    twitter: "gerritvanaaken"
+    tags: "Design Podcasting PHP"
+  - name: "Gunthart Mau"
+    twitter: "http://twitter.com/gunthartmau"
+    tags: "Social Networking  Business Communication  Web 2.0 Tools"
+  - name: "Günther Mulder"
+    twitter: "gmulder"
+    tags: "UX-Design X-Device Web_Writing"
+  - name: "Guy Simonow"
+    twitter: "netzlaborant"
+    tags: "social media webdesign web entwicklung"
+  - name: "Hannes Trapp"
+    twitter: "ht82"
+    tags: "Fotografie web2.0 socialweb"
+  - name: "Harald Scherbach"
+  - name: "Hardy Linke"
+    twitter: "kedmanee"
+    tags: "Internet Webstandards Community"
+  - name: "Hasan Öztas"
+    twitter: "Sybo"
+    tags: "Mobile Web Social Media "
+  - name: "Heidi Schapke"
+    tags: "Usability Design Programmierung"
+  - name: "Heiko Franssen"
+    twitter: "nervenblank"
+    tags: "FLEX UX "
+  - name: "Heiko Horst"
+    tags: "Liquid democracy Online reputation Identity Fraud"
+  - name: "Heiko Titz"
+    twitter: "IA303"
+    tags: "Usability Informationsarchitektur Scrum"
+  - name: "Helge Richter"
+    twitter: "McWizardXL"
+  - name: "Hendrik Sommerfeldt"
+    twitter: "nuglue"
+    tags: "Interaction Design Information Architecture USer Experience Design"
+  - name: "Henning Krieg"
+    twitter: "www.twitter.com/kriegs_recht"
+    tags: "Recht Medienkompetenz Geschäftsmodelle"
+  - name: "Henrik Arndt"
+    tags: "Information Architecture Interaction Design UX Concepts"
+  - name: "Herbert Göttler"
+  - name: "Holger Deist"
+  - name: "Irmela Ketelhut"
+    twitter: "_iKet"
+    tags: "Web 2.0 information architecture "
+  - name: "Jan Schmidt-Lange"
+    twitter: "Jan_SL"
+    tags: "User Experience Design E-Commerce"
+  - name: "Jan Theofel"
+    twitter: "jantheofel"
+    tags: "Blogs Barcamps Kochen"
+  - name: "Jan Krämer"
+    twitter: "camelus_minimus"
+    tags: "books4freaks data social networks"
+  - name: "Jan Deppisch"
+    twitter: "Jug"
+    tags: "HTML5 CSS3 Webstandards"
+  - name: "Jan Eggers"
+    twitter: "untergeekDE"
+  - name: "Jan Orth"
+    twitter: "janorth"
+    tags: "Konzept / Idee Netzwerkkompetenz für Marken Dialog Marke Kunde"
+  - name: "Jan Karl Lamboy"
+  - name: "Jannis Kucharz"
+    twitter: "netzfeuilleton"
+  - name: "Jennifer Moss"
+    twitter: "missmoss"
+    tags: "Design Usability Conceptionel Design"
+  - name: "Jens Grochtdreis"
+    twitter: "Flocke"
+    tags: "Usability Webstandards Mobiles Webdesign"
+  - name: "Jens Himmelrath"
+    tags: "Usability Interaction Web 2.0 Development"
+  - name: "Johanna Renner"
+    twitter: "joblerone"
+    tags: "Online Marketing Communities Ideen"
+  - name: "Johannes Marrtius"
+    tags: "Usability Php Development"
+  - name: "Johannes Kleske"
+    twitter: "jkleske"
+    tags: "marketing future of work smart cities"
+  - name: "Johannes Georg"
+    twitter: "pixelfahnder"
+    tags: "Android GPS Sport"
+  - name: "Jonas Lerch"
+    twitter: "lsanoj"
+    tags: "it-sec PR iRights"
+  - name: "Jörg Hoheisel"
+    twitter: "joho3001"
+    tags: "user experience information architecture mobile internet and ux"
+  - name: "Joseph Freiburg"
+    twitter: "josephfreiburg"
+    tags: "RIA Web 2.0 "
+  - name: "Julia Jennewein"
+    twitter: "julijenne"
+  - name: "Julia Reda"
+    twitter: "senficon"
+    tags: "social media Netzkultur Webstandards"
+  - name: "Julia Balke"
+  - name: "Julian Heidenreich"
+    twitter: "dschulian"
+    tags: "IT basierte Innovation Spring/Java SPEM mit EPF Composer"
+  - name: "Julian Müller"
+    twitter: "dschu_"
+    tags: "Typografie Webdesign & -development Interfacedesign"
+  - name: "Kai-Christian v. Bockelberg"
+    twitter: "kchvb"
+    tags: "Startups Monetarisierung "
+  - name: "Karsten Sauer"
+    twitter: "sauerstoff"
+    tags: "Twitter Social Media Guidelines  m-Commerce"
+  - name: "katharina Rompf"
+    twitter: "https://twitter.com/kahta"
+  - name: "Katja Rietze"
+    twitter: "k_t_alking"
+  - name: "Katrin Schneider"
+    twitter: "kanina"
+    tags: "Web-Entwicklung Frontend "
+  - name: "Klaus Klein"
+    twitter: "kl_kl"
+    tags: "Web 2.0 Copyright social media"
+  - name: "Klaus Thiele"
+    twitter: "klausl"
+    tags: "mac podcasts twitter"
+  - name: "Klaus-Peter Baumgardt"
+    tags: "Blog Verlinkung Vernetzung"
+  - name: "Konstantin Filtschew"
+    twitter: "http://twitter.com/Fa11enAngel"
+    tags: "Design Innovation Web2.0 Web3.0 eLearning Programmierung Frameworks Grails Python Django Projektmanagement Unternehmensgründung"
+  - name: "Lars Wittenberg"
+    twitter: "larswittenberg"
+    tags: "Barrierefreies Webdesign  "
+  - name: "Lars Junker"
+    twitter: "zonzo"
+    tags: "Usability RIA Webstandards"
+  - name: "Loan Nguyen"
+  - name: "Ludwig Gatzke"
+    twitter: "ludwig24"
+    tags: "Usability User Experience "
+  - name: "Lukas Giebel"
+    twitter: "derluke123"
+    tags: "Web Entwicklung Usability Software Entwicklung"
+  - name: "Lutz Lengemann"
+    tags: "Mobile StartUp "
+  - name: "Marc Schroetel"
+    twitter: "marsbear"
+    tags: "Mobile Development Google Wave Softwareentwicklung"
+  - name: "Marc Bosecki"
+    twitter: "my2ct"
+    tags: "Web 2.0 Censorship "
+  - name: "Marc Becker"
+    twitter: "mbecker_mainz"
+  - name: "Marcel Ploch"
+    tags: "Web 2.0  Grails Zend Framework"
+  - name: "Marcel Böttcher"
+    twitter: "73inches"
+    tags: "Webdesign Konzeption Technikwürze-Podcast"
+  - name: "Marcel Rechlitz"
+    twitter: "marseillle"
+    tags: "usability web 2.0 social media"
+  - name: "Marcel Ackermann"
+    twitter: "DreamFlasher"
+    tags: "Theoretische Informatik, Android, JSF, Java Database Sharding, Web, Community, Internet, Security, Ajax, Usability, Design, Networking, Computer Science"
+  - name: "Marcel Etzel"
+    twitter: "tiescherabc"
+    tags: "Mobile App Usability Overcoming Social Barriers Location Based Services"
+  - name: "Marco Tidona"
+    twitter: "m_a_r_c_o"
+    tags: "php5 webdevelopment web"
+  - name: "Marco Borsotti"
+    twitter: "http://twitter.com/borsotti"
+    tags: "Usability UX Design Media Asset Managemant"
+  - name: "Mario Hachemer"
+    twitter: "Roritharr"
+    tags: "Gaming Web 2.0 Java"
+  - name: "Mario Jung"
+    tags: "Twitter Elternzeit Corporater SocialMedia"
+  - name: "Mark Masterson"
+    twitter: "mastermark"
+    tags: "social media web 2.0 java"
+  - name: "Markus Heissner"
+    tags: "Social Media, Web2.0 RIA, Ajax User Experience, Usability"
+  - name: "Markus Seim"
+    twitter: "twitter.com/matzelkoenig"
+    tags: "community wohnen SEO"
+  - name: "Markus Fuchs"
+    twitter: "Markus_Fuchs"
+  - name: "Marta Filipczyk"
+  - name: "Marta Kalka"
+  - name: "Martin Waldau"
+    twitter: "skyfyre"
+    tags: "game development social web php development"
+  - name: "Martin Fache"
+    twitter: "myrbel"
+    tags: "Community Agile Development Scrum"
+  - name: "Martin Koser"
+    twitter: "frogpond"
+    tags: "Innovation Design Wikis"
+  - name: "Martin Kliehm"
+    twitter: "kliehm"
+    tags: "Webstandards Accessibility HTML5"
+  - name: "Martin Kraft"
+    tags: "Design Interactive Usability"
+  - name: "Martin Reiche"
+    twitter: "mr_at_ka"
+    tags: "Usability social collaboration social software"
+  - name: "Martin Schumacher"
+    twitter: "keineantwort"
+    tags: "web 2.0 java mobile development"
+  - name: "Martin Friedrich"
+  - name: "Martin Gross"
+    twitter: "MartinGross"
+    tags: "Programmierung Startup "
+  - name: "Martina Uhlig"
+    twitter: "muhlix"
+    tags: "Web 2.0 Facebook E-Commerce"
+  - name: "Martina Diel"
+    twitter: "MartinaDiel"
+    tags: "Web 2.0 E-Recruiting Crowd Sourcing"
+  - name: "Mathias Reinhardt"
+    tags: "Social Networks Twitter Infrastructure for Web 2.0"
+  - name: "Matthias Thürling"
+    twitter: "web20typ"
+  - name: "Matthias Gutjahr"
+    twitter: "mattsches"
+  - name: "Matthias Zellmer"
+    twitter: "Zellmi"
+    tags: "User Experience Netzpolitik Webbasierte Gesellschaft"
+  - name: "Matthias Slovig"
+    twitter: "msslovi0"
+    tags: "Webdev (HTML5, CSS3) Design Web 2.0"
+  - name: "Matthias Schmidt"
+    tags: "Java Scala Groovy"
+  - name: "Max Lill"
+    twitter: "Jedimax"
+    tags: "Social Media Green IT Lifestyle"
+  - name: "Max Stockner"
+    twitter: "tweetmaex"
+    tags: "zend_framework security php"
+  - name: "Melanie Arnold"
+    tags: "Usability Intranet "
+  - name: "Michael Kraus"
+    twitter: "erstgeborener"
+    tags: "Usability Web 2.0 Networking"
+  - name: "Michael Volpert"
+    tags: "Web 2.0 Open Access "
+  - name: "Michael Kleinhenz"
+    twitter: "quendor"
+    tags: "Mobile Development Software Development Web 2.0"
+  - name: "Michael Herzog"
+    twitter: "m_herzog"
+    tags: "Web 2.0 Design Programmierung"
+  - name: "Michael Probst Stuckmann"
+    tags: "GIS javascript php"
+  - name: "Michael Löckelt"
+    twitter: "miloe"
+    tags: "Cloud Computing iPhone Development Web Entwicklung"
+  - name: "Michaela Brauburger"
+    tags: "Web 2.0 Internet - Sicherheit IT-Nachwuchs"
+  - name: "Michaela Hachemer"
+    twitter: "Levistica"
+    tags: "Usability Suchmaschinenoptimierung Java"
+  - name: "Milena Wondratschek"
+    tags: "Usability Social Networking Design"
+  - name: "Miriam Birner"
+    twitter: "Eigenfrequenz"
+  - name: "Nicola Appel"
+    twitter: "NicolaAppel"
+  - name: "Nicolai Knoll"
+    twitter: "knicolai"
+  - name: "Nicolas Bös"
+    tags: "Architecture & Design Web 2.0 Local Web"
+  - name: "Nils Keßler"
+    twitter: "nilskessler"
+  - name: "Nils Hagemann"
+    tags: "social media web trends user experience"
+  - name: "Nina Lötsch"
+    tags: "webdesign usability webentwicklung"
+  - name: "Norbert Möhring"
+    twitter: "TheSmile82"
+    tags: "Android Google Wave Softwaredevelopment"
+  - name: "Olaf Gleba"
+    tags: "Webentwicklung HTML5 "
+  - name: "Oliver Behm"
+    twitter: "www.twitter.com/OliverBehm"
+    tags: "Ecommerce Web 2.0  SEO"
+  - name: "Ossi Urchs"
+    twitter: "ossiu"
+    tags: "Web2.0 Social Networks Digital Natives"
+  - name: "Paul Bakaus"
+    twitter: "pbakaus"
+    tags: "JavaScript Usability Gaming"
+  - name: "Paul Herwarth von Bittenfeld"
+    twitter: "pherwarth"
+    tags: "Social Networks Social-Media-Tracking Social Media"
+  - name: "Peter Eulberg"
+    tags: "Projektmanagement  "
+  - name: "Philipp Renger"
+    twitter: "peate"
+    tags: "Social Media Measurement Social Commerce Social Networks connected"
+  - name: "Philipp Rogge"
+    twitter: "PhilippRogge"
+    tags: "Online Marketing Gründungsmarketing Reichweitengewinnung"
+  - name: "Pia Steinbauer"
+    twitter: "PiaSteinbauer"
+    tags: "open source cms web 2.0"
+  - name: "Pier-Paolo Porcelli"
+    twitter: "mobilerspaolo"
+  - name: "Pierce Treude"
+    twitter: "piercecologne"
+    tags: "Android Smartphones Samsung Mobilers"
+  - name: "Pierce Treude"
+    twitter: "piercecologne"
+    tags: "Android Smartphones Samsung Mobilers"
+  - name: "Pim Schravendijk"
+    twitter: "rdwrt"
+    tags: "android mobile "
+  - name: "Ralf  Baum"
+    twitter: "businesscarrots"
+    tags: "web 2.0  e-learning social media"
+  - name: "Raphael Kallensee"
+    twitter: "rkallensee"
+    tags: "XMPP Entwicklung Real-time"
+  - name: "Regine Heidorn"
+    twitter: "http://twitter.com/BitBoutique"
+    tags: "Informationsarchitektur Semantik Kultur"
+  - name: "Reiner Kempkes"
+    tags: "Web 2.0 Ajax Usability"
+  - name: "Renate Hermanns"
+    twitter: "http://twitter.com/Renaade"
+    tags: "Barrierefreiheit Flash Online-Marketing"
+  - name: "Reto Kiefer"
+    twitter: "retokiefer"
+    tags: "RIA Social Communities Software Developement"
+  - name: "Robert Gottwald"
+    twitter: "robgott"
+    tags: "Corporate Identity Web-Konzeption Frameworks"
+  - name: "Rocco Di Leo"
+    twitter: "actraiser"
+  - name: "Rocco Georgi"
+    twitter: "geeroc"
+    tags: "mobile web and widgets mobile web and widgets mobile web and widgets"
+  - name: "Sabine Ingenhorst"
+    tags: "Software-Entwicklung Web Entwicklung User Interface Design"
+  - name: "Sandra Kallmeyer"
+    twitter: "ScreenOrigami"
+  - name: "Sarah Nikolaus"
+    twitter: "elektrolese"
+    tags: "Web 2.0 Design Elektronisches Publizieren"
+  - name: "Sarah Esmaeili"
+    tags: "Usability Design Web 2.0"
+  - name: "Sascha Meier"
+    twitter: "saschameier"
+  - name: "Sascha Goebel"
+    twitter: "DaSilentStorm"
+    tags: "AJAX PHP Design"
+  - name: "Sebastian Fastner"
+    twitter: "fastner"
+    tags: "User Interface Design Mobile Development Java"
+  - name: "Sebastian Erb"
+  - name: "Sebastian Daume"
+    twitter: "posarSeb"
+  - name: "Sebastian Roth"
+    tags: "Web 2.0 web standards mobile development"
+  - name: "Sebastian Bombera"
+    tags: "social gaming usability security"
+  - name: "Sedat Özdemir"
+    twitter: "sedato"
+    tags: "Web 2.0 Echtzeit Web Web 3.0"
+  - name: "Sharon Stritzinger"
+    twitter: "fraustritzinger"
+    tags: "web 2.0 design usability"
+  - name: "Shira-Susanne Langenberger"
+  - name: "Sigrid Ehrmann"
+    tags: "web 2.0  "
+  - name: "Silke Berz"
+    twitter: "paulinepauline"
+    tags: "UX IA E-Commerce"
+  - name: "Silke Arend"
+    tags: "Wikis in Unternehmen Social Media Marketing "
+  - name: "Sonja Schoett"
+    twitter: "blaugelbrot"
+    tags: "Usability, Design Agile Softwareeentwicklung eCommerce"
+  - name: "Stan Krause"
+    twitter: "yuunik"
+    tags: "Usability Ecommerce "
+  - name: "Stanislav Velychko"
+    tags: "Flex Design "
+  - name: "Stefan Pauly"
+    tags: "*BSD Semantic Web OSS"
+  - name: "Stefan Nitzsche"
+    twitter: "stn1978"
+    tags: "Development Design Consulting"
+  - name: "Stefan Kilp"
+    tags: "Usability, Design, Web 2.0  "
+  - name: "Stefan Schneider"
+    twitter: "holodoctor"
+    tags: "JavaFX Java "
+  - name: "Stefan Hoyer"
+    twitter: "www.twitter.com/nachtagentnebln"
+    tags: "Grundlagen und Ziele des Barcamps Feedback der Teilnehmer zur Ideation und Research Phase Ermitteln von Meinungen zum Thema \"Audio River\" (Ideation)"
+  - name: "Stefan Peter Roos"
+  - name: "Stefanie  Kegel"
+    twitter: "guerillagirl_"
+    tags: "Usability Design User-Experience"
+  - name: "Steffen Busse"
+  - name: "Stephan Linzner"
+    twitter: "http://www.twitter.com/onlythoughtwork"
+    tags: "Mobile Web  "
+  - name: "Stephan Schmidt"
+    twitter: "stephanschmidt"
+  - name: "Stephanie Jost"
+    tags: "Web 2.0 Social Communities WebApps"
+  - name: "Susanna Künzl"
+  - name: "Susanne Adler"
+    twitter: "https://twitter.com/quadratpunkt"
+    tags: "Usability, Web 3.0, Internet zukunft"
+  - name: "Sven Holzbach"
+  - name: "Sven Kaemper"
+    twitter: "svenkaemper"
+    tags: "Informationsarchitektur Konzeption User Experience"
+  - name: "Sven Wiesner"
+    twitter: "www.twitter.com/svenwiesner"
+    tags: "Social Media Social Media Social Media"
+  - name: "Thilo Specht"
+    twitter: "tspe"
+    tags: "Kommunikation Social Media Online-Marketing"
+  - name: "Thomas Rühl"
+    twitter: "elysian"
+    tags: "UX IA RIA"
+  - name: "Thomas Zimmerling"
+    tags: "Web 2.0 PR "
+  - name: "Thomas Lempa"
+    twitter: "bartekk"
+    tags: "Usability Barierefreiheit "
+  - name: "Thomas K."
+    twitter: "der_andere"
+    tags: "web2.0 barrierefreiheit netzpolitik"
+  - name: "Thomas Trams"
+    twitter: "ttrams"
+    tags: "Open Innovation Enterprise 2.0 "
+  - name: "Thomas Gottron"
+    twitter: "tgottron"
+    tags: "Information Retrieval Usability Web Mining"
+  - name: "Thomas Vollmer"
+    twitter: "tovomer"
+  - name: "Thorsten Biedenkapp"
+    twitter: "biedenkappIT"
+    tags: "Usability Social Media SEO / SMO"
+  - name: "Thorsten Barth"
+    tags: "Mobile Web, Web 2.0, Usability, Social Commerce RIA, Cloud Computing, Web Development "
+  - name: "Thorsten Winternheimer"
+    tags: "web2print preispolitik B2B"
+  - name: "Timo Derstappen"
+    twitter: "teemow"
+    tags: "Scriptsprachen Virtualisierung Datamining"
+  - name: "Tobias Reitz"
+    twitter: "don_journaille"
+    tags: "Design Web 2.0 Enterprise 2.0"
+  - name: "Tobias Günther"
+    twitter: "elaspix"
+    tags: "Web-Entrepreneurship 3D-Animationen Social Tools"
+  - name: "Tobias Utz"
+    tags: "Webservices Web 2.0 Startup Ideen"
+  - name: "Tom Klose"
+    twitter: "humanized"
+    tags: "UX Design Thinking "
+  - name: "Tom Noeding"
+    twitter: "Roquane"
+    tags: "Community Management Twitter bzw. Microblogging allgemein Social Media Strategien"
+  - name: "Tomas Caspers"
+    twitter: "tcaspers"
+    tags: "Erster Fußball-Club Köln"
+  - name: "Torsten Schollmayer"
+    twitter: "scholly_mobi"
+    tags: "mobile apps mobile usability mobile trends"
+  - name: "Ulrich Schröter"
+    tags: "CAcert Projektmanagement Eventmanagement"
+  - name: "Verena Lindner"
+    twitter: "Kommunikonautin"
+    tags: "Usability Web 2.0 Project Management"
+  - name: "Verena Osgyan"
+    tags: "Usability Social Media Online Marketing"
+  - name: "viktoria kremer"
+    tags: "information architecture design usability"
+  - name: "Waldemar Schott"
+    twitter: "wschott"
+  - name: "Wolfgang Weicht"
+    twitter: "schulezweinull"
+    tags: "UX Social Media NGO"
+  - name: "Wolfram Latschar"

@@ -103,17 +103,6 @@ Manager bei Sopra Steria GmbH
 
 ----
 
-![Markus Tacker]({{ "/images/team/markus.jpg" | prepend: site.baseurl }})
-**[Markus Tacker](http://coderbyheart.com/)**  
-[Resourceful Humans](https://resourceful-humans.com/) | Channeler of Technological Obscurities (CTO)
-
-*Ich unterstütze das BarCamp RheinMain,* weil es für mich die spannendste Veranstaltung im RheinMain-Gebiet ist und ich möchte, dass auch im nächsten Jahr ein BarCamp RheinMain statt findet.
-
-*Twitter:* [@coderbyheart](https://twitter.com/coderbyheart)  
-*Tags:* #futureofwork #softwarecraftsmanship #remote
-
-----
-
 ![Tanja Tacker]({{ "/images/team/tanja.jpg" | prepend: site.baseurl }})
 **[Tanja Tacker](https://www.xing.com/profile/Tanja_Tacker)**  
 Agile Coaching und Strategie bei [DB Systel GmbH](https://www.dbsystel.de/)

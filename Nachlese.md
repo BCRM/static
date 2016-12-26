@@ -15,6 +15,12 @@ layout: default
  * [#KoblenzDigital (und) beim #bcrm16 - maleilive](https://maleilive.wordpress.com/2016/11/20/koblenzdigital-und-beim-bcrm16/)
  * [BarCamp RheinMain (2) - fishandchips](http://blog.fishandchips.cc/2016/11/21/barcamp-rheinmain-2/)
  * [Ups, i did it again: BarCamp RheinMain 2016 - Peter Winninger](https://pwinninger.wordpress.com/2016/11/20/ups-i-did-it-again-barcamp-rheinmain-2016/)
+ * [Barcamp rheinmain 2016 - Nicole Lücking](https://www.poasworld.de/barcamp-rheinmain-2016/)
+ * [Barcamp RheinMain 2016 in Wiesbaden - Namics.](https://about.namics.com/2016/11/barcamp-rheinmain-2016-in-wiesbaden.html)
+
+## Slides
+
+ * [Einführung in die User Manipulation - Ferdinand v. Seggern](http://de.slideshare.net/FerdinandvSeggern/einfhrung-in-die-user-manipulation-70136474)
 
 ## Fotos
 

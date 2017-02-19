@@ -37,6 +37,17 @@
   })();
 
 </script>
-
+<script type="text/javascript">
+    // Responsive Youtube Videos
+    $(function () {
+        $('[data-youtube]').each(function(i, el) {
+            var $el = $(el)
+            var yt = $el.data('youtube')
+            var width = $el.width()
+            var height = Math.ceil(width * (315/560))
+            $('<iframe width="' + width + '" height="' + height + '" src="' + yt + '" frameborder="0" allowfullscreen></iframe>').appendTo($el)
+        })
+    })
+</script>
 </body>
 </html>

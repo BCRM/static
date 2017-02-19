@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Was ist das?
-video: true
+video: https://www.youtube-nocookie.com/embed/h3Y4tKfwkc8
 ---
 
 # Was ist denn ein BarCamp?

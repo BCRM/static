@@ -29,7 +29,7 @@ Norbert Gilles (Anschrift wie oben)
 
 ## Layout und Programmierung:
 
-siehe [humans.txt](/humans.txt)
+siehe <https://github.com/orgs/BCRM/people>.
 
 ## Haftungshinweis
 

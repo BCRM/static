@@ -2,3 +2,7 @@ _site
 .sass-cache
 .jekyll-metadata
 /.sass-cache
+BarCamp.iml
+BarCamp.ipr
+BarCamp.iws
+static.iml

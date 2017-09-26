@@ -6,7 +6,7 @@ order: 6
 
 # Agenda
 
-## Samstag, 19.11.2016
+## Samstag, 11.11.2017
 
 08:30h Anmeldung & Frühstück  
 09:30h **Sessionplanung**  
@@ -20,7 +20,7 @@ order: 6
 17:00h *Session F*  
 18:00h Abschlussveranstaltung Samstag
 
-## Sonntag, 20.11.2016
+## Sonntag, 12.11.2017
 
 08:15h Anmeldung & Frühstück  
 09:00h **Sessionplanung**  

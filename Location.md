@@ -25,7 +25,7 @@ Von der Autobahn A661 fährst du aus beiden Richtungen an der Ausfahrt Offenbach
 Auf dem EVO-Gelände sind begrenzt Parkplätze vorhanden (nach der Einfahrt auf der rechten Seite), doch auf dem Goethering selber findest du am Wochenende viele Parkplätze.
 
 ## Übernachtung
-Direkt gegenüber von der Zufahrt zum EVO-Gelände liegt das ibis [Styles Frankfurt Offenbach](http://www.ibis.com/de/hotel-1739-ibis-styles-frankfurt-offenbach/index.shtml). In etwa 5 Minuten Laufnähe findest du das [Best Western Macrander Hotel Frankfurt/Kaiserlei](Link zu http://www.best-western-macrander.de/).
+Direkt gegenüber von der Zufahrt zum EVO-Gelände liegt das [ibis Styles Frankfurt Offenbach](http://www.ibis.com/de/hotel-1739-ibis-styles-frankfurt-offenbach/index.shtml). In etwa 5 Minuten Laufnähe findest du das [Best Western Macrander Hotel Frankfurt/Kaiserlei](Link zu http://www.best-western-macrander.de/).
 
 <!-- 
 ### flinc

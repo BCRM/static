@@ -2,7 +2,7 @@
 layout: default
 title: Wo findet es statt?
 order: 2                  
-history: true
+history: false
 barcamp: 2017
 ---
 

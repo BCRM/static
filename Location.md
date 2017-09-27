@@ -18,7 +18,7 @@ Hier findest Du [eine Lageskizze](https://www.evo-ag.de/anfahrt-standorte/alte-s
 Du fährst bis zur Haltestelle „Kaiserlei“ mit den S-Bahnen S1, S2, S8 oder S9. Am Kaiserlei halten auch noch die Busse 103, 104, 107, 108 und 46. Von dort aus läufst du auf der Berliner Straße Richtung Offenbach Innenstadt. Am kleinen Kreisel biegst du links ab in den Goethering. Nach etwa 800 Metern siehst du auf der rechten Seite die Zufahrt zum EVO-Gelände – ab hier ist der Weg bis zur Alten Schlosserei ausgeschildert. 
 *Und das bester ist:* Die Haltestelle Kaiserlei gehört noch zum Tarifgebiet Frankfurt! Du musst also kein überteuertes Ticket bis nach Offenbach ziehen. 
 
-## mit dem Auto
+### mit dem Auto
 Von der Autobahn A661 fährst du aus beiden Richtungen an der Ausfahrt Offenbach ab. Über den Kaiserlei-Kreisel (der kein Kreisel mehr ist, sondern nun aus einer riesigen Baustelle mit verschiedenen Ampeln besteht) biegst du ab in die Strahlenberger Straße und von dort aus links in den Goethering. Die Zufahrt zum EVO-Gelände liegt rechts nach etwa 400 Metern.
 
 ### Parkplatzsituation

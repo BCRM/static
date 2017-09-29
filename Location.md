@@ -8,7 +8,7 @@ barcamp: 2017
 
 # Veranstaltungsort
 
-Das BarCamp RheinMain 2017 findet am 11./12. November 2017 statt – und zwar in Offenbach. Wir tagen in diesem Jahr in der [Alten Schlosserei](https://www.evo-ag.de/wir-in-offenbach/alte-schlosserei/) auf dem Gelände der EVO [Energieversorgung Offenbach](https://www.evo-ag.de). 
+Das BarCamp RheinMain 2017 findet am 11./12. November 2017 statt – und zwar in Offenbach. Wir tagen in diesem Jahr in der [Alten Schlosserei](https://www.evo-ag.de/wir-in-offenbach/alte-schlosserei/) auf dem Gelände der [EVO (Energieversorgung Offenbach)](https://www.evo-ag.de). 
 
 ## Anfahrt
 *Achtung:* Der Haupteingang in der Andréstraße ist am Wochenende geschlossen, du betrittst das Gelände am besten über die Zufahrt vom Goethering. 

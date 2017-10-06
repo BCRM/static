@@ -28,17 +28,17 @@ body {
 }
 
 a {
-  color: $link;
+  color: $color_link;
   text-decoration: none;
 }
 
 a {
-  color: $link;
+  color: $color_link;
   text-decoration: underline;
 }
 
 a:visited {
-  color: $link_visited;
+  color: $color_link_visited;
 }
 
 strong, b {
@@ -331,7 +331,7 @@ div.main {
           text-shadow: none;
         }
         a:hover {
-          color: #E52479;
+          color: $color_link_hover;
         }
       }
     }
@@ -433,12 +433,12 @@ blockquote {
   height: 50px;
   border: none;
   position: relative;
-  background-color: $link;
-  background-image: -webkit-gradient(radial, color-stop(0.01, rgb(255, 136, 0)), color-stop(0.99, rgb(255, 224, 0)));
-  background-image: -webkit-radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
-  background-image: -moz-radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
-  background-image: -ms-radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
-  background-image: radial-gradient(farthest-corner at 100% 100%, rgb(255, 136, 0) 1%, rgb(255, 224, 0) 99%);
+  background-color: $color_link;
+  background-image: -webkit-gradient(radial, color-stop(0.01, $color_primary), color-stop(0.99, $color_primary_offset));
+  background-image: -webkit-radial-gradient(farthest-corner at 100% 100%, $color_primary 1%, $color_primary_offset 99%);
+  background-image: -moz-radial-gradient(farthest-corner at 100% 100%, $color_primary 1%, $color_primary_offset 99%);
+  background-image: -ms-radial-gradient(farthest-corner at 100% 100%, $color_primary 1%, $color_primary_offset 99%);
+  background-image: radial-gradient(farthest-corner at 100% 100%, $color_primary 1%, $color_primary_offset 99%);
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Style=2)";
   filter: progid:DXImageTransform.Microsoft.Alpha(Style=2);
   width: 200px;

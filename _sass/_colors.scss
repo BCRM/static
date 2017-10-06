@@ -1,11 +1,19 @@
-$bg: #fff;
-$anti_bg: #000;
-$text: #666;
-$link: #F90;
-$link_visited: #C40; /*darken($link, 20);*/
-$footer: #2f67ff;
-$light_shadow: #7F7F7F;
-$dark_shadow: #114e7a;
+
+$color_primary:#0082d7;
+$color_primary_offset: #61c0d7;
+
 $color_a: #003995;
 $color_b: #900;
 $color_c: #F90;
+
+
+$bg: #fff;
+$anti_bg: #000;
+$text: #444444;
+$color_link: $color_primary;
+$color_link_hover: lighten($color_link, 20);
+$color_link_visited: darken($color_link, 20);
+
+$footer: #2f67ff;
+$light_shadow: #7F7F7F;
+$dark_shadow: #114e7a;

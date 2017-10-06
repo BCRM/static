@@ -4,16 +4,16 @@ title: Was ist das?
 video: https://www.youtube-nocookie.com/embed/h3Y4tKfwkc8
 ---
 
+# Zum BarCamp anmelden
+
+<a href="https://bcrm17.yapsody.com/event/index/146661/barcamp-rheinmain-2017" class="button center" target="blank">Jetzt anmelden</a>
+
 # Was ist denn ein BarCamp?
 
 Ein BarCamp ist eine andere Form von Konferenz. Im Gegensatz zu den gewöhnlichen Fachkonferenzen erfolgt der Wissensaustausch bei BarCamps gegenseitig. Das heißt, es gibt keine designierten Sprecher, die Beiträge werden allesamt von den Besuchern gestaltet und auch gehalten.
 
-Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vorträge sind sogar erwünscht. Die Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, um alles andere kümmern sich die Teilnehmer selbst.
+Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vorträge sind sogar erwünscht. Die Organisatoren stellen lediglich Termin und Räumlichkeiten zur Verfügung, um alles andere kümmern sich die Teilnehmer selbst. Dieses Jahr sind wir bei der [EVO (Energieversorgung Offenbach)](https://www.evo-ag.de) zu Gast.
 
-Dieses Jahr sind wir mit Unterstützung des Studiengangs Kommunikationsdesign an der Hochschule RheinMain in Wiesbaden zu Gast.
-
-
-<a href="https://bcrm17.yapsody.com/event/index/146661/barcamp-rheinmain-2017" class="button" target="blank">Jetzt anmelden</a>
 
 ## Newsletter
 

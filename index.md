@@ -12,6 +12,9 @@ Auch eine Themenvorgabe wird bewusst vermieden, fachfremde Teilnehmer und Vortr√
 
 Dieses Jahr sind wir mit Unterst√ºtzung des Studiengangs Kommunikationsdesign an der Hochschule RheinMain in Wiesbaden zu Gast.
 
+
+<a href="https://bcrm17.yapsody.com/event/index/146661/barcamp-rheinmain-2017" class="button" target="blank">Jetzt anmelden</a>
+
 ## Newsletter
 
 Hier kannst Du dich zu unserem Newsletter anmelden.

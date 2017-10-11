@@ -5,6 +5,31 @@
   start: 2017-11-11T08:30:00+01:00
   end: 2017-11-12T08:15:00+01:00
   description: Das BarCamp RheinMain 2017 findet am 11./12.11.2017 in Offenbach statt.
+  sponsors:
+    - title: DB Systel GmbH
+      image: db.svg
+      url: http://www.dbsystel.de/dbsystel/karriere/
+    - title: "DPC \\| Design Print Cut"
+      image: dpc.svg
+      url: http://www.design-print-cut.de/
+    - title: giinco
+      image: giinco.svg
+      url: http://www.giinco.de/
+    - title: Protect Human Rights
+      image: menschenrechte.svg
+      url: http://www.un.org/en/sections/what-we-do/protect-human-rights/index.html
+    - title: LindenKaffee – Service erleben und genießen.
+      image: lindenkaffee.svg
+      url: http://www.lindenkaffee.com/
+    - title: NAMICS
+      image: namics.svg
+      url: http://www.namics.com/
+    - title: Verein zur Förderung der Netzkultur im Rhein-Main-Gebiet e.V.
+      image: netzkultur.svg
+      url: http://netzkultur-rheinmain.de/
+    - title: Refugees Welcome
+      image: refugeeswelcome.svg
+      url: https://www.proasyl.de/
 2016:
   title: Wiesbaden 19.+20.11.2016
   latitude: 50.096092

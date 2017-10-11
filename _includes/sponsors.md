@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Die Möglichmacher
 
 Die Kosten für das BarCamp werden nur zu einem kleinen Teil durch die Einnahmen aus den [Ticket-Verkäufen]({{ "/Tickets.html" | prepend:site.baseurl }}) gedeckt.
@@ -8,7 +12,7 @@ wieder Sponsoren gewinnen konnten, die das BarCamp Konzept unterstützen.
 {% if page.barcamp %}{% assign barcampId = page.barcamp %}{% else %}{% assign barcampId = site.barcamp %}{% endif %}
 {% assign barcamp = site.data.barcamps[barcampId] %}
 {% for sponsor in barcamp.sponsors %}
- * [{{ sponsor.title }}]({{ sponsor.url }}){% endfor %}
+ * [{{ sponsor.title }}]({{ sponsor.url }}){% endfor %}s
 
 ## Werden Sie Sponsor und unterstützen Sie das BarCamp RheinMain
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Wer bezahlt's?
-order: 3
-history:false
+order: 4
+history:true
 slider: true
 ---
 

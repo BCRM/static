@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Die Möglichmacher
 
 Die Kosten für das BarCamp werden nur zu einem kleinen Teil durch die Einnahmen aus den [Ticket-Verkäufen]({{ "/Tickets.html" | prepend:site.baseurl }}) gedeckt.

@@ -24,6 +24,9 @@ Von der Autobahn A661 fährst du aus beiden Richtungen an der Ausfahrt Offenbach
 ### Parkplatzsituation
 Auf dem EVO-Gelände sind begrenzt Parkplätze vorhanden (nach der Einfahrt auf der rechten Seite), doch auf dem Goethering selber findest du am Wochenende viele Parkplätze.
 
+### Samstag Abend
+Bock auf [Hafen 2] (http://hafen2.net/) am Samstag, den 11.11. - direkt nach dem ersten Tag des #bcrm? In nur 3 Minuten Fußweg Entfernung vom Gelände der EVO können wir ne Runde chillen in dieser tollen Location direkt am Main. Und wer mag, kann sich ab 20,30 Uhr noch einen spannenden Film angucken. Wir freuen uns auf einen tollen Abend mit euch!
+
 ## Übernachtung
 Direkt gegenüber von der Zufahrt zum EVO-Gelände liegt das [ibis Styles Frankfurt Offenbach](http://www.ibis.com/de/hotel-1739-ibis-styles-frankfurt-offenbach/index.shtml). In etwa 5 Minuten Laufnähe findest du das [Best Western Macrander Hotel Frankfurt/Kaiserlei](Link zu http://www.best-western-macrander.de/).
 

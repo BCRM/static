@@ -45,6 +45,9 @@
     - title: Scholz & Volkmer
       image: s-v.svg
       url: http://www.s-v.de/
+    - title: Quora
+      image: quora.svg
+      url: https://de.quora.com/topic/BarCamp-RheinMain
 2016:
   title: Wiesbaden 19.+20.11.2016
   latitude: 50.096092

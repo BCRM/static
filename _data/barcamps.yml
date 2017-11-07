@@ -6,6 +6,9 @@
   end: 2017-11-12T08:15:00+01:00
   description: Das BarCamp RheinMain 2017 findet am 11./12.11.2017 in Offenbach statt.
   sponsors:
+    - title: Caffezza – Cold Brew Coffee Lemonade
+      image: caffezza.svg
+      url: https://www.caffezza.de/
     - title: DB Systel GmbH
       image: db.svg
       url: http://www.dbsystel.de/dbsystel/karriere/

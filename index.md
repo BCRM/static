@@ -4,9 +4,6 @@ title: Was ist das?
 video: https://www.youtube-nocookie.com/embed/h3Y4tKfwkc8
 ---
 
-# Zum BarCamp anmelden
-
-<a href="https://bcrm17.yapsody.com/event/index/146661/barcamp-rheinmain-2017" class="button center" target="blank">Jetzt anmelden</a>
 
 # Was ist denn ein BarCamp?
 
